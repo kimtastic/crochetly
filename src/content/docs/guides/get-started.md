@@ -1,0 +1,78 @@
+---
+title: Get started
+description: A beginner's guide to crochet
+---
+Crochet is a relaxing and creative craft that uses yarn and a hook to create fabric. This guide will help you get started with the essentials.
+
+## What you need to get started
+
+- **Yarn**: Comes in different weights (thickness). Beginners often start with medium worsted weight (#4).
+- **Crochet Hook**: Available in various sizes (measured in mm). Choose the size recommended for your yarn.
+- **Tapestry Needle**: For weaving in ends.
+- **Stitch Markers**: Help mark places in your work and to keep track of rounds.
+- **Scissors**
+
+
+## Basic terminology
+
+| Term           | Meaning                              |
+|----------------|------------------------------------|
+| Chain `ch`     | The foundation row of loops         |
+| Slip Stitch `sl st` | Join or move stitches without adding height |
+| Single Crochet `sc` | Basic short stitch                |
+| Double Crochet `dc` | Taller stitch than single crochet |
+| Yarn Over `yo` | Wrapping yarn over the hook         |
+| Stitch `st`    | Each loop or unit created in fabric |
+
+## Basic terminology
+- **Yarn**: Comes in different weights (thickness). Beginners often start with medium worsted weight (#4).
+- **Crochet Hook**: Available in various sizes (measured in mm). Choose the size recommended for your yarn.
+- **Tapestry Needle**: For weaving in ends.
+- **Stitch Markers**: Help mark places in your work and to keep track of rounds.
+- **Scissors**
+
+## Basic stitches
+
+If you are new to crochet, there are many [YouTube crochet tutorials](https://www.youtube.com/results?search_query=crochet+tutorials) that provide clear, helpful guidance for crochet stitches. 
+
+### Slip knot 
+```plaintext
+1. Loop the yarn, insert the hook through the loop, and pull it through to make a loop.
+2. Pull gently on both yarn ends to tighten the knot against the hook.
+```
+
+### Chain `ch`
+```plaintext
+1. Make a slip knot on your hook.
+2. Yarn over, pull through the loop.
+3. Repeat to desired length.
+```
+
+### Single crochet `sc`
+```plaintext
+1. Insert hook into stitch.
+2. Yarn over, pull through stitch (2 loops on hook).
+3. Yarn over, pull through both loops.
+```
+
+### Double crochet `dc`
+```plaintext
+1. Yarn over.
+2. Insert hook into stitch.
+3. Yarn over, pull through stitch (3 loops on hook).
+4. Yarn over, pull through 2 loops.
+5. Yarn over, pull through remaining 2 loops.
+```
+
+## Reading a crochet pattern
+
+See [reading crochet patterns](reading-crochet-patterns.md) for more information.
+
+## Reading a yarn labels
+
+See [reading yarn labels](reading-yarn-labels.md) for more information.
+
+## Tips for beginners
+
+See [tips for beginngers](beginner-tips.md) for more information.
+
