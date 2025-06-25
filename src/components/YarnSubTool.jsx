@@ -89,7 +89,7 @@ export default function YarnSubstitutionTool() {
         </select>
         <input 
           type="number" 
-          placeholder={`Amount you have (${unit})`}
+          placeholder={`Your amount (${unit})`}
           value={targetYarn.amount} 
           onChange={e => setTargetYarn(prev => ({ ...prev, amount: e.target.value }))} 
         />
@@ -113,7 +113,7 @@ export default function YarnSubstitutionTool() {
         <label>Amount converted:</label>
         <input 
           type="text" 
-          placeholder={`Converted amount (${unit})`}
+          placeholder={`Conversion (${unit})`}
           value={result ? result.substituteAmount : ''} 
           readOnly
           style={{backgroundColor: '#f0f0f0'}}
@@ -130,6 +130,7 @@ export default function YarnSubstitutionTool() {
       {/* CSS Styles */}
       <style>
         {`
+        }
           .btn {
             background: #007bff;
             color: white;
@@ -140,7 +141,7 @@ export default function YarnSubstitutionTool() {
             margin-top: 1rem;
             display: block;
             font-size: 16px;
-          }
+          } 
           .btn:hover {
             background: #0056b3;
           }
@@ -153,6 +154,11 @@ export default function YarnSubstitutionTool() {
           select, input {
             margin: 0.5rem 0;
             display: block;
+          }
+            /* Responsive design */
+        @media (max-width: 768px) {
+          .grid-tool-wrapper {
+            padding: 1rem;
           }
         `}
       </style>
