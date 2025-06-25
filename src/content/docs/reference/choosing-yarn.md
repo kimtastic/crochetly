@@ -62,6 +62,23 @@ The material the yarn is made from influences feel, durability, and care. Differ
 
 ## Yardage / meterage
 
+# Yarn Weight Categories: Length per 100 grams
+
+| **Yarn Weight** | **Category Name**  | **Yardage (per 100g)** | **Meterage (per 100g)** |
+|-----------------|--------------------|------------------------|-------------------------|
+| 0               | Lace               | 800–1200 yards         | 730–1100 meters         |
+| 1               | Super Fine         | 400–600 yards          | 365–550 meters          |
+| 2               | Fine               | 325–450 yards          | 300–410 meters          |
+| 3               | Light              | 240–340 yards          | 220–310 meters          |
+| 4               | Medium (Worsted)   | 180–240 yards          | 165–220 meters          |
+| 5               | Bulky              | 100–140 yards          | 90–130 meters           |
+| 6               | Super Bulky        | 60–100 yards           | 55–90 meters            |
+| 7               | Jumbo              | <50 yards              | <45 meters              |
+
+> **Notes:**  
+- These values are approximate averages; actual yardage varies by fiber and brand.  
+- Finer yarns have more length per 100g due to thinner strands.
+
 - Always check the length of yarn per skein.
 - Project requirements often list yarn in yards or meters.
 - Longer yardage means fewer joins and ends to weave in.
