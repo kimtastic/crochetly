@@ -2,14 +2,14 @@ import { useState } from 'react';
 
 export default function YarnSubstitutionTool() {
   const yarnWeights = [
-    { id: '0', name: 'Lace (0)', avgMeters: 915 }, // average of 730-1100m per 100g
-    { id: '1', name: 'Super Fine (1)', avgMeters: 457.5 }, // average of 365-550m per 100g
-    { id: '2', name: 'Fine (2)', avgMeters: 355 }, // average of 300-410m per 100g
-    { id: '3', name: 'Light (3)', avgMeters: 265 }, // average of 220-310m per 100g
-    { id: '4', name: 'Medium/Worsted (4)', avgMeters: 192.5 }, // average of 165-220m per 100g
-    { id: '5', name: 'Bulky (5)', avgMeters: 110 }, // average of 90-130m per 100g
-    { id: '6', name: 'Super Bulky (6)', avgMeters: 72.5 }, // average of 55-90m per 100g
-    { id: '7', name: 'Jumbo (7)', avgMeters: 50 } // estimated <45m per 100g
+    { id: '0', name: 'Lace (0)', avgMeters: 915 },
+    { id: '1', name: 'Super Fine (1)', avgMeters: 457.5 },
+    { id: '2', name: 'Fine (2)', avgMeters: 355 },
+    { id: '3', name: 'Light (3)', avgMeters: 265 },
+    { id: '4', name: 'Medium/Worsted (4)', avgMeters: 192.5 },
+    { id: '5', name: 'Bulky (5)', avgMeters: 110 },
+    { id: '6', name: 'Super Bulky (6)', avgMeters: 72.5 },
+    { id: '7', name: 'Jumbo (7)', avgMeters: 50 }
   ];
 
   const [targetYarn, setTargetYarn] = useState({ weight: '', amount: '' });
@@ -18,6 +18,12 @@ export default function YarnSubstitutionTool() {
   const [result, setResult] = useState(null);
 
   const handleCalc = () => {
+    // 👈 ADDED debug logs
+    console.log('Clicked calculate');
+    console.log('Target Yarn:', targetYarn);
+    console.log('Substitute Yarn:', substituteYarn);
+    console.log('Unit:', unit);
+
     if (!targetYarn.weight || !targetYarn.amount || !substituteYarn.weight) {
       alert('Please fill in all fields');
       return;
@@ -37,16 +43,14 @@ export default function YarnSubstitutionTool() {
       return;
     }
 
-    // Convert input to meters if needed for calculation
     const targetAmountInMeters = unit === 'meters' ? targetAmount : targetAmount * 0.9144;
 
-    // Simple ratio calculation: if you need X meters of target yarn,
-    // you need (X * substitute_weight / target_weight) meters of substitute yarn
     const conversionRatio = targetWeight.avgMeters / substituteWeight.avgMeters;
     const substituteAmountInMeters = targetAmountInMeters * conversionRatio;
 
-    // Convert result back to user's preferred unit
-    const substituteAmountResult = unit === 'meters' ? substituteAmountInMeters : substituteAmountInMeters / 0.9144;
+    const substituteAmountResult = unit === 'meters'
+      ? substituteAmountInMeters
+      : substituteAmountInMeters / 0.9144;
 
     let advice = '';
     if (conversionRatio > 1.2) {
@@ -56,6 +60,14 @@ export default function YarnSubstitutionTool() {
     } else {
       advice = 'These yarn weights are similar - the substitution should work well with minimal adjustments.';
     }
+
+    // 👈 ADDED log for final result
+    console.log('Final Result:', {
+      advice,
+      substituteAmount: substituteAmountResult.toFixed(1),
+      conversionRatio: conversionRatio.toFixed(2),
+      unit
+    });
 
     setResult({
       advice,
