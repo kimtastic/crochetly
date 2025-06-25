@@ -1,0 +1,19 @@
+---
+import { LinkCard } from '@astrojs/starlight/components';
+import { getCollection } from 'astro:content';
+import FluidGrid from './FluidGrid.astro';
+
+await getCollection('docs', (entry) => entry.id?.startsWith('examples/'))
+---
+
+<FluidGrid>
+	{
+		examples.map((demo) => (
+			<LinkCard
+				title={demo.data.title}
+				description={demo.data.description}
+				href={'/' + demo.id + '/'}
+			/>
+		))
+	}
+</FluidGrid>
