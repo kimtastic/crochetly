@@ -14,22 +14,36 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, Aside } from '@astrojs/starlight/components';
 
 ## Simplifying the language and learning of crochet
 
 <CardGrid>
-	<Card title="Get started" icon="pencil">
+	<Card title="Get started" icon="star">
 		 [Get started](guides/get-started) with your first crochet project with the basics. 
 	</Card>
-	<Card title="Templates" icon="add-document">
+	<Card title="Templates" icon="puzzle">
 		Create a crochet pattern from a [template](templates/crochet-pattern-mdtemplate/).
 	</Card>
-	<Card title="Abbreviations" icon="setting">
+	<Card title="Abbreviations" icon="pencil">
 		Learn what crochet [abbreviations](abbreviations/crochet-abbreviations-us/) mean.
 	</Card>
 	<Card title="Troubleshooting" icon="open-book">
 		Learn more how to [troubleshoot](reference/troubleshooting/) your crochet project.
 	</Card>
 </CardGrid>
+
+## Interactive stitch library 
+We've built custom tools to make your crochet journey easier and more enjoyable.
+<CardGrid>
+	<Card title="Stitch library" icon="information">
+		Learn more about crochet stitches in the <a href="reference/stitch-library/">stitch library</a>.
+	</Card>
+	<Card title="Yarn substitution" icon="heart">
+		Quickly find a way to <a href="templates/yarn-sub">convert yarn</a>.
+	</Card>
+</CardGrid>
+
+
+
 
