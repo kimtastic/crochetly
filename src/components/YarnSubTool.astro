@@ -1,0 +1,199 @@
+---
+// src/components/YarnSubstitutionTool.astro
+// This component is a self-contained tool for calculating yarn substitutions.
+// It uses React for interactivity and is isolated within a Shadow DOM to prevent style conflicts.
+---
+<div id="yarn-substitution-tool-container" class="w-full">
+  <div class="loading-message text-center py-12">
+    <div class="text-4xl mb-4">⚖️</div>
+    <p class="text-gray-600">Loading Yarn Substitution Tool...</p>
+  </div>
+</div>
+
+<script>
+  // Dynamically load React and ReactDOM from a CDN
+  const reactScript = document.createElement('script');
+  reactScript.src = 'https://unpkg.com/react@18/umd/react.development.js';
+  document.head.appendChild(reactScript);
+
+  reactScript.onload = () => {
+    const reactDOMScript = document.createElement('script');
+    reactDOMScript.src = 'https://unpkg.com/react-dom@18/umd/react-dom.development.js';
+    document.head.appendChild(reactDOMScript);
+    reactDOMScript.onload = initializeYarnTool;
+  };
+
+  function initializeYarnTool() {
+    const { useState, createElement } = React;
+    const { createRoot } = ReactDOM;
+
+    const YarnSubstitutionTool = () => {
+      // Data for standard yarn weights and their average meters per 100g
+      const yarnWeights = [
+        { id: '0', name: 'Lace (0)', avgMeters: 800 },
+        { id: '1', name: 'Super Fine (1)', avgMeters: 400 },
+        { id: '2', name: 'Fine (2)', avgMeters: 300 },
+        { id: '3', name: 'Light (3)', avgMeters: 225 },
+        { id: '4', name: 'Medium/Worsted (4)', avgMeters: 180 },
+        { id: '5', name: 'Bulky (5)', avgMeters: 110 },
+        { id: '6', name: 'Super Bulky (6)', avgMeters: 70 },
+        { id: '7', name: 'Jumbo (7)', avgMeters: 40 }
+      ];
+
+      // State management for form inputs and results
+      const [targetYarn, setTargetYarn] = useState({ weight: '', amount: '' });
+      const [substituteYarn, setSubstituteYarn] = useState({ weight: '' });
+      const [unit, setUnit] = useState('meters');
+      const [result, setResult] = useState(null);
+      const [error, setError] = useState('');
+
+      // Handles the calculation logic
+      const handleCalc = () => {
+        setError('');
+        setResult(null);
+
+        if (!targetYarn.weight || !targetYarn.amount || !substituteYarn.weight) {
+          setError('Please fill in all required fields.');
+          return;
+        }
+
+        const targetAmount = parseFloat(targetYarn.amount);
+        if (isNaN(targetAmount) || targetAmount <= 0) {
+          setError('Please enter a valid, positive amount for the target yarn.');
+          return;
+        }
+
+        const targetWeightInfo = yarnWeights.find(w => w.id === targetYarn.weight);
+        const substituteWeightInfo = yarnWeights.find(w => w.id === substituteYarn.weight);
+
+        if (!targetWeightInfo || !substituteWeightInfo) {
+          setError('Invalid yarn weights selected. Please try again.');
+          return;
+        }
+
+        const targetAmountInMeters = unit === 'meters' ? targetAmount : targetAmount * 0.9144;
+        const ratio = substituteWeightInfo.avgMeters / targetWeightInfo.avgMeters;
+        const substituteAmountInMeters = targetAmountInMeters * ratio;
+        const finalSubstituteAmount = unit === 'meters' ? substituteAmountInMeters : substituteAmountInMeters / 0.9144;
+
+        let advice = '';
+        if (ratio > 1.2) {
+          advice = 'Heads up! The substitute yarn is significantly thinner than the original. You will need more length to achieve a similar fabric density, and the drape will be different. A gauge swatch is highly recommended.';
+        } else if (ratio < 0.8) {
+          advice = 'Heads up! The substitute yarn is significantly thicker than the original. You will need less length, but the resulting fabric will be much denser and stiffer. A gauge swatch is highly recommended.';
+        } else {
+          advice = 'These yarn weights are quite similar. This should be a good substitution with minimal adjustments needed. A gauge swatch is still a good idea!';
+        }
+
+        setResult({
+          advice,
+          substituteAmount: finalSubstituteAmount.toFixed(1),
+          unit
+        });
+      };
+      
+      return createElement('div', { className: 'max-w-4xl mx-auto p-6 bg-white rounded-xl shadow-lg' }, [
+        createElement('h2', { className: 'text-3xl font-bold text-gray-800 mb-2' }, 'Yarn Substitution Calculator'),
+        createElement('p', { className: 'text-gray-600 mb-6' }, 'Find the right amount of substitute yarn for your next project.'),
+        error && createElement('div', { className: 'bg-red-100 border-l-4 border-red-500 text-red-700 p-4 mb-6 rounded-md' }, error),
+        createElement('div', { className: 'grid md:grid-cols-2 gap-8' }, [
+          createElement('div', { className: 'space-y-4 p-6 bg-gray-50 rounded-lg border' }, [
+            createElement('h3', { className: 'text-xl font-semibold text-gray-700' }, 'Original Yarn'),
+            createElement('div', {}, [
+              createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-1' }, 'Yarn Weight'),
+              createElement('select', { 
+                value: targetYarn.weight, 
+                onChange: e => setTargetYarn(prev => ({ ...prev, weight: e.target.value })),
+                className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+              }, [
+                createElement('option', { value: '' }, 'Select a weight'),
+                ...yarnWeights.map(w => createElement('option', { key: w.id, value: w.id }, w.name))
+              ])
+            ]),
+            createElement('div', {}, [
+              createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-1' }, 'Amount You Have'),
+              createElement('div', { className: 'flex gap-2' }, [
+                createElement('input', {
+                  type: 'number',
+                  placeholder: 'e.g., 500',
+                  value: targetYarn.amount,
+                  onChange: e => setTargetYarn(prev => ({ ...prev, amount: e.target.value })),
+                  className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+                }),
+                createElement('select', { 
+                  value: unit, 
+                  onChange: e => setUnit(e.target.value),
+                  className: 'p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+                }, [
+                  createElement('option', { value: 'meters' }, 'Meters'),
+                  createElement('option', { value: 'yards' }, 'Yards')
+                ])
+              ])
+            ])
+          ]),
+          createElement('div', { className: 'space-y-4 p-6 bg-gray-50 rounded-lg border' }, [
+            createElement('h3', { className: 'text-xl font-semibold text-gray-700' }, 'Substitute Yarn'),
+            createElement('div', {}, [
+              createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-1' }, 'Yarn Weight'),
+              createElement('select', { 
+                value: substituteYarn.weight, 
+                onChange: e => setSubstituteYarn(prev => ({ ...prev, weight: e.target.value })),
+                className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+              }, [
+                createElement('option', { value: '' }, 'Select a weight'),
+                ...yarnWeights.map(w => createElement('option', { key: w.id, value: w.id }, w.name))
+              ])
+            ]),
+            createElement('div', { className: 'mt-6' }, [
+                createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-1' }, 'Required Amount'),
+                createElement('input', {
+                    type: 'text',
+                    placeholder: 'Result will appear here',
+                    value: result ? `${result.substituteAmount} ${result.unit}` : '',
+                    readOnly: true,
+                    className: 'w-full p-2 border border-gray-300 rounded-lg bg-gray-100 text-lg font-semibold text-gray-800'
+                })
+            ])
+          ])
+        ]),
+        createElement('div', { className: 'mt-8 flex justify-center' }, [
+          createElement('button', { 
+            onClick: handleCalc,
+            className: 'px-8 py-3 bg-pink-600 text-white font-bold rounded-lg hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2 transition-colors'
+          }, 'Calculate Substitution')
+        ]),
+        result && createElement('div', { className: 'mt-8 p-6 bg-blue-50 border-l-4 border-blue-500 rounded-md' }, [
+            createElement('h4', {className: 'font-bold text-blue-800'}, 'Substitution Advice'),
+            createElement('p', { className: 'text-blue-700 mt-2' }, result.advice)
+        ])
+      ]);
+    };
+
+    // ** NEW: Mount the React component inside a Shadow DOM for style encapsulation **
+    const container = document.getElementById('yarn-substitution-tool-container');
+    if (container) {
+      container.innerHTML = ''; // Clear loading message
+      
+      // Create a Shadow DOM
+      const shadowRoot = container.attachShadow({ mode: 'open' });
+
+      // 1. Link Tailwind CSS inside the Shadow DOM
+      const tailwindLink = document.createElement('link');
+      tailwindLink.rel = 'stylesheet';
+      tailwindLink.href = 'https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css';
+      shadowRoot.appendChild(tailwindLink);
+
+      // 2. Create a root element for React inside the Shadow DOM
+      const reactRootEl = document.createElement('div');
+      shadowRoot.appendChild(reactRootEl);
+
+      // 3. Render the React app into the Shadow DOM's root element
+      const root = createRoot(reactRootEl);
+      root.render(createElement(YarnSubstitutionTool));
+    }
+  }
+</script>
+
+<!-- The global style import has been removed from here to prevent conflicts -->
+
+
