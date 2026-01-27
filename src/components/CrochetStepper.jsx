@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import pkg from 'react-stitch';
+import pkg from 'stitch';
 const { GridBlock, GridCell } = pkg;
 
 export default function CrochetStepper({ steps = [] }) {
