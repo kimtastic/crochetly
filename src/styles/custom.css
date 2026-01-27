@@ -49,6 +49,18 @@
     transform: translateY(-2px);
   }
 
+  /* === Update Button Colors to Match Brand === */
+  .sl-link-button.primary {
+    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-secondary));
+    border-color: hsl(200, 65%, 70%);
+    color: white;
+  }
+
+  .sl-link-button.primary:hover {
+    background: linear-gradient(135deg, hsl(200, 75%, 65%), var(--gradient-secondary));
+    transform: translateY(-1px);
+  }
+
   /* Fix hero image container and elements */
   [data-has-hero] .hero {
     background: transparent;
