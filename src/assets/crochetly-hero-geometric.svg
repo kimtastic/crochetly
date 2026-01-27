@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Geometric pattern with triangles and circles -->
+  <g filter="url(#crochet-glow)">
+    <!-- Large background circles -->
+    <circle cx="256" cy="300" r="80" fill="url(#purple-gradient)" opacity="0.3"/>
+    <circle cx="768" cy="300" r="80" fill="url(#purple-gradient)" opacity="0.3"/>
+    <circle cx="512" cy="200" r="120" fill="url(#purple-gradient)" opacity="0.25"/>
+    <circle cx="512" cy="200" r="90" fill="url(#blue-gradient)" opacity="0.4"/>
+    
+    <!-- Geometric triangles -->
+    <path d="M 512 380 L 380 520 L 640 520 Z" fill="url(#purple-gradient)" opacity="0.6"/>
+    <path d="M 400 400 L 320 500 L 480 500 Z" fill="url(#blue-gradient)" opacity="0.6"/>
+    <path d="M 600 400 L 550 480 L 650 480 Z" fill="url(#purple-gradient)" opacity="0.6"/>
+    <path d="M 200 600 L 150 550 L 250 550 Z" fill="url(#blue-gradient)" opacity="0.6"/>
+    
+    <!-- Medium circles pattern -->
+    <circle cx="300" cy="650" r="60" fill="none" stroke="url(#purple-gradient)" stroke-width="3" opacity="0.8"/>
+    <circle cx="450" cy="650" r="60" fill="none" stroke="url(#blue-gradient)" stroke-width="3" opacity="0.8"/>
+    <circle cx="600" cy="650" r="60" fill="none" stroke="url(#purple-gradient)" stroke-width="3" opacity="0.8"/>
+    <circle cx="700" cy="650" r="60" fill="none" stroke="url(#blue-gradient)" stroke-width="3" opacity="0.8"/>
+    
+    <!-- Small decorative circles -->
+    <circle cx="256" cy="750" r="40" fill="url(#purple-gradient)" opacity="0.5"/>
+    <circle cx="768" cy="750" r="40" fill="url(#purple-gradient)" opacity="0.5"/>
+    <circle cx="350" cy="800" r="30" fill="url(#blue-gradient)" opacity="0.4"/>
+    <circle cx="450" cy="800" r="30" fill="url(#blue-gradient)" opacity="0.4"/>
+    <circle cx="550" cy="800" r="30" fill="url(#purple-gradient)" opacity="0.4"/>
+    <circle cx="650" cy="800" r="30" fill="url(#blue-gradient)" opacity="0.4"/>
+    
+    <!-- Bottom accent triangles -->
+    <path d="M 200 900 L 170 950 L 230 950 Z" fill="url(#purple-gradient)" opacity="0.7"/>
+    <path d="M 400 900 L 380 950 L 420 950 Z" fill="url(#blue-gradient)" opacity="0.7"/>
+    <path d="M 600 900 L 580 950 L 620 950 Z" fill="url(#purple-gradient)" opacity="0.7"/>
+    <path d="M 800 900 L 780 950 L 820 950 Z" fill="url(#blue-gradient)" opacity="0.7"/>
+  </g>
+  
+  <!-- Definitions for gradients -->
+  <defs>
+    <linearGradient id="purple-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#c746ef;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="blue-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Subtle glow filter for depth -->
+    <filter id="crochet-glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>

@@ -1,0 +1,90 @@
+@layer starlight.custom {
+  /* === Color Variables === */
+  :root {
+    /* Gradient Colors - Purple/Pink & Blue Theme */
+    --gradient-primary-hsl: 320, 70%, 65%;    /* Purple/pink */
+    --gradient-secondary-hsl: 200, 65%, 60%;  /* Blue */
+    
+    /* Dark Mode Opacity (more prominent) */
+    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.25);
+    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.2);
+  }
+
+  /* Light Mode - More prominent but still readable */
+  :root[data-theme='light'],
+  [data-theme='light'] ::backdrop {
+    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.18);
+    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.12);
+  }
+
+  /* === Full Page Background Gradients === */
+  .page {
+    background: 
+      linear-gradient(215deg, var(--gradient-overlay) 0%, transparent 40%),
+      linear-gradient(135deg, var(--gradient-secondary) 0%, transparent 45%),
+      radial-gradient(var(--gradient-overlay), transparent 50%) no-repeat -30vw -25vh / 140vw 200vh,
+      radial-gradient(var(--gradient-secondary), transparent 55%) no-repeat 75% calc(100% + 20rem) / 60rem 30rem;
+    background-attachment: fixed;
+    background-color: var(--sl-color-bg);
+  }
+
+  /* === Hero Image Enhancement === */
+  [data-has-hero] .hero img,
+  [data-has-hero] .hero svg {
+    background: transparent;
+    filter: 
+      drop-shadow(0 0 2rem var(--gradient-overlay))
+      drop-shadow(0 4px 1rem rgba(0, 0, 0, 0.1));
+    transition: filter 0.3s ease;
+    border: none;
+    outline: none;
+    background-blend-mode: multiply;
+  }
+
+  [data-has-hero] .hero img:hover,
+  [data-has-hero] .hero svg:hover {
+    filter: 
+      drop-shadow(0 0 3rem var(--gradient-overlay))
+      drop-shadow(0 8px 2rem rgba(0, 0, 0, 0.15));
+    transform: translateY(-2px);
+  }
+
+  /* Fix hero image container and elements */
+  [data-has-hero] .hero {
+    background: transparent;
+  }
+
+  [data-has-hero] .hero picture {
+    background: transparent;
+  }
+
+  [data-has-hero] .hero picture img,
+  [data-has-hero] .hero picture svg {
+    border: none !important;
+    outline: none !important;
+    background: transparent !important;
+    padding: 0;
+    margin: 0;
+  }
+
+  /* === Additional body gradient overlay for more prominence === */
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(var(--gradient-secondary) 0%, transparent 70%);
+    opacity: 0.3;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+  /* Ensure proper layering with Starlight styles */
+  .page {
+    background: none;
+    position: relative;
+    z-index: 1;
+  }
+}
