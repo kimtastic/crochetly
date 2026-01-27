@@ -6,16 +6,21 @@
 - **Primary (Purple/Pink):** `hsl(320, 70%, 65%)`
 - **Secondary (Blue):** `hsl(200, 65%, 60%)`
 
-### Opacity Values
-- **Dark Mode Overlay:** 0.25 (primary), 0.20 (secondary)
-- **Light Mode Overlay:** 0.18 (primary), 0.12 (secondary)
+### Opacity Values (Payabli-inspired)
+- **Dark Mode Overlay:** 0.35 (primary), 0.28 (secondary)
+- **Light Mode Overlay:** 0.22 (primary), 0.16 (secondary)
 - **Additional Body Overlay:** 0.3 (secondary radial gradient)
 
 ## 🖼️ Hero Images
-- **Current:** `/assets/crochetly-hero-geometric.svg` (3KB, 1024x1024px, geometric SVG)
-- **Format:** Custom SVG with triangles and circles in brand colors
+- **Current:** `/assets/crochetly-concentric.svg` (3KB, 1024x1024px, concentric SVG)
+- **Format:** Custom SVG with concentric circles in brand colors
 - **Placement:** Left-aligned in hero section
-- **Note:** Geometric pattern with purple/pink and blue gradients
+- **Note:** Concentric circles design with enhanced brand colors
+
+### 🎨 Enhanced Color Scheme
+- **Purple/Pink:** Enhanced from `#c746ef` to `#a855f7` for more vibrancy
+- **Blue:** Enhanced from `#3b82f6` to `#4a90e2` for better contrast
+- **Radial Gradients:** Added depth with radial gradient variations
 - **Design:** Modern abstract composition with no white background
 
 ### 🎨 Design Elements

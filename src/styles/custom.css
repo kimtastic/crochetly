@@ -5,25 +5,25 @@
     --gradient-primary-hsl: 320, 70%, 65%;    /* Purple/pink */
     --gradient-secondary-hsl: 200, 65%, 60%;  /* Blue */
     
-    /* Dark Mode Opacity (more prominent) */
-    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.25);
-    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.2);
+    /* Dark Mode Opacity (Payabli-inspired prominence) */
+    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.35);
+    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.28);
   }
 
   /* Light Mode - More prominent but still readable */
   :root[data-theme='light'],
   [data-theme='light'] ::backdrop {
-    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.18);
-    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.12);
+    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.22);
+    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.16);
   }
 
   /* === Full Page Background Gradients === */
   .page {
     background: 
-      linear-gradient(215deg, var(--gradient-overlay) 0%, transparent 40%),
-      linear-gradient(135deg, var(--gradient-secondary) 0%, transparent 45%),
-      radial-gradient(var(--gradient-overlay), transparent 50%) no-repeat -30vw -25vh / 140vw 200vh,
-      radial-gradient(var(--gradient-secondary), transparent 55%) no-repeat 75% calc(100% + 20rem) / 60rem 30rem;
+      linear-gradient(210deg, var(--gradient-overlay) 0%, transparent 35%),
+      linear-gradient(330deg, var(--gradient-secondary) 0%, transparent 40%),
+      radial-gradient(var(--gradient-overlay), transparent 50%) no-repeat -25vw -25vh / 160vw 220vh,
+      radial-gradient(var(--gradient-secondary), transparent 55%) no-repeat 75% calc(100% + 20rem) / 70rem 30rem;
     background-attachment: fixed;
     background-color: var(--sl-color-bg);
   }
