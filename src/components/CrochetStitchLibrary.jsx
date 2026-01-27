@@ -234,31 +234,454 @@ const stitchLibrary = {
     ],
     diagram: '●○●○●'
   },
-  'crocodile-stitch': {
-    id: 'crocodile-stitch',
-    name: 'Crocodile Stitch',
-    difficulty: 'Advanced',
-    category: 'Decorative',
-    description: 'Overlapping scale-like stitches that resemble crocodile skin.',
+
+  'back-loop-only': {
+    id: 'back-loop-only',
+    name: 'Back Loop Only (BLO)',
+    difficulty: 'Beginner',
+    category: 'Basic',
+    description: 'Working stitches only through the back loop creates horizontal ridges perfect for ribbing.',
     instructions: [
-      'Work foundation row of double crochet groups',
-      'Work 5 dc around the post of first dc',
-      'Ch 1, sl st in space between groups',
-      'Work 5 dc around post of next dc',
-      'Continue creating overlapping scales'
+      'Insert hook only through the back loop of the stitch',
+      'Complete the stitch as usual (sc, hdc, dc, etc.)',
+      'Repeat across the row',
+      'Turn and work through back loops again'
     ],
-    videoUrl: 'https://www.youtube.com/embed/7LbZo5hczP8',
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
     tips: [
-      'Keep tension loose for better drape',
-      'Works best with smooth, medium-weight yarn',
-      'Count scales carefully'
+      'Creates pronounced horizontal ridges',
+      'Excellent for sweater cuffs and hems',
+      'Works well with any basic stitch'
     ],
     variations: [
-      'Mini crocodile stitch',
-      'Overlapping crocodile stitch',
-      'Crocodile stitch in rounds'
+      'Front loop only (FLO)',
+      'Third loop only (for half double crochet)',
+      'Alternating BLO/FLO patterns'
     ],
-    diagram: '🐊🐊🐊'
+    diagram: '══════'
+  },
+  'double-treble-crochet': {
+    id: 'double-treble-crochet',
+    name: 'Double Treble Crochet (DTR)',
+    difficulty: 'Intermediate',
+    category: 'Basic',
+    description: 'An extra tall stitch that creates open, lacy fabric perfect for shawls and decorative work.',
+    instructions: [
+      'Yarn over three times, insert hook into next stitch',
+      'Yarn over and pull through (5 loops on hook)',
+      'Yarn over, pull through 2 loops (4 loops remain)',
+      'Yarn over, pull through 2 loops (3 loops remain)',
+      'Yarn over, pull through 2 loops (2 loops remain)',
+      'Yarn over, pull through last 2 loops'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Chain 5 to turn counts as first DTR',
+      'Keep yarn overs loose for even stitches',
+      'Great for quick-growing projects'
+    ],
+    variations: [
+      'Triple treble crochet',
+      'Double treble cluster',
+      'Linked double treble'
+    ],
+    diagram: '↗️↗️↗️🔗'
+  },
+  'front-post-double-crochet': {
+    id: 'front-post-double-crochet',
+    name: 'Front Post Double Crochet (FPDC)',
+    difficulty: 'Intermediate',
+    category: 'Textured',
+    description: 'Working around the post of the stitch creates raised ridges perfect for cables and texture.',
+    instructions: [
+      'Yarn over, insert hook from front to back around post of next stitch',
+      'Yarn over and pull through (3 loops on hook)',
+      'Yarn over, pull through 2 loops (2 loops remain)',
+      'Yarn over, pull through last 2 loops'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates pronounced forward-facing ridges',
+      'Essential for crochet cables',
+      'Keep tension consistent for even posts'
+    ],
+    variations: [
+      'Front post treble crochet',
+      'Front post half double crochet',
+      'Alternating post stitches'
+    ],
+    diagram: '▓▓▓▓▓'
+  },
+  'back-post-double-crochet': {
+    id: 'back-post-double-crochet',
+    name: 'Back Post Double Crochet (BPDC)',
+    difficulty: 'Intermediate',
+    category: 'Textured',
+    description: 'Working around the back of the post creates recessed ridges that complement FPDC.',
+    instructions: [
+      'Yarn over, insert hook from back to front around post of next stitch',
+      'Yarn over and pull through (3 loops on hook)',
+      'Yarn over, pull through 2 loops (2 loops remain)',
+      'Yarn over, pull through last 2 loops'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates backward-facing ridges',
+      'Often paired with FPDC for ribbing',
+      'Great for basketweave patterns'
+    ],
+    variations: [
+      'Back post treble crochet',
+      'Back post half double crochet',
+      'Post stitch combinations'
+    ],
+    diagram: '░░░░░'
+  },
+  'popcorn-stitch': {
+    id: 'popcorn-stitch',
+    name: 'Popcorn Stitch',
+    difficulty: 'Intermediate',
+    category: 'Textured',
+    description: 'A puffy 3D stitch that pops out from the fabric for dramatic texture.',
+    instructions: [
+      'Work 5 double crochet in the same stitch',
+      'Remove hook from working loop',
+      'Insert hook from front to back through first DC',
+      'Pick up dropped loop and pull through',
+      'Chain 1 to secure the popcorn'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Use a hook one size smaller for tighter popcorns',
+      'Block finished pieces to enhance 3D effect',
+      'Great for pillows and afghans'
+    ],
+    variations: [
+      'Mini popcorn (3 DC)',
+      'Large popcorn (7 DC)',
+      'Popcorn stitch cluster'
+    ],
+    diagram: '◉◉◉◉◉'
+  },
+  'cluster-stitch': {
+    id: 'cluster-stitch',
+    name: 'Cluster Stitch',
+    difficulty: 'Intermediate',
+    category: 'Textured',
+    description: 'Multiple stitches worked together but finished as one for concentrated texture.',
+    instructions: [
+      'Yarn over, insert hook in stitch, draw up loop (3 loops on hook)',
+      'Yarn over, pull through 2 loops (2 loops remain)',
+      'Repeat 2 more times in same stitch (4 loops total)',
+      'Yarn over, pull through all 4 loops'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates dense, textured fabric',
+      'Great for bags and home decor',
+      'Can be worked with different stitch heights'
+    ],
+    variations: [
+      'DC cluster',
+      'Treble cluster',
+      'Multi-stitch cluster'
+    ],
+    diagram: '◆◆◆◆'
+  },
+  'v-stitch': {
+    id: 'v-stitch',
+    name: 'V-Stitch',
+    difficulty: 'Beginner',
+    category: 'Textured',
+    description: 'Creates V-shaped openings that form a lacy, decorative pattern.',
+    instructions: [
+      'Double crochet, chain 1, double crochet all in the same stitch',
+      'Skip next stitch',
+      'Repeat across row'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Chain 3 at beginning counts as first DC + ch 1 space',
+      'Creates lightweight, airy fabric',
+      'Perfect for shawls and summer tops'
+    ],
+    variations: [
+      'V-stitch with different stitches',
+      'Double V-stitch',
+      'V-stitch in rounds'
+    ],
+    diagram: '⩖⩖⩖'
+  },
+  'crossed-double-crochet': {
+    id: 'crossed-double-crochet',
+    name: 'Crossed Double Crochet',
+    difficulty: 'Intermediate',
+    category: 'Decorative',
+    description: 'Criss-crossed stitches create an X pattern for elegant texture.',
+    instructions: [
+      'Skip one stitch, double crochet in next stitch',
+      'Double crochet in the skipped stitch',
+      'Repeat across row'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates woven-looking fabric',
+      'Great for scarves and blankets',
+      'Works well with variegated yarn'
+    ],
+    variations: [
+      'Crossed half double crochet',
+      'Double crossed stitches',
+      'Crossed stitch cables'
+    ],
+    diagram: '✖️✖️✖️'
+  },
+  'broomstick-lace': {
+    id: 'broomstick-lace',
+    name: 'Broomstick Lace (Jiffy Lace)',
+    difficulty: 'Advanced',
+    category: 'Decorative',
+    description: 'Creates large, lacy loops using a broomstick or knitting needle.',
+    instructions: [
+      'Work a row of loops: draw up loop in each stitch, place on broomstick',
+      'Remove hook, pull groups of loops together',
+      'Work stitches into grouped loops',
+      'Repeat process for each row'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Use smooth knitting needle or actual broomstick',
+      'Creates very light, airy fabric',
+      'Perfect for shawls and wraps'
+    ],
+    variations: [
+      'Different group sizes',
+      'Broomstick lace in rounds',
+      'Combination with other stitches'
+    ],
+    diagram: '◌◌◌◌'
+  },
+  'tunisian-simple-stitch': {
+    id: 'tunisian-simple-stitch',
+    name: 'Tunisian Simple Stitch (TSS)',
+    difficulty: 'Intermediate',
+    category: 'Specialty',
+    description: 'A Tunisian crochet technique that creates a woven-like fabric.',
+    instructions: [
+      'Forward pass: insert hook, yarn over, pull up loop in each stitch',
+      'Return pass: yarn over, pull through one loop',
+      'Yarn over, pull through two loops repeatedly'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Requires special Tunisian hook',
+      'Creates dense, woven fabric',
+      'Does not curl as much as other Tunisian stitches'
+    ],
+    variations: [
+      'Tunisian knit stitch',
+      'Tunisian purl stitch',
+      'Tunisian colorwork'
+    ],
+    diagram: '║║║║║'
+  },
+  'tunisian-knit-stitch': {
+    id: 'tunisian-knit-stitch',
+    name: 'Tunisian Knit Stitch (TKS)',
+    difficulty: 'Intermediate',
+    category: 'Specialty',
+    description: 'Mimics knitting stitches using Tunisian crochet technique.',
+    instructions: [
+      'Forward pass: insert hook between vertical bars, yarn over, pull up loop',
+      'Return pass: yarn over, pull through one loop',
+      'Yarn over, pull through two loops repeatedly'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates knit-like V-pattern',
+      'Great for blankets and garments',
+      'Less dense than TSS'
+    ],
+    variations: [
+      'Tunisian purl stitch',
+      'Seed stitch combination',
+      'Cable patterns'
+    ],
+    diagram: '▓▓▓▓▓'
+  },
+  'spike-stitch': {
+    id: 'spike-stitch',
+    name: 'Spike Stitch',
+    difficulty: 'Intermediate',
+    category: 'Decorative',
+    description: 'Long stitches that reach down into previous rows for added texture.',
+    instructions: [
+      'Insert hook down 2-3 rows below current stitch',
+      'Yarn over, pull up loop to current height',
+      'Complete as regular single crochet',
+      'Repeat across row'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates dramatic vertical lines',
+      'Great for colorwork effects',
+      'Use consistent depth for uniform look'
+    ],
+    variations: [
+      'Different spike lengths',
+      'Double spike stitch',
+      'Spike stitch patterns'
+    ],
+    diagram: '↓↓↓↓↓'
+  },
+  'corner-to-corner-stitch': {
+    id: 'corner-to-corner-stitch',
+    name: 'Corner-to-Corner (C2C)',
+    difficulty: 'Intermediate',
+    category: 'Specialty',
+    description: 'Works diagonally from corner to corner, perfect for graphghans.',
+    instructions: [
+      'Block 1: Chain 6, DC in 4th chain from hook and next 2 chains',
+      'Increase row: Sl st to ch-3 space, ch 6, DC in 4th ch and next 2, *sl st to next ch-3 space, ch 3, 3 DC* repeat',
+      'Decrease: Sl st across 3 DC, sl st to ch-3 space, ch 3, 3 DC'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Perfect for pixel art designs',
+      'Creates sturdy, textured fabric',
+      'Great for blankets and pillows'
+    ],
+    variations: [
+      'C2C with other stitches',
+      'C2C rectangles',
+      'C2C color changes'
+    ],
+    diagram: '◢◣◢◣'
+  },
+  'crab-stitch': {
+    id: 'crab-stitch',
+    name: 'Crab Stitch (Reverse Single Crochet)',
+    difficulty: 'Beginner',
+    category: 'Decorative',
+    description: 'Working single crochet in reverse creates a corded, decorative edge.',
+    instructions: [
+      'Insert hook from left to right into next stitch',
+      'Yarn over and pull through (2 loops on hook)',
+      'Yarn over and pull through both loops',
+      'Work in opposite direction of normal crochet'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Excellent for edging blankets',
+      'Creates sturdy, rounded edge',
+      'Work loosely to prevent puckering'
+    ],
+    variations: [
+      'Reverse half double crochet',
+      'Crab stitch in rounds',
+      'Crab stitch borders'
+    ],
+    diagram: '⋰⋰⋰⋰'
+  },
+  'solomons-knot': {
+    id: 'solomons-knot',
+    name: 'Solomon\'s Knot (Lover\'s Knot)',
+    difficulty: 'Advanced',
+    category: 'Decorative',
+    description: 'Creates delicate, lace-like fabric using decorative knots.',
+    instructions: [
+      'Make single crochet',
+      'Draw up loop to desired height (about 1/2 inch)',
+      'Yarn over and pull through loop to secure',
+      'Insert hook under knot, single crochet, repeat'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates very light, airy lace',
+      'Perfect for shawls and summer tops',
+      'Consistent knot size is key'
+    ],
+    variations: [
+      'Different knot heights',
+      'Solomon\'s knot in rounds',
+      'Combination with filet crochet'
+    ],
+    diagram: '🪢🪢🪢'
+  },
+  'entrelac-crochet': {
+    id: 'entrelac-crochet',
+    name: 'Entrelac Crochet',
+    difficulty: 'Advanced',
+    category: 'Specialty',
+    description: 'Creates interlocking squares of fabric for complex textured patterns.',
+    instructions: [
+      'Work base triangles',
+      'Work rectangles to the right',
+      'Work left-leaning rectangles',
+      'Work top triangles to finish'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates woven basket pattern',
+      'Great for colorwork effects',
+      'Requires careful attention to square orientation'
+    ],
+    variations: [
+      'Different rectangle sizes',
+      'Entrelac in rounds',
+      'Gradient color entrelac'
+    ],
+    diagram: '▦▦▦▦'
+  },
+  'filet-crochet': {
+    id: 'filet-crochet',
+    name: 'Filet Crochet (Mesh Stitch)',
+    difficulty: 'Intermediate',
+    category: 'Decorative',
+    description: 'Creates grid-like lace patterns using blocks and spaces.',
+    instructions: [
+      'Block: 3 DC in same space',
+      'Space: DC, ch 2, skip 2 stitches',
+      'Follow chart or pattern for design',
+      'Chain 3 at start counts as first DC'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Perfect for text and images',
+      'Creates stable, flat fabric',
+      'Use smooth yarn for best results'
+    ],
+    variations: [
+      'Different mesh sizes',
+      'Filet crochet in rounds',
+      'Multicolor filet'
+    ],
+    diagram: '▦▦▦▦'
+  },
+  'overlay-crochet': {
+    id: 'overlay-crochet',
+    name: 'Overlay Crochet (Mosaic)',
+    difficulty: 'Advanced',
+    category: 'Specialty',
+    description: 'Adds colorwork designs on top of base fabric for complex patterns.',
+    instructions: [
+      'Work base layer in main color',
+      'Add overlay stitches in contrasting colors',
+      'Work overlay stitches into previous rows',
+      'Build up layers for depth'
+    ],
+    videoUrl: 'https://www.youtube.com/embed/placeholder',
+    tips: [
+      'Creates 3D textured designs',
+      'Excellent for geometric patterns',
+      'Requires careful tension control'
+    ],
+    variations: [
+      'Single overlay layers',
+      'Multiple overlay techniques',
+      'Overlay mosaic patterns'
+    ],
+    diagram: '▓▓▓▓'
   }
 };
 
