@@ -51,36 +51,14 @@
 
   /* === Update Button Colors to Match Brand === */
   .sl-link-button.primary {
-    background: linear-gradient(135deg, var(--gradient-overlay), var(--gradient-secondary)) !important;
-    border: 1px solid hsla(var(--gradient-primary-hsl), 0.3) !important;
-    color: white !important;
-    backdrop-filter: blur(8px);
-    transition: all 0.2s ease;
+    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-secondary));
+    border-color: hsl(200, 65%, 70%);
+    color: white;
   }
 
   .sl-link-button.primary:hover {
-    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-overlay)) !important;
-    border-color: hsla(var(--gradient-primary-hsl), 0.5) !important;
+    background: linear-gradient(135deg, hsl(200, 75%, 65%), var(--gradient-secondary));
     transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    color: white !important;
-  }
-
-  /* === Hero Button Specific Styling === */
-  [data-has-hero] .hero .actions .sl-link-button.primary {
-    background: linear-gradient(135deg, var(--gradient-overlay), var(--gradient-secondary)) !important;
-    border: 1px solid hsla(var(--gradient-primary-hsl), 0.3) !important;
-    color: white !important;
-    backdrop-filter: blur(8px);
-    transition: all 0.2s ease;
-  }
-
-  [data-has-hero] .hero .actions .sl-link-button.primary:hover {
-    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-overlay)) !important;
-    border-color: hsla(var(--gradient-primary-hsl), 0.5) !important;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    color: white !important;
   }
 
   /* Fix hero image container and elements */
@@ -228,56 +206,13 @@
       font-size: 0.8rem;
     }
   }
-}
 
-/* === Button Gradient Overrides (No Layer - Higher Specificity) === */
-html body .sl-link-button.primary,
-body .sl-link-button.primary {
-  background: linear-gradient(135deg, #d63384, #0d6efd) !important;
-  border: 1px solid #d63384 !important;
-  color: white !important;
-  backdrop-filter: blur(8px);
-  transition: all 0.2s ease;
-}
-
-html body .sl-link-button.primary:hover,
-body .sl-link-button.primary:hover {
-  background: linear-gradient(135deg, #0d6efd, #d63384) !important;
-  border-color: #d63384 !important;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-  color: white !important;
-}
-
-/* === Light Mode Button Adjustments === */
-html[data-theme="light"] body .sl-link-button.primary,
-[data-theme="light"] body .sl-link-button.primary,
-body .sl-link-button.primary {
-  background: #1a202c !important;
-  border: 2px solid #d63384 !important;
-  color: #d63384 !important;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
-  transition: all 0.2s ease !important;
-}
-
-html[data-theme="light"] body .sl-link-button.primary:hover,
-[data-theme="light"] body .sl-link-button.primary:hover,
-body .sl-link-button.primary:hover {
-  background: #2d3748 !important;
-  border: 2px solid #0d6efd !important;
-  color: #0d6efd !important;
-  transform: translateY(-1px) !important;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
-}
-
-/* FORCE LIGHT MODE TEXT COLOR */
-[data-theme="light"] * {
-  --sl-link-button-primary-text: #d63384 !important;
-}
-
-[data-theme="light"] .sl-link-button.primary {
-  color: #d63384 !important;
-}
+  /* === Language Button Styles === */
+  .language-button-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
 
   .language-button {
     padding: 0.5rem 1rem;
@@ -328,6 +263,4 @@ body .sl-link-button.primary:hover {
       font-size: 0.8rem;
     }
   }
-
 }
-

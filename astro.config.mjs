@@ -23,11 +23,6 @@ export default defineConfig({
           content: `
             (function() {
               function initAIDropdown() {
-                // Skip AI dropdown on home page
-                if (window.location.pathname === '/' || window.location.pathname === '') {
-                  return;
-                }
-                
                 const titles = document.querySelectorAll('h1#_top');
                 titles.forEach(title => {
                   if (!title.parentNode.querySelector('.ai-dropdown-tools')) {
