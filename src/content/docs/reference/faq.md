@@ -2,8 +2,6 @@
 title: FAQ
 description: A reference for what Crochetly is.
 ---
-# Frequently Asked Questions (FAQ)
-
 ## What is Crochetly?
 Crochetly is a free, educational crochet resource. It’s designed to help crocheters learn techniques, understand stitches, and explore pattern design concepts through guides, references, and tools.
 
