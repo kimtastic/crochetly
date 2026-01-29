@@ -1,0 +1,29 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import AIDropdownTools from './AIDropdownTools.astro';
+
+const { title } = Astro.props.entry.data;
+---
+
+<div class="page-title-with-ai-tools">
+  <h1 id="_top">{title}</h1>
+  <AIDropdownTools client:load />
+</div>
+
+<style>
+  .page-title-with-ai-tools {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: var(--sl-gap-large);
+  }
+
+  @media (max-width: 768px) {
+    .page-title-with-ai-tools {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.75rem;
+    }
+  }
+</style>

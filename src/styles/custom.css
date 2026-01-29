@@ -99,4 +99,168 @@
     position: relative;
     z-index: 1;
   }
+
+  /* === AI Dropdown Tools Styles === */
+  .ai-dropdown-container {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.5rem;
+    z-index: 10;
+  }
+
+  .ai-dropdown-tools {
+    position: relative;
+    display: inline-block;
+  }
+
+  .ai-dropdown-trigger {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: linear-gradient(135deg, var(--gradient-overlay), var(--gradient-secondary));
+    border: 1px solid hsla(var(--gradient-primary-hsl), 0.3);
+    border-radius: 0.5rem;
+    color: var(--sl-color-text);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    backdrop-filter: blur(8px);
+  }
+
+  .ai-dropdown-trigger:hover {
+    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-overlay));
+    border-color: hsla(var(--gradient-primary-hsl), 0.5);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .ai-dropdown-trigger .chevron {
+    transition: transform 0.2s ease;
+  }
+
+  .ai-dropdown-trigger .chevron.open {
+    transform: rotate(180deg);
+  }
+
+  .ai-dropdown-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 0.5rem;
+    background: var(--sl-color-bg);
+    border: 1px solid hsla(var(--gradient-primary-hsl), 0.2);
+    border-radius: 0.5rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(12px);
+    min-width: 180px;
+    z-index: 1000;
+    overflow: hidden;
+  }
+
+  .ai-dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: transparent;
+    border: none;
+    color: var(--sl-color-text);
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all 0.15s ease;
+    text-align: left;
+  }
+
+  .ai-dropdown-item:hover {
+    background: linear-gradient(90deg, var(--gradient-overlay), var(--gradient-secondary));
+    color: white;
+  }
+
+  .ai-dropdown-item:first-child {
+    border-bottom: 1px solid hsla(var(--gradient-primary-hsl), 0.1);
+  }
+
+  /* Light mode adjustments */
+  :root[data-theme='light'] .ai-dropdown-menu {
+    background: rgba(255, 255, 255, 0.95);
+    border-color: hsla(var(--gradient-primary-hsl), 0.15);
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .ai-dropdown-container {
+      margin-bottom: 0.75rem;
+    }
+    
+    .ai-dropdown-menu {
+      right: -1rem;
+      min-width: 160px;
+    }
+    
+    .ai-dropdown-trigger {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.8rem;
+    }
+  }
+
+  /* === Language Button Styles === */
+  .language-button-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .language-button {
+    padding: 0.5rem 1rem;
+    background: var(--sl-color-bg);
+    border: 1px solid hsla(var(--gradient-primary-hsl), 0.2);
+    border-radius: 0.5rem;
+    color: var(--sl-color-text);
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    backdrop-filter: blur(4px);
+  }
+
+  .language-button:hover {
+    background: linear-gradient(135deg, var(--gradient-overlay), var(--gradient-secondary));
+    color: white;
+    border-color: hsla(var(--gradient-primary-hsl), 0.4);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .language-button.active {
+    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-overlay));
+    border-color: hsla(var(--gradient-primary-hsl), 0.5);
+    color: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Light mode adjustments for language buttons */
+  :root[data-theme='light'] .language-button {
+    background: rgba(255, 255, 255, 0.9);
+    border-color: hsla(var(--gradient-primary-hsl), 0.15);
+  }
+
+  :root[data-theme='light'] .language-button:hover {
+    border-color: hsla(var(--gradient-primary-hsl), 0.25);
+  }
+
+  /* Responsive for language buttons */
+  @media (max-width: 768px) {
+    .language-button-group {
+      gap: 0.4rem;
+    }
+    
+    .language-button {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.8rem;
+    }
+  }
 }

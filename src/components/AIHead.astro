@@ -1,0 +1,43 @@
+---
+import Default from '@astrojs/starlight/components/Head.astro';
+---
+
+<Default>
+  <script>
+    import AIDropdownTools from '../components/AIDropdownTools.jsx';
+    
+    // Function to add AI dropdown to all pages
+    function addAIDropdownToPage() {
+      const titles = document.querySelectorAll('h1#_top');
+      titles.forEach(title => {
+        if (!title.parentNode.querySelector('.ai-dropdown-tools')) {
+          const wrapper = document.createElement('div');
+          wrapper.className = 'page-title-with-ai-tools';
+          wrapper.style.display = 'flex';
+          wrapper.style.alignItems = 'center';
+          wrapper.style.justifyContent = 'space-between';
+          wrapper.style.gap = '1rem';
+          wrapper.style.marginBottom = 'var(--sl-gap-large)';
+          
+          const titleWrapper = document.createElement('div');
+          titleWrapper.appendChild(title.cloneNode(true));
+          
+          const aiContainer = document.createElement('div');
+          aiContainer.id = 'ai-dropdown-container';
+          
+          wrapper.appendChild(titleWrapper);
+          wrapper.appendChild(aiContainer);
+          
+          title.parentNode.replaceChild(wrapper, title);
+        }
+      });
+    }
+    
+    // Wait for page to load, then add dropdown
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', addAIDropdownToPage);
+    } else {
+      addAIDropdownToPage();
+    }
+  </script>
+</Default>

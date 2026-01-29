@@ -303,31 +303,35 @@ const languageOptions = [
         // Language Selection
         createElement('div', { className: 'grid md:grid-cols-2 gap-8 mb-8' }, [
           createElement('div', { className: 'space-y-4' }, [
-            createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-2' }, 
+            createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-3' }, 
               'Source Language'
             ),
-            createElement('select', {
-              onChange: (e) => setSourceLanguage(e.target.value),
-              className: 'w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-transparent'
-            }, [
-              createElement('option', { value: '' }, 'Select source language...'),
+            createElement('div', { className: 'language-button-group' }, [
               ...availableLanguages.map(lang => 
-                createElement('option', { key: lang.code, value: lang.code }, lang.name)
+                createElement('button', {
+                  key: lang.code,
+                  onClick: () => setSourceLanguage(lang.code),
+                  className: sourceLanguage === lang.code 
+                    ? 'language-button active' 
+                    : 'language-button'
+                }, lang.name)
               )
             ])
           ]),
 
           createElement('div', { className: 'space-y-4' }, [
-            createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-2' }, 
+            createElement('label', { className: 'block text-sm font-medium text-gray-700 mb-3' }, 
               'Target Language'
             ),
-            createElement('select', {
-              onChange: (e) => setTargetLanguage(e.target.value),
-              className: 'w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500 focus:border-transparent'
-            }, [
-              createElement('option', { value: '' }, 'Select target language...'),
+            createElement('div', { className: 'language-button-group' }, [
               ...availableLanguages.map(lang => 
-                createElement('option', { key: lang.code, value: lang.code }, lang.name)
+                createElement('button', {
+                  key: lang.code,
+                  onClick: () => setTargetLanguage(lang.code),
+                  className: targetLanguage === lang.code 
+                    ? 'language-button active' 
+                    : 'language-button'
+                }, lang.name)
               )
             ])
           ])
