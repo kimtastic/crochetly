@@ -102,6 +102,10 @@
 
   /* === AI Dropdown Tools Styles === */
   .ai-dropdown-container {
+    display: none !important;
+  }
+  
+  .ai-dropdown-container {
     position: relative;
     display: flex;
     justify-content: flex-end;
