@@ -52,7 +52,7 @@ const languageOptions = [
       // Load abbreviation data for a single language
       const loadLanguageData = async (languageCode) => {
         try {
-          const response = await fetch(`/src/content/docs/abbreviations/crochet-abbreviations-${languageCode}.md`);
+          const response = await fetch(`/abbreviations/crochet-abbreviations-${languageCode}.md`);
           if (!response.ok) {
             throw new Error(`Failed to load ${languageCode} abbreviations`);
           }
@@ -68,7 +68,6 @@ const languageOptions = [
       const parseMarkdownTable = (content, languageCode) => {
         const lines = content.split('\n');
         const abbreviations = [];
-        let inTable = false;
         
         for (let i = 0; i < lines.length; i++) {
           const line = lines[i].trim();
@@ -82,18 +81,35 @@ const languageOptions = [
           
           if (cells.length >= 2) {
             const abbr = cells[0].replace(/`/g, '').trim();
-            const desc = cells[1].trim();
-            const term = cells[2] || '';
-            const englishEq = cells[3] || '';
             
-            if (abbr && desc) {
-              abbreviations.push({
-                sourceAbbr: abbr,
-                sourceTerm: languageCode === 'us' || languageCode === 'uk' ? desc : term || desc,
-                targetAbbr: languageCode === 'us' || languageCode === 'uk' ? abbr : englishEq,
-                targetTerm: englishEq || desc,
-                description: desc
-              });
+            // Handle US/UK format: | Abbreviation | Description |
+            if ((languageCode === 'us' || languageCode === 'uk') && cells.length >= 2) {
+              const desc = cells[1].trim();
+              if (abbr && desc) {
+                abbreviations.push({
+                  sourceAbbr: abbr,
+                  sourceTerm: desc,
+                  targetAbbr: abbr,
+                  targetTerm: desc,
+                  description: desc
+                });
+              }
+            }
+            // Handle foreign language format: | Abbreviation | Foreign Term | Description | English Equivalent |
+            else if (cells.length >= 4) {
+              const term = cells[1].trim();
+              const desc = cells[2].trim();
+              const englishEq = cells[3].trim();
+              
+              if (abbr && (term || desc)) {
+                abbreviations.push({
+                  sourceAbbr: abbr,
+                  sourceTerm: term || desc,
+                  targetAbbr: englishEq || abbr,
+                  targetTerm: englishEq || desc,
+                  description: desc
+                });
+              }
             }
           }
         }
