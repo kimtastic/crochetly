@@ -268,18 +268,18 @@ function initializeCrochetLibrary() {
           ' Back to Library'
         ]),
         h('div', { key: 'content', className: 'bg-white rounded-lg shadow-lg overflow-hidden' }, [
-          h('div', { key: 'header', className: 'bg-gray-900 text-white p-6' }, [
+          h('div', { key: 'header', className: 'stitch-header p-6' }, [
             h('div', { className: 'flex justify-between items-start' }, [
               h('div', { key: 'left' }, [
                 h('h1', { key: 'title', className: 'text-3xl font-bold mb-2' }, stitch.name),
-                h('p', { key: 'desc', className: 'text-gray-300 text-lg' }, stitch.description)
+                h('p', { key: 'desc', className: 'stitch-header-subtle text-lg' }, stitch.description)
               ]),
               h('div', { key: 'right', className: 'text-right' }, [
                 h('span', {
                   key: 'difficulty',
                   className: `px-3 py-1 rounded-full text-sm font-medium ${stitch.difficulty === 'Beginner' ? 'bg-green-500 text-white' : stitch.difficulty === 'Intermediate' ? 'bg-yellow-500 text-white' : 'bg-red-500 text-white'}`
                 }, stitch.difficulty),
-                h('div', { key: 'category', className: 'mt-2 text-gray-300' }, stitch.category)
+                h('div', { key: 'category', className: 'mt-2 stitch-header-subtle' }, stitch.category)
               ])
             ])
           ]),
@@ -354,14 +354,14 @@ function initializeCrochetLibrary() {
     return h(Fragment, {}, [
       h('div', {
         key: 'header',
-        className: 'bg-gray-900 text-white py-12'
+        className: 'stitch-header py-12'
       }, [
         h('div', {
           key: 'header-content',
           className: 'max-w-6xl mx-auto px-6 text-center'
         }, [
           h('h1', { key: 'title', className: 'text-4xl font-bold mb-4' }, 'Crochet Stitch Library'),
-          h('p', { key: 'subtitle', className: 'text-xl text-gray-300' }, 'Your one-stop resource for crochet stitches')
+          h('p', { key: 'subtitle', className: 'text-xl stitch-header-subtle' }, 'Your one-stop resource for crochet stitches')
         ])
       ]),
       h('div', {
@@ -517,6 +517,39 @@ function initializeCrochetLibrary() {
       .bg-gradient-to-r {
         background-image: linear-gradient(to right, var(--tw-gradient-stops));
       }
+
+      /* Theme-matched header */
+      .stitch-header {
+        background: var(--warm-bg);
+        color: var(--warm-text);
+        border-bottom: 1px solid var(--warm-border);
+      }
+      .stitch-header-subtle {
+        color: var(--warm-subtle);
+      }
+
+      /* Dark mode overrides — synced via data-theme from <html> */
+      :host([data-theme='dark']) .bg-white { background-color: #242320; }
+      :host([data-theme='dark']) .bg-gray-50 { background-color: #1a1a17; }
+      :host([data-theme='dark']) .bg-gray-100 { background-color: #2d2b27; }
+      :host([data-theme='dark']) .bg-gray-200 { background-color: #33322e; }
+      :host([data-theme='dark']) .bg-yellow-50 { background-color: #3b3520; }
+
+      :host([data-theme='dark']) .text-gray-800 { color: #e8e6df; }
+      :host([data-theme='dark']) .text-gray-700 { color: #d0ccc2; }
+      :host([data-theme='dark']) .text-gray-600 { color: #a09c94; }
+      :host([data-theme='dark']) .text-gray-300 { color: #c0bbb0; }
+
+      :host([data-theme='dark']) .border-gray-400,
+      :host([data-theme='dark']) .border-gray-300 { border-color: #33322e; }
+
+      :host([data-theme='dark']) .text-green-600 { color: #4ade80; }
+      :host([data-theme='dark']) .text-yellow-600 { color: #eab308; }
+      :host([data-theme='dark']) .text-red-600 { color: #f87171; }
+
+      :host([data-theme='dark']) ::-webkit-scrollbar-track { background: #242320; }
+      :host([data-theme='dark']) ::-webkit-scrollbar-thumb { background: #4b5563; }
+      :host([data-theme='dark']) ::-webkit-scrollbar-thumb:hover { background: #6b7280; }
     `;
     shadowRoot.appendChild(customStyles);
 
@@ -528,6 +561,22 @@ function initializeCrochetLibrary() {
     // 4. Render the React app into the Shadow DOM's root element
     const root = createRoot(reactRootEl);
     root.render(h(CrochetStitchLibrary));
+
+    // Sync dark mode with the host page
+    function syncTheme() {
+      const theme = document.documentElement.getAttribute('data-theme');
+      if (theme) {
+        shadowRoot.host.setAttribute('data-theme', theme);
+      }
+    }
+
+    syncTheme();
+
+    const themeObserver = new MutationObserver(syncTheme);
+    themeObserver.observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['data-theme']
+    });
   }
 }
 </script>
