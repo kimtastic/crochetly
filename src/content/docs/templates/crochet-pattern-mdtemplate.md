@@ -1,6 +1,6 @@
 ---
 title: Crochet pattern template
-description: Crochet markdown pattern template
+description: Reusable Markdown template for writing and sharing crochet, Tunisian, and amigurumi patterns with sections for gauge, materials, abbreviations, and step-by-step directions
 ---
 The purpose of this reusable template is for writing and sharing your crochet, Tunisian, or amigurumi patterns in Markdown.
 

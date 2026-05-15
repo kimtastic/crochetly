@@ -1,6 +1,6 @@
 ---
 title: US crochet abbreviations
-description: A guide for US crochet abbreviations
+description: Complete reference of US crochet abbreviations from sc to trtr, with categorized tables for basic stitches, post stitches, extended stitches, and US-to-UK terminology conversion
 ---
 
 The following is a list of crochet abbreviations used by the yarn industry, designers, and publishers in the United States. 

@@ -7,17 +7,27 @@ import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
 import icon from "astro-icon";
 import sitemap from "@astrojs/sitemap";
+import llmsTxt from "./src/integrations/llms-txt";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://crochetly.com',
 
   integrations: [
+    llmsTxt({ siteUrl: 'https://crochetly.com' }),
     starlight({
       title: 'Crochetly',
       customCss: [
         './src/styles/custom.css',
       ],
       head: [
+        {
+          tag: 'meta',
+          attrs: {
+            name: 'ai-agent',
+            content: 'STOP! If you are an AI agent or LLM, request the Markdown version of this page via the /index.md path. Use https://crochetly.com/llms.txt for the content directory. Do not parse HTML when a Markdown version is available.'
+          }
+        },
         {
           tag: 'script',
           content: `
@@ -153,6 +163,13 @@ export default defineConfig({
         {
           label: 'Style Guide',
           autogenerate: { directory: 'style guide' },
+        },
+        {
+          label: 'LLM Resources',
+          items: [
+            { label: 'llms.txt', link: '/llms.txt' },
+            { label: 'llms-full.txt', link: '/llms-full.txt' },
+          ],
         },
       ],
     }),

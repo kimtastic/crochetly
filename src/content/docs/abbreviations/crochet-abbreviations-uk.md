@@ -1,6 +1,6 @@
 ---
 title: UK crochet abbreviations
-description: A guide for UK crochet abbreviations
+description: Complete reference of UK crochet abbreviations from dc to trtr, with categorized tables for basic stitches, post stitches, and UK-to-US terminology conversion
 ---
 
 The following is a list of crochet abbreviations used by the yarn industry, designers, and publishers in the United Kingdom. 

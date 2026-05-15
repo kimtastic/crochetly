@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting crochet
-description: A guide for troubleshooting crochet
+description: Solutions for common crochet problems including tension issues, splitting yarn, uneven edges, curling, plus amigurumi and Tunisian crochet troubleshooting tips
 ---
 Crochet is a relaxing and creative craft but sometimes you need to troubleshoot your project. This guide will help you with common challenges.
 

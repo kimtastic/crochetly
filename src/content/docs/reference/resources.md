@@ -1,6 +1,6 @@
 ---
 title: Crochet resources
-description: Additional crochet resources
+description: Curated list of external crochet resources including YouTube tutorials, Ravelry, and Amigurumi Today for patterns, learning, and community
 ---
 
 ## Tutorial resources

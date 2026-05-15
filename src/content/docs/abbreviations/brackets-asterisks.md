@@ -1,6 +1,6 @@
 ---
 title: Brackets and asterisks
-description: A guide brackets and asterisks in crochet
+description: Quick reference explaining the use of parentheses, brackets, and asterisks in crochet patterns for grouping stitches and marking repeat sequences
 ---
 | Symbol              | Meaning     | Example    |
 |---------------------|-------------|------------|

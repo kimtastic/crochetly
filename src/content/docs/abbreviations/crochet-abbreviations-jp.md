@@ -1,6 +1,6 @@
 ---
 title: Japanese crochet abbreviations
-description: A guide for Japanese crochet abbreviations and symbols
+description: Complete reference for Japanese crochet abbreviations, romaji, and schematic symbols with tables for basic stitches, construction terms, and US/UK equivalents
 ---
 
 The following is a list of crochet abbreviations and symbols used in Japanese patterns and publications. 

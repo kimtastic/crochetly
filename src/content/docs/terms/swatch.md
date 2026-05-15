@@ -1,6 +1,6 @@
 ---
 title: Crochet swatching
-description: A guide to understanding swatching
+description: Guide to making and measuring crochet swatches to check gauge, test tension, and ensure proper sizing before starting a project, with step-by-step instructions
 ---
 Swatching is an important step in crochet that helps ensure your finished project will have the right size and fabric feel.
 

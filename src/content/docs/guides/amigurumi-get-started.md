@@ -1,6 +1,6 @@
 ---
 title: Get started (Amigurumi)
-description: A beginner's guide to Amigurumi
+description: A beginner-friendly guide covering essential amigurumi techniques from magic ring through invisible decrease, with step-by-step project outline and recommended tools
 ---
 Amigurumi is the Japanese art of knitting or crocheting small, stuffed yarn creatures. It’s a fun and creative hobby that anyone can learn! This guide will walk you through the basics to get you started.
 

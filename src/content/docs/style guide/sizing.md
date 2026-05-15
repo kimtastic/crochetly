@@ -1,6 +1,6 @@
 ---
 title: Repeats and sizing
-description: Repeats and sizing for crochet patterns
+description: Guidelines for communicating stitch repeats, row repeats, and multiple-size notation in crochet patterns including finished measurements
 ---
 In crochet, creating content that make repeats and sizing clear is crucial for makers to successfully follow patterns and create projects that turn out as intended. 
 

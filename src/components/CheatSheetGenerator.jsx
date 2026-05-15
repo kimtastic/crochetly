@@ -77,7 +77,7 @@ export default function CheatSheetGenerator() {
   // Load abbreviation data for a single language
   const loadLanguageData = async (languageCode) => {
     try {
-      const response = await fetch(`/abbreviations/crochet-abbreviations-${languageCode}.md`);
+      const response = await fetch(`/abbreviations/crochet-abbreviations-${languageCode}/index.md`);
       if (!response.ok) {
         throw new Error(`Failed to load ${languageCode} abbreviations`);
       }

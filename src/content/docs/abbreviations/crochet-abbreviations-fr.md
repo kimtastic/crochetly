@@ -1,6 +1,6 @@
 ---
 title: French crochet abbreviations
-description: A guide for French crochet abbreviations and terminology
+description: Complete reference for French crochet abbreviations with tables for basic stitches, post stitches, special stitches, Tunisian terms, and US/UK equivalent conversions
 ---
 
 The following is a list of crochet abbreviations and terminology used in French-language patterns and publications. 

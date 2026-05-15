@@ -1,6 +1,6 @@
 ---
 title: Voice and tone
-description: Voice and tone for crochet patterns
+description: Guidelines for establishing voice and adapting tone in crochet patterns covering conversational versus instructional styles and inclusive language practices
 ---
 In crochet writing—such as patterns, tutorials, or blog posts—**voice** and **tone** shape how your content feels to the reader.
 

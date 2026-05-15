@@ -1,6 +1,6 @@
 ---
 title: Measurement conventions
-description: Measurement conventions for crochet patterns
+description: Guidelines for measurement conventions in crochet patterns including numeral usage, US and metric units, and spacing for professional results
 ---
 Crochet patterns follow established conventions to ensure clarity and consistency. These conventions include using standard abbreviations for stitches (like `sc` for single crochet and `dc` for double crochet), structuring instructions row by row or round by round, and employing symbols in diagrams. 
 
