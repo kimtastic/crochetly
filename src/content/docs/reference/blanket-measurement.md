@@ -1,6 +1,6 @@
 ---
 title: Blanket measurement guide
-description: A guide to help you plan your blanket projects
+description: Standard sizing reference for crochet blankets from lovey to king size with width and length measurements in inches and centimeters
 ---
 This chart provides standard measurements for common crochet blanket sizes. Adjust as needed based on stitch pattern, yarn thickness, or personal preference.
 

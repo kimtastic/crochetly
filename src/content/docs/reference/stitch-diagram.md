@@ -1,6 +1,6 @@
 ---
 title: Stitch diagram
-description: Defining a stitch diagram in crochet
+description: Guide to reading crochet stitch diagrams covering symbol interpretation, reading direction for rows versus rounds, and how visual charts complement written instructions
 ---
 A stitch diagram represents the right side of the work. 
 

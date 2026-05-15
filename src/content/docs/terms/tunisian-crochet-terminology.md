@@ -1,6 +1,6 @@
 ---
 title: Tunisian terminology
-description: A guide to the Tunisian crochet terminology
+description: Glossary of Tunisian crochet terminology covering forward and return passes, basic stitches (Tss, Tks, Tps), special techniques like entrelac, and curling prevention
 ---
 **Tunisian crochet**, also known as Afghan crochet, is a unique crochet technique that combines elements of both knitting and traditional crochet to create a dense, textured fabric. The following information includes many Tunisian crochet terms used by the yarn industry, designers, and publishers.
 

@@ -1,6 +1,6 @@
 ---
 title: Visuals and charts
-description: Visuals and charts for crochet patterns
+description: Guidelines for incorporating photos, videos, and diagrams in crochet patterns including lighting tips, composition advice, and chart best practices
 ---
 Creating visually effective crochet patterns involves using photos, videos and diagrams to clarify instructions and showcase the finished piece. Here are some guidelines for incorporating visuals: 
 

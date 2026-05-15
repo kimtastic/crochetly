@@ -1,6 +1,6 @@
 ---
 title: Crochet chart symbols
-description: A guide crochet chart symbols
+description: Reference for standard crochet chart symbols including notation for basic stitches, increases, decreases, post stitches, special stitches, and diagram reading tips
 ---
 Stitch charts in crochet patterns are used in addition to or in place of words to describe a pattern stitch. The following is a list of crochet chart symbols used by the yarn industry, designers, and publishers.
 

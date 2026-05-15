@@ -1,6 +1,6 @@
 ---
 title: Gauge
-description: Gauge for crochet patterns
+description: Guidelines for stating gauge in crochet patterns including swatch dimensions, stitch and row counts, and correct formatting examples
 ---
 Gauge refers to the number of stitches and rows you make per inch or 4 inches, usually measured in a swatch. Tension is the term more commonly used in the UK. See [gauge and tension](gauge-and-tension.md) for more information.
 

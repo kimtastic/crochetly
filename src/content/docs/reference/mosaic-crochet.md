@@ -1,6 +1,6 @@
 ---
 title: Mosaic crochet guide
-description: A guide to help you with mosaic crochet
+description: Guide to overlay and inset mosaic crochet techniques covering basic stitches, chart reading, one-color-per-row colorwork, and sample row instructions
 ---
 **Mosaic crochet** is a colorwork technique that uses basic stitches (usually single and double crochet) to create intricate, geometric patterns. The results look complex but the technique is beginner-friendly and typically worked with one color per row.
 

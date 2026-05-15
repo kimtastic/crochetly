@@ -1,6 +1,6 @@
 ---
 title: Gauge and tension
-description: A guide to gauge and tension
+description: Reference for crochet gauge and tension covering stitch and row gauge measurement, how to check gauge, hook size chart by yarn weight, and troubleshooting tips
 ---
 Gauge refers to the number of stitches and rows you make per inch or 4 inches, usually measured in a swatch. Tension is the term more commonly used in the UK. 
 

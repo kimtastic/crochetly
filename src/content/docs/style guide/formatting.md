@@ -1,6 +1,6 @@
 ---
 title: Formatting
-description: Formatting crochet patterns
+description: Guidelines for formatting crochet patterns including title case, materials lists, gauge statements, section organization, and copyright information
 ---
 In crochet, formatting a pattern means presenting the instructions in a clear, organized, and standardized way so that other crocheters can easily understand and follow them to create the same finished item. 
 

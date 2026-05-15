@@ -1,6 +1,6 @@
 ---
 title: Stitch instructions
-description: Stitch instructions for crochet patterns
+description: Guidelines for writing clear crochet stitch instructions including numbered row formatting, parentheses for stitch groups, and asterisks for repeat sequences
 ---
 Crochet stitch instructions are the step-by-step directions for creating different crochet stitches. They guide the crocheter on how to manipulate the yarn and hook to form loops, yarn overs, and pulls through, resulting in the desired stitch pattern. These instructions are fundamental to understanding and creating various crochet projects. 
 

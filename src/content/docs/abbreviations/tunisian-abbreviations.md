@@ -1,6 +1,6 @@
 ---
 title: Tunisian crochet abbreviations
-description: A guide for Tunisian crochet abbreviations
+description: Complete reference for Tunisian crochet abbreviations covering simple, knit, purl, double, and extended stitches including forward and return pass notation
 ---
 
 The following is a list of Tunisian crochet abbreviations used by the yarn industry, designers, and publishers. Refer to [Craft Yarn Council's abbreviations](https://www.craftyarncouncil.com/standards/abbreviations) for additional information.

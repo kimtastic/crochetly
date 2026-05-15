@@ -17,7 +17,8 @@ let abbreviationCache: Map<string, Abbreviation[]> = new Map();
  */
 async function loadAbbreviationFile(filename: string): Promise<string> {
   try {
-    const response = await fetch(`/src/content/docs/abbreviations/${filename}`);
+    const slug = filename.replace('.md', '');
+    const response = await fetch(`/abbreviations/${slug}/index.md`);
     if (!response.ok) {
       throw new Error(`Failed to load ${filename}: ${response.status}`);
     }

@@ -1,6 +1,6 @@
 ---
 title: Blocking
-description: Defining blocking in crochet
+description: Guide to wet, steam, and spray blocking techniques for setting crochet pieces to their intended size and shape, with tool recommendations and project suitability notes
 ---
 Blocking in crochet is the process of shaping and setting your finished piece to its intended size and drape. It is useful for:
 - Evening out stitches

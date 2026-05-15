@@ -1,6 +1,6 @@
 ---
 title: Hat and scarf measurement guide
-description: A guide to help you plan your hat and scarf projects
+description: Standard sizing reference for hats, scarves, and cowls with circumference and height/length charts from preemie through adult sizes
 ---
 Use this guide to determine standard sizes when designing or crocheting hats, scarves, and cowls. Measurements are approximate and may vary by fit preference or stitch pattern.
 

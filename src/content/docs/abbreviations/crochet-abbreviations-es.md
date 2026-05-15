@@ -1,6 +1,6 @@
 ---
 title: Spanish crochet abbreviations
-description: A guide for Spanish crochet abbreviations and terminology
+description: Complete reference for Spanish crochet abbreviations with regional variations across Spain, Mexico, Argentina, and Latin America plus US/UK equivalents
 ---
 
 The following is a list of crochet abbreviations and terminology used in Spanish-language patterns from Spain and Latin America. 

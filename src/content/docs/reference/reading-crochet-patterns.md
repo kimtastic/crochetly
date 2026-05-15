@@ -1,6 +1,6 @@
 ---
 title: Reading patterns
-description: A guide to reading a crochet pattern
+description: Guide to reading crochet patterns covering pattern anatomy, stitch shorthand and abbreviations, gauge, repeats, chart reading, and step-by-step instruction logic
 ---
 Crochet patterns are fairly consistent structures that provide instructions that guide you stitch by stitch to create beautiful projects. Knowing how to read them makes crocheting easier and more enjoyable.
 

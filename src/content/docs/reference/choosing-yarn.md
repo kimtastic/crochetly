@@ -1,6 +1,6 @@
 ---
 title: Choosing yarn 
-description: A guide to choosing yarn for a crochet project
+description: Guide to selecting yarn for crochet covering weight categories (0-7), fiber types, yardage, ply, dye lots, and recommendations for beginners
 ---
 Understanding yarn is essential for successful crochet projects. The following information are key things to know when selecting yarn for your project:
 

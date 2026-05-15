@@ -1,6 +1,6 @@
 ---
 title: Choosing hooks
-description: A guide to choosing hooks for a crochet project
+description: Guide to selecting crochet hooks covering sizes (metric, US, UK), materials, hook anatomy, ergonomic options, and a complete size conversion chart
 ---
 Choosing and understanding your crochet hooks is key to creating beautiful projects. Here's what you need to know:
 

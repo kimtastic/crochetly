@@ -1,6 +1,6 @@
 ---
 title: Amigurumi terminology
-description: A guide to the amigurumi crochet terminology
+description: Complete reference for amigurumi-specific crochet terms including magic ring, invisible decrease, working in continuous rounds, and back/front loop only techniques
 ---
 **Amigurumi** is the Japanese art of crocheting or knitting small, stuffed toys and figures. The word combines *"ami"* (meaning knitted or crocheted) and *"nuigurumi"* (meaning stuffed doll). The following information will help you with the terms used by the yarn industry, designers, and publishers.
 
