@@ -22,6 +22,13 @@ export default defineConfig({
       ],
       head: [
         {
+          tag: 'link',
+          attrs: {
+            rel: 'stylesheet',
+            href: 'https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap',
+          }
+        },
+        {
           tag: 'meta',
           attrs: {
             name: 'ai-agent',

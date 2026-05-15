@@ -1,110 +1,274 @@
 @layer starlight.custom {
-  /* === Color Variables === */
+  /* === Warm Color Palette (Light) === */
   :root {
-    /* Gradient Colors - Purple/Pink & Blue Theme */
-    --gradient-primary-hsl: 320, 70%, 65%;    /* Purple/pink */
-    --gradient-secondary-hsl: 200, 65%, 60%;  /* Blue */
-    
-    /* Dark Mode Opacity (Payabli-inspired prominence) */
-    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.35);
-    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.28);
+    --warm-bg: #fcfafa;
+    --warm-text: #202124;
+    --warm-subtle: #66635c;
+    --warm-border: #dfddd7;
+    --warm-surface: #fffffff5;
+    --warm-accent: #111;
+    --warm-hover: #f7f5f1;
   }
 
-  /* Light Mode - More prominent but still readable */
-  :root[data-theme='light'],
-  [data-theme='light'] ::backdrop {
-    --gradient-overlay: hsla(var(--gradient-primary-hsl), 0.22);
-    --gradient-secondary: hsla(var(--gradient-secondary-hsl), 0.16);
+  /* === Warm Color Palette (Dark) === */
+  :root[data-theme='dark'] {
+    --warm-bg: #1a1a17;
+    --warm-text: #e8e6df;
+    --warm-subtle: #a09c94;
+    --warm-border: #33322e;
+    --warm-surface: #242320;
+    --warm-accent: #f0ede7;
+    --warm-hover: #2d2b27;
   }
 
-  /* === Full Page Background Gradients === */
+  /* === Dark mode Starlight token overrides === */
+  :root[data-theme='dark'] {
+    color-scheme: dark;
+    --sl-color-bg-inline-code: #2d2b27;
+    --sl-color-black: var(--warm-bg);
+    --sl-color-gray-2: #b5b0a8;
+    --sl-color-gray-4: #6b6760;
+    --sl-color-gray-6: #2d2b27;
+  }
+
+  :root[data-theme='light'] {
+    color-scheme: light;
+  }
+
+  /* === Override Starlight Design Tokens === */
+  :root {
+    --sl-color-bg: var(--warm-bg);
+    --sl-color-bg-nav: var(--warm-bg);
+    --sl-color-bg-sidebar: var(--warm-bg);
+    --sl-color-bg-inline-code: #f0ede7;
+    --sl-color-text-accent: var(--warm-accent);
+    --sl-color-white: var(--warm-text);
+    --sl-color-hairline: var(--warm-border);
+    --sl-color-hairline-shade: var(--warm-border);
+    --sl-color-gray-1: var(--warm-text);
+    --sl-color-gray-2: #444;
+    --sl-color-gray-3: var(--warm-subtle);
+    --sl-color-gray-4: #8a857e;
+    --sl-color-gray-5: var(--warm-border);
+    --sl-color-gray-6: #e7e5df;
+    --sl-color-black: var(--warm-bg);
+  }
+
+  /* === Page Background === */
+  body {
+    background: var(--warm-bg);
+    color: var(--warm-text);
+  }
+
   .page {
-    background: 
-      linear-gradient(210deg, var(--gradient-overlay) 0%, transparent 35%),
-      linear-gradient(330deg, var(--gradient-secondary) 0%, transparent 40%),
-      radial-gradient(var(--gradient-overlay), transparent 50%) no-repeat -25vw -25vh / 160vw 220vh,
-      radial-gradient(var(--gradient-secondary), transparent 55%) no-repeat 75% calc(100% + 20rem) / 70rem 30rem;
-    background-attachment: fixed;
-    background-color: var(--sl-color-bg);
+    background: var(--warm-bg) !important;
+    position: relative;
+    z-index: 1;
   }
 
-  /* === Hero Image Enhancement === */
+  /* Remove old gradient body overlay */
+  body::before {
+    display: none;
+  }
+
+  /* === Typography === */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    color: var(--warm-text);
+  }
+
+  h1 {
+    letter-spacing: -0.03em;
+  }
+
+  /* === Hero Section (Splash Template) === */
+  [data-has-hero] .hero {
+    padding-top: 3.5rem;
+    padding-bottom: 1.5rem;
+    background: transparent;
+  }
+
+  [data-has-hero] .hero h1 {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    font-size: clamp(2.2rem, 4vw, 3.2rem);
+    color: var(--warm-text);
+  }
+
   [data-has-hero] .hero img,
   [data-has-hero] .hero svg {
-    background: transparent;
-    filter: 
-      drop-shadow(0 0 2rem var(--gradient-overlay))
-      drop-shadow(0 4px 1rem rgba(0, 0, 0, 0.1));
-    transition: filter 0.3s ease;
-    border: none;
-    outline: none;
-    background-blend-mode: multiply;
+    background: transparent !important;
+    filter: drop-shadow(0 4px 1rem rgba(0, 0, 0, 0.06));
+    transition: filter 0.3s ease, transform 0.3s ease;
+    border: none !important;
+    outline: none !important;
+    padding: 0;
+    margin: 0;
   }
 
   [data-has-hero] .hero img:hover,
   [data-has-hero] .hero svg:hover {
-    filter: 
-      drop-shadow(0 0 3rem var(--gradient-overlay))
-      drop-shadow(0 8px 2rem rgba(0, 0, 0, 0.15));
+    filter: drop-shadow(0 8px 2rem rgba(0, 0, 0, 0.1));
     transform: translateY(-2px);
-  }
-
-  /* === Update Button Colors to Match Brand === */
-  .sl-link-button.primary {
-    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-secondary));
-    border-color: hsl(200, 65%, 70%);
-    color: white;
-  }
-
-  .sl-link-button.primary:hover {
-    background: linear-gradient(135deg, hsl(200, 75%, 65%), var(--gradient-secondary));
-    transform: translateY(-1px);
-  }
-
-  /* Fix hero image container and elements */
-  [data-has-hero] .hero {
-    background: transparent;
   }
 
   [data-has-hero] .hero picture {
     background: transparent;
   }
 
-  [data-has-hero] .hero picture img,
-  [data-has-hero] .hero picture svg {
-    border: none !important;
-    outline: none !important;
-    background: transparent !important;
-    padding: 0;
-    margin: 0;
+  [data-has-hero] .hero > div > p {
+    color: var(--warm-subtle);
+    font-size: 1.1rem;
+    max-width: 36rem;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  /* === Additional body gradient overlay for more prominence === */
-  body::before {
-    content: '';
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: radial-gradient(var(--gradient-secondary) 0%, transparent 70%);
-    opacity: 0.3;
-    pointer-events: none;
-    z-index: -1;
+  /* === Buttons === */
+  .sl-link-button {
+    border-radius: 999px !important;
+    font-weight: 500 !important;
+    transition: opacity 0.2s ease, transform 0.2s ease !important;
   }
 
-  /* Ensure proper layering with Starlight styles */
-  .page {
-    background: none;
-    position: relative;
-    z-index: 1;
+  .sl-link-button:hover {
+    transform: translateY(-1px);
   }
 
-  /* === AI Dropdown Tools Styles === */
+  .sl-link-button.primary {
+    background: var(--warm-accent) !important;
+    border-color: var(--warm-accent) !important;
+    color: var(--warm-bg) !important;
+  }
+
+  .sl-link-button.primary:hover {
+    opacity: 0.88;
+  }
+
+  .sl-link-button.secondary {
+    border-color: var(--warm-border) !important;
+    color: var(--warm-text) !important;
+  }
+
+  .sl-link-button.secondary:hover {
+    background: var(--warm-hover);
+    border-color: var(--warm-border) !important;
+  }
+
+  /* === Card Grid === */
+  .card {
+    border: 1px solid var(--warm-border);
+    border-radius: 24px !important;
+    background: var(--warm-surface) !important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.02), 0 4px 12px rgba(0, 0, 0, 0.02) !important;
+    transition: transform 0.22s ease, box-shadow 0.22s ease !important;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04), 0 2px 4px rgba(0, 0, 0, 0.02) !important;
+  }
+
+  .card :where(.card__title) {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    color: var(--warm-text);
+  }
+
+  .card :where(p) {
+    color: var(--warm-subtle);
+    font-size: 0.95rem;
+  }
+
+  .card :where(a) {
+    color: var(--warm-accent);
+    text-decoration: none;
+  }
+
+  .card :where(a):hover {
+    opacity: 0.72;
+  }
+
+  /* === Card icons - monochrome === */
+  .card .icon {
+    border-color: var(--warm-border) !important;
+    background-color: transparent !important;
+    color: var(--warm-text);
+  }
+
+  /* === Inline code in cards === */
+  .card :where(code) {
+    background: var(--sl-color-bg-inline-code);
+    border-radius: 6px;
+    padding: 0.15em 0.4em;
+    font-size: 0.9em;
+  }
+
+  /* === Content section heading below hero === */
+  .main-frame h2 {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    color: var(--warm-text);
+  }
+
+  /* === Sidebar === */
+  .sidebar {
+    background: var(--warm-bg);
+  }
+
+  .sidebar a {
+    color: var(--warm-text);
+  }
+
+  .sidebar a[aria-current="page"] {
+    color: var(--warm-accent);
+    font-weight: 500;
+  }
+
+  /* === Social icons === */
+  .social-icons a {
+    color: var(--warm-text) !important;
+  }
+
+  /* === Navigation === */
+  .site-title {
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-weight: 500;
+    color: var(--warm-text) !important;
+  }
+
+  /* === Search dialog === */
+  .pagefind-ui__search-input,
+  .pagefind-ui__search-clear {
+    border-color: var(--warm-border) !important;
+  }
+
+  /* === Table of Contents === */
+  .right-sidebar-panel a {
+    color: var(--warm-subtle);
+  }
+
+  .right-sidebar-panel a[aria-current="true"] {
+    color: var(--warm-accent);
+  }
+
+  /* === Pager (prev/next) === */
+  .pager-link {
+    border-color: var(--warm-border);
+  }
+
+  /* === AI Dropdown Tools === */
   .ai-dropdown-container {
     display: none !important;
   }
-  
+
   .ai-dropdown-container {
     position: relative;
     display: flex;
@@ -123,10 +287,10 @@
     align-items: center;
     gap: 0.5rem;
     padding: 0.5rem 1rem;
-    background: linear-gradient(135deg, var(--gradient-overlay), var(--gradient-secondary));
-    border: 1px solid hsla(var(--gradient-primary-hsl), 0.3);
-    border-radius: 0.5rem;
-    color: var(--sl-color-text);
+    background: var(--warm-surface);
+    border: 1px solid var(--warm-border);
+    border-radius: 12px;
+    color: var(--warm-text);
     font-size: 0.875rem;
     font-weight: 500;
     cursor: pointer;
@@ -135,10 +299,10 @@
   }
 
   .ai-dropdown-trigger:hover {
-    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-overlay));
-    border-color: hsla(var(--gradient-primary-hsl), 0.5);
+    background: var(--warm-hover);
+    border-color: var(--warm-border);
     transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
   }
 
   .ai-dropdown-trigger .chevron {
@@ -154,10 +318,10 @@
     top: 100%;
     right: 0;
     margin-top: 0.5rem;
-    background: var(--sl-color-bg);
-    border: 1px solid hsla(var(--gradient-primary-hsl), 0.2);
-    border-radius: 0.5rem;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    background: var(--warm-surface);
+    border: 1px solid var(--warm-border);
+    border-radius: 14px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
     backdrop-filter: blur(12px);
     min-width: 180px;
     z-index: 1000;
@@ -172,7 +336,7 @@
     padding: 0.75rem 1rem;
     background: transparent;
     border: none;
-    color: var(--sl-color-text);
+    color: var(--warm-text);
     font-size: 0.875rem;
     cursor: pointer;
     transition: all 0.15s ease;
@@ -180,35 +344,18 @@
   }
 
   .ai-dropdown-item:hover {
-    background: linear-gradient(90deg, var(--gradient-overlay), var(--gradient-secondary));
-    color: white;
+    background: var(--warm-hover);
+    color: var(--warm-text);
   }
 
   .ai-dropdown-item:first-child {
-    border-bottom: 1px solid hsla(var(--gradient-primary-hsl), 0.1);
+    border-bottom: 1px solid var(--warm-border);
   }
 
-  /* Light mode adjustments */
+  /* Light mode adjustments for AI menu */
   :root[data-theme='light'] .ai-dropdown-menu {
     background: rgba(255, 255, 255, 0.95);
-    border-color: hsla(var(--gradient-primary-hsl), 0.15);
-  }
-
-  /* Responsive adjustments */
-  @media (max-width: 768px) {
-    .ai-dropdown-container {
-      margin-bottom: 0.75rem;
-    }
-    
-    .ai-dropdown-menu {
-      right: -1rem;
-      min-width: 160px;
-    }
-    
-    .ai-dropdown-trigger {
-      padding: 0.4rem 0.8rem;
-      font-size: 0.8rem;
-    }
+    border-color: var(--warm-border);
   }
 
   /* === Language Button Styles === */
@@ -220,10 +367,10 @@
 
   .language-button {
     padding: 0.5rem 1rem;
-    background: var(--sl-color-bg);
-    border: 1px solid hsla(var(--gradient-primary-hsl), 0.2);
-    border-radius: 0.5rem;
-    color: var(--sl-color-text);
+    background: var(--warm-bg);
+    border: 1px solid var(--warm-border);
+    border-radius: 12px;
+    color: var(--warm-text);
     font-size: 0.875rem;
     font-weight: 500;
     cursor: pointer;
@@ -232,28 +379,24 @@
   }
 
   .language-button:hover {
-    background: linear-gradient(135deg, var(--gradient-overlay), var(--gradient-secondary));
-    color: white;
-    border-color: hsla(var(--gradient-primary-hsl), 0.4);
+    background: var(--warm-hover);
+    border-color: var(--warm-border);
     transform: translateY(-1px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   }
 
   .language-button.active {
-    background: linear-gradient(135deg, var(--gradient-secondary), var(--gradient-overlay));
-    border-color: hsla(var(--gradient-primary-hsl), 0.5);
-    color: white;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    background: var(--warm-accent);
+    border-color: var(--warm-accent);
+    color: var(--warm-bg);
   }
 
-  /* Light mode adjustments for language buttons */
   :root[data-theme='light'] .language-button {
     background: rgba(255, 255, 255, 0.9);
-    border-color: hsla(var(--gradient-primary-hsl), 0.15);
+    border-color: var(--warm-border);
   }
 
   :root[data-theme='light'] .language-button:hover {
-    border-color: hsla(var(--gradient-primary-hsl), 0.25);
+    border-color: var(--warm-border);
   }
 
   /* Responsive for language buttons */
@@ -261,8 +404,25 @@
     .language-button-group {
       gap: 0.4rem;
     }
-    
+
     .language-button {
+      padding: 0.4rem 0.8rem;
+      font-size: 0.8rem;
+    }
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .ai-dropdown-container {
+      margin-bottom: 0.75rem;
+    }
+
+    .ai-dropdown-menu {
+      right: -1rem;
+      min-width: 160px;
+    }
+
+    .ai-dropdown-trigger {
       padding: 0.4rem 0.8rem;
       font-size: 0.8rem;
     }
