@@ -104,7 +104,7 @@
               createElement('select', { 
                 value: targetYarn.weight, 
                 onChange: e => setTargetYarn(prev => ({ ...prev, weight: e.target.value })),
-                className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+                className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-gray-500'
               }, [
                 createElement('option', { value: '' }, 'Select a weight'),
                 ...yarnWeights.map(w => createElement('option', { key: w.id, value: w.id }, w.name))
@@ -118,12 +118,12 @@
                   placeholder: 'e.g., 500',
                   value: targetYarn.amount,
                   onChange: e => setTargetYarn(prev => ({ ...prev, amount: e.target.value })),
-                  className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+                  className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-gray-500'
                 }),
                 createElement('select', { 
                   value: unit, 
                   onChange: e => setUnit(e.target.value),
-                  className: 'p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+                  className: 'p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-gray-500'
                 }, [
                   createElement('option', { value: 'meters' }, 'Meters'),
                   createElement('option', { value: 'yards' }, 'Yards')
@@ -138,7 +138,7 @@
               createElement('select', { 
                 value: substituteYarn.weight, 
                 onChange: e => setSubstituteYarn(prev => ({ ...prev, weight: e.target.value })),
-                className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-pink-500'
+                className: 'w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-gray-500'
               }, [
                 createElement('option', { value: '' }, 'Select a weight'),
                 ...yarnWeights.map(w => createElement('option', { key: w.id, value: w.id }, w.name))
@@ -159,7 +159,7 @@
         createElement('div', { className: 'mt-8 flex justify-center' }, [
           createElement('button', { 
             onClick: handleCalc,
-            className: 'px-8 py-3 bg-pink-600 text-white font-bold rounded-lg hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-offset-2 transition-colors'
+            className: 'px-8 py-3 font-bold rounded-lg btn-primary'
           }, 'Calculate Substitution')
         ]),
         result && createElement('div', { className: 'mt-8 p-6 bg-blue-50 border-l-4 border-blue-500 rounded-md' }, [
@@ -183,13 +183,69 @@
       tailwindLink.href = 'https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css';
       shadowRoot.appendChild(tailwindLink);
 
-      // 2. Create a root element for React inside the Shadow DOM
+      // 2. Add custom styles inside the Shadow DOM
+      const customStyles = document.createElement('style');
+      customStyles.textContent = `
+        :host {
+          width: 100%;
+        }
+        * {
+          box-sizing: border-box;
+        }
+
+        /* Theme-matched button using site CSS variables */
+        .btn-primary {
+          background: var(--warm-accent);
+          color: var(--warm-bg);
+        }
+        .btn-primary:hover {
+          opacity: 0.85;
+        }
+        .btn-primary:focus-visible {
+          outline: 2px solid var(--warm-text);
+          outline-offset: 2px;
+        }
+
+        /* Dark mode overrides — synced via data-theme from <html> */
+        :host([data-theme='dark']) .bg-white { background-color: var(--warm-surface); }
+        :host([data-theme='dark']) .bg-gray-50 { background-color: var(--warm-bg); }
+        :host([data-theme='dark']) .bg-gray-100 { background-color: var(--warm-hover); }
+        :host([data-theme='dark']) .text-gray-800 { color: var(--warm-text); }
+        :host([data-theme='dark']) .text-gray-700 { color: #d0ccc2; }
+        :host([data-theme='dark']) .text-gray-600 { color: var(--warm-subtle); }
+        :host([data-theme='dark']) .border-gray-300 { border-color: var(--warm-border); }
+        :host([data-theme='dark']) .bg-red-100 { background-color: #3b1f1f; }
+        :host([data-theme='dark']) .text-red-700 { color: #fca5a5; }
+        :host([data-theme='dark']) .border-red-500 { border-color: #ef4444; }
+        :host([data-theme='dark']) .bg-blue-50 { background-color: #1e293b; }
+        :host([data-theme='dark']) .text-blue-800 { color: #93c5fd; }
+        :host([data-theme='dark']) .text-blue-700 { color: #60a5fa; }
+        :host([data-theme='dark']) .border-blue-500 { border-color: #3b82f6; }
+      `;
+      shadowRoot.appendChild(customStyles);
+
+      // 3. Create a root element for React inside the Shadow DOM
       const reactRootEl = document.createElement('div');
       shadowRoot.appendChild(reactRootEl);
 
-      // 3. Render the React app into the Shadow DOM's root element
+      // 4. Render the React app into the Shadow DOM's root element
       const root = createRoot(reactRootEl);
       root.render(createElement(YarnSubstitutionTool));
+
+      // Sync dark mode with the host page
+      function syncTheme() {
+        const theme = document.documentElement.getAttribute('data-theme');
+        if (theme) {
+          shadowRoot.host.setAttribute('data-theme', theme);
+        }
+      }
+      syncTheme();
+
+      const themeObserver = new MutationObserver(syncTheme);
+      themeObserver.observe(document.documentElement, {
+        attributes: true,
+        attributeFilter: ['data-theme']
+      });
     }
   }
 </script>
