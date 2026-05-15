@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Concentric circles with brand colors -->
+  <g filter="url(#crochet-glow)">
+    <!-- Large concentric circles in center -->
+    <circle cx="512" cy="512" r="180" fill="none" stroke="url(#purple-gradient)" stroke-width="2" opacity="0.3"/>
+    <circle cx="512" cy="512" r="140" fill="none" stroke="url(#purple-gradient)" stroke-width="2" opacity="0.4"/>
+    <circle cx="512" cy="512" r="100" fill="none" stroke="url(#blue-gradient)" stroke-width="2" opacity="0.5"/>
+    <circle cx="512" cy="512" r="60" fill="none" stroke="url(#blue-gradient)" stroke-width="2" opacity="0.6"/>
+    <circle cx="512" cy="512" r="20" fill="url(#purple-gradient)" opacity="0.7"/>
+    
+    <!-- Medium concentric circles -->
+    <circle cx="300" cy="300" r="120" fill="none" stroke="url(#purple-gradient)" stroke-width="1.5" opacity="0.25"/>
+    <circle cx="300" cy="300" r="90" fill="none" stroke="url(#blue-gradient)" stroke-width="1.5" opacity="0.35"/>
+    <circle cx="300" cy="300" r="60" fill="none" stroke="url(#blue-gradient)" stroke-width="1.5" opacity="0.45"/>
+    <circle cx="300" cy="300" r="30" fill="url(#purple-gradient)" opacity="0.6"/>
+    
+    <circle cx="724" cy="300" r="120" fill="none" stroke="url(#purple-gradient)" stroke-width="1.5" opacity="0.25"/>
+    <circle cx="724" cy="300" r="90" fill="none" stroke="url(#blue-gradient)" stroke-width="1.5" opacity="0.35"/>
+    <circle cx="724" cy="300" r="60" fill="none" stroke="url(#blue-gradient)" stroke-width="1.5" opacity="0.45"/>
+    <circle cx="724" cy="300" r="30" fill="url(#purple-gradient)" opacity="0.6"/>
+    
+    <!-- Small accent circles -->
+    <circle cx="200" cy="750" r="80" fill="none" stroke="url(#purple-gradient)" stroke-width="1" opacity="0.2"/>
+    <circle cx="200" cy="750" r="50" fill="url(#blue-gradient)" opacity="0.3"/>
+    
+    <circle cx="824" cy="750" r="80" fill="none" stroke="url(#purple-gradient)" stroke-width="1" opacity="0.2"/>
+    <circle cx="824" cy="750" r="50" fill="url(#blue-gradient)" opacity="0.3"/>
+    
+    <!-- Bottom decorative elements -->
+    <circle cx="512" cy="850" r="60" fill="url(#purple-gradient)" opacity="0.4"/>
+    <circle cx="400" cy="900" r="40" fill="url(#blue-gradient)" opacity="0.5"/>
+    <circle cx="600" cy="900" r="40" fill="url(#purple-gradient)" opacity="0.4"/>
+    <circle cx="800" cy="900" r="40" fill="url(#blue-gradient)" opacity="0.5"/>
+  </g>
+  
+  <!-- Enhanced gradients with more variation -->
+  <defs>
+    <linearGradient id="purple-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#c746ef;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="blue-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+    
+    <radialGradient id="purple-radial" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#c746ef;stop-opacity:0.2" />
+    </radialGradient>
+    
+    <radialGradient id="blue-radial" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#4a90e2;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:0.2" />
+    </radialGradient>
+    
+    <!-- Enhanced glow filter -->
+    <filter id="crochet-glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+</svg>

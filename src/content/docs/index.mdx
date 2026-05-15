@@ -6,7 +6,8 @@ hero:
   tagline: Guides, patterns, and resources to help you master crochet.
   image:
     alt: Crochetly - Master of art of crochet with patterns and guides
-    file: ../../assets/crochetly-concentric.svg
+    light: ../../assets/crochetly-concentric.svg
+    dark: ../../assets/crochetly-concentric-dark.svg
   actions:
     - text: Get Started
       link: /guides/get-started/
@@ -16,48 +17,27 @@ hero:
       icon: right-arrow
 ---
 
-import { Card, CardGrid, Aside } from '@astrojs/starlight/components';
+import { Card, CardGrid } from '@astrojs/starlight/components';
 
-# Welcome to Crochetly
-
-Crochetly is a complete resource for [learning crochet](/guides/get-started/), creating patterns, and connecting with the crochet community. No patterns for sale, no yarn store, no accessories. Just guides, tools, and reference.
-
-Powered by crochet enthusiasts and open-source contributors. [Join us!](https://github.com/kimtastic/crochetly)
-
-## Learn Crochet
+Crochetly is a free, educational crochet resource. Just guides, tools, and reference — no patterns for sale, no yarn store, no accessories.
 
 <CardGrid>
 	<Card title="Get started" icon="star">
-		 [Get started](guides/get-started) with your first crochet project with the basics. 
-	</Card>
-	<Card title="Templates" icon="puzzle">
-		Create a crochet pattern from a [template](templates/crochet-pattern-mdtemplate/).
+		Start your first crochet project with the [basics](guides/get-started) — tools, terminology, and beginner techniques.
 	</Card>
 	<Card title="Abbreviations" icon="pencil">
-		Learn what crochet [abbreviations](abbreviations/crochet-abbreviations-us/) mean.
+		Look up crochet [abbreviations](abbreviations/crochet-abbreviations-us/) in US, UK, French, Spanish, and Japanese.
 	</Card>
-	<Card title="Troubleshooting" icon="open-book">
-		Learn more how to [troubleshoot](reference/troubleshooting/) your crochet project.
+	<Card title="Reference" icon="open-book">
+		Browse [guides](reference/reading-crochet-patterns/) on reading patterns, choosing yarn, troubleshooting, and more.
 	</Card>
-</CardGrid>
-
-## Interactive stitch library 
-We've built custom tools to make your crochet journey easier and more enjoyable.
-<CardGrid>
+	<Card title="Templates" icon="puzzle">
+		Use a [template](templates/crochet-pattern-mdtemplate/) to write and share your own crochet patterns.
+	</Card>
 	<Card title="Stitch library" icon="information">
-		Learn more about crochet stitches in the <a href="reference/stitch-library/">stitch library</a>.
+		Explore stitches and techniques in the interactive [stitch library](reference/stitch-library/).
 	</Card>
 	<Card title="Yarn substitution" icon="heart">
-		Quickly find a way to <a href="templates/yarn-sub">convert yarn</a>.
+		Find suitable yarn alternatives with the [yarn substitution tool](templates/yarn-sub).
 	</Card>
 </CardGrid>
-
-## Have a question or want to get involved?
-
-Join the community of crochet enthusiasts, share your projects, and help others learn.
-
-[View on GitHub](https://github.com/kimtastic/crochetly)
-
-
-
-
