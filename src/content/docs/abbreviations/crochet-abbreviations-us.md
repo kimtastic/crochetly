@@ -213,7 +213,7 @@ Designers and publishers sometimes use special abbreviations in a pattern. Alway
 
 ## How do US crochet terms convert to UK English?
 
-**US `sc` (single crochet) = UK `dc` (double crochet). US `dc` (double crochet) = UK `tr` (treble crochet).** Stitch name confusion between US and UK is the most common issue for crocheters — use this table to convert.
+**US `sc` (single crochet) = UK `dc` (double crochet). US `dc` (double crochet) = UK `tr` (treble crochet).** Stitch name confusion between US and UK is the most common issue for crocheters, so use this table to convert.
 
 This table lists the equivalent stitch names between **US** and **UK** crochet terminology. Use this as a handy reference when converting patterns or instructions.
 

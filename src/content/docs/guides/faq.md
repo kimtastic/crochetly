@@ -7,7 +7,7 @@ description: Get answers to common questions about Crochetly's free educational 
 
 ## What is Crochetly?
 
-Crochetly is a free, educational crochet resource — not a shop or marketplace.
+Crochetly is a free, educational crochet resource, not a shop or marketplace.
 
 It helps crocheters learn techniques, understand stitches, and explore pattern design through guides, references, and tools. There are no products for sale, no subscriptions, and no downloads.
 

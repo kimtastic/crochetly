@@ -16,14 +16,14 @@ The table below covers essential crochet terms: chain, slip stitch, yarn over, a
 | **Slip Stitch**    | `sl st`      | A joining stitch with no height; used to join rounds or move stitches. |
 | **Yarn Over**      | `yo`         | Wrapping the yarn over the hook to prepare for making a stitch.       |
 | **Skip**           | `sk`         | To skip a stitch or space in a pattern.                               |
-| **Turn**           | —            | Used at the end of a row to flip your work and begin a new row.       |
+| **Turn**           | -            | Used at the end of a row to flip your work and begin a new row.       |
 | **Stitch**         | `st`         | A general term for any individual crochet stitch.                      |
-| **Working in Rows**| —            | Crocheting back and forth in rows, turning the work at the end of each row. |
-| **Joining New Yarn** | —          | Attaching a new strand of yarn, often at the beginning of a new section or color. |
-| **Changing Color** | —            | Switching to a different yarn color, usually completed in the last yarn-over of a stitch. |
-| **Holding the Yarn** | —          | The way you tension and guide yarn with your non-dominant hand.        |
-| **Fastening Off**  | —            | Finishing the last stitch and cutting the yarn to secure your work.    |
-| **Finger Wrap**    | —            | A method of wrapping yarn around your fingers to begin a project, often used for a magic ring or loop. |
+| **Working in Rows**| -            | Crocheting back and forth in rows, turning the work at the end of each row. |
+| **Joining New Yarn** | -          | Attaching a new strand of yarn, often at the beginning of a new section or color. |
+| **Changing Color** | -            | Switching to a different yarn color, usually completed in the last yarn-over of a stitch. |
+| **Holding the Yarn** | -          | The way you tension and guide yarn with your non-dominant hand.        |
+| **Fastening Off**  | -            | Finishing the last stitch and cutting the yarn to secure your work.    |
+| **Finger Wrap**    | -            | A method of wrapping yarn around your fingers to begin a project, often used for a magic ring or loop. |
 
 ## What pattern-specific terms should you know?
 
@@ -37,8 +37,8 @@ Increase (inc), decrease (dec), front loop only (flo), and back loop only (blo) 
 | **Back Loop Only** | `blo`        | Work the stitch only through the back loop of the stitch.              |
 | **Right Side**     | `RS`         | The intended “front” or visible side of your project.                  |
 | **Wrong Side**     | `WS`         | The back or reverse side of the project.                               |
-| **Fasten Off**     | —            | To secure and cut the yarn after finishing a project.                  |
-| **Weave In Ends**  | —            | Tucking and hiding yarn tails in your work for a neat finish.          |
+| **Fasten Off**     | -            | To secure and cut the yarn after finishing a project.                  |
+| **Weave In Ends**  | -            | Tucking and hiding yarn tails in your work for a neat finish.          |
 
 ## What special terms appear in pattern rounds?
 
@@ -49,8 +49,8 @@ Repeat (rep), round (rnd), and space (sp) are terms you will see often. "Work ev
 | **Repeat**         | `rep`        | Do the previous instructions again.                                     |
 | **Round**          | `rnd`        | A circle of stitches; common in hats, motifs, and amigurumi.           |
 | **Space**          | `sp`         | A chain space or gap created between stitches.                         |
-| **Work Even**      | —            | Continue stitching without increasing or decreasing.                   |
-| **Gauge**          | —            | The number of stitches/rows per inch; important for sizing.           |
+| **Work Even**      | -            | Continue stitching without increasing or decreasing.                   |
+| **Gauge**          | -            | The number of stitches/rows per inch; important for sizing.           |
 
 ## Common crochet stitches
 
@@ -73,10 +73,10 @@ This list is not exhaustive. Refer to [YouTube crochet tutorials](https://www.yo
 | **Front Post Double Crochet** | `fpdc`     | A dc worked around the post (front) of the stitch below.                  |
 | **Back Post Double Crochet**  | `bpdc`     | A dc worked around the post (back) of the stitch below.                   |
 | **Cluster Stitch**          | `cl`         | A group of stitches joined at the top to form one stitch.                  |
-| **Popcorn Stitch**          | —            | Several stitches worked into one, then closed to form a raised “pop.”      |
-| **Bobble Stitch**           | —            | A raised stitch made by partially completing several stitches in one spot. |
-| **Puff Stitch**             | —            | A textured stitch made by drawing up multiple loops in the same space.     |
+| **Popcorn Stitch**          | -            | Several stitches worked into one, then closed to form a raised “pop.”      |
+| **Bobble Stitch**           | -            | A raised stitch made by partially completing several stitches in one spot. |
+| **Puff Stitch**             | -            | A textured stitch made by drawing up multiple loops in the same space.     |
 | **Foundation Single Crochet** | `fsc`      | A foundation chain and single crochet combined into one row.              |
 | **Foundation Double Crochet** | `fdc`      | A foundation chain and double crochet combined into one row.              |
 | **Extended Single Crochet** | `esc`        | A variation of sc that adds a bit of height and stretch.                   |
-| **Spike Stitch**            | —            | A sc worked into a row or two below the current one, creating a vertical look. |
+| **Spike Stitch**            | -            | A sc worked into a row or two below the current one, creating a vertical look. |

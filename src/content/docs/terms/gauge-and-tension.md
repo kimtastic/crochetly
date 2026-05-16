@@ -39,7 +39,7 @@ Crochet a 4"x4" (10x10 cm) swatch using your pattern yarn and hook. Measure stit
 
 Hold your yarn comfortably and practice even stitches. Using the same hook type and size throughout helps maintain consistency.
 
-- Hold your yarn comfortably — not too tight or loose.
+- Hold your yarn comfortably, not too tight or loose.
 - Practice stitches evenly.
 - Use the same hook type and size throughout.
 - Avoid changing tension mid-project.

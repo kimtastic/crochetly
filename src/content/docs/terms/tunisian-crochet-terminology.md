@@ -27,23 +27,23 @@ The forward pass picks up loops onto your hook; the return pass works them off. 
 
 | Term                          | Abbreviation | Meaning                                                                 |
 |-------------------------------|--------------|-------------------------------------------------------------------------|
-| Forward Pass                  | —            | The first half of a Tunisian row where loops are picked up and left on the hook. |
-| Return Pass                   | —            | The second half of a Tunisian row; loops are worked off the hook.       |
-| Foundation Row                | —            | The initial row of stitches built on the chain.                         |
-| Bind Off                      | —            | A technique to finish the project by closing off the live loops.        |
-| Edge Stitch                   | —            | The first and last stitch in a row, often worked differently to maintain edges. |
-| Work Under Vertical Bar       | —            | The most common method of inserting the hook in Tunisian crochet.       |
-| Work Under Back/Front Bar     | —            | Alternative insertion points to create texture and variation.           |
+| Forward Pass                  | -            | The first half of a Tunisian row where loops are picked up and left on the hook. |
+| Return Pass                   | -            | The second half of a Tunisian row; loops are worked off the hook.       |
+| Foundation Row                | -            | The initial row of stitches built on the chain.                         |
+| Bind Off                      | -            | A technique to finish the project by closing off the live loops.        |
+| Edge Stitch                   | -            | The first and last stitch in a row, often worked differently to maintain edges. |
+| Work Under Vertical Bar       | -            | The most common method of inserting the hook in Tunisian crochet.       |
+| Work Under Back/Front Bar     | -            | Alternative insertion points to create texture and variation.           |
 
 ## Special techniques
 
-Tunisian entrelac uses blocks or diamonds to build fabric. Curling is common — blocking helps reduce it.
+Tunisian entrelac uses blocks or diamonds to build fabric. Curling is common, but blocking helps reduce it.
 
 | Term  | Abbreviation | Meaning   |
 |----|--------------|----------------------------|
-| Tunisian Entrelac             | —            | A modular technique using blocks or diamonds to build the fabric.       |
-| Tunisian in the Round         | —            | Working Tunisian crochet in a circular fashion using a double-ended hook. |
-| Curling                       | —            | The tendency of Tunisian fabric to curl, especially with simple stitches. |
-| Blocking                      | —            | A finishing technique used to shape the fabric and reduce curling.      |
-| Extended Stitch               | —            | A stitch variation with added height by chaining within the stitch.     |
-| Honeycomb Stitch              | —            | A textured pattern alternating simple and purl stitches.                |
+| Tunisian Entrelac             | -            | A modular technique using blocks or diamonds to build the fabric.       |
+| Tunisian in the Round         | -            | Working Tunisian crochet in a circular fashion using a double-ended hook. |
+| Curling                       | -            | The tendency of Tunisian fabric to curl, especially with simple stitches. |
+| Blocking                      | -            | A finishing technique used to shape the fabric and reduce curling.      |
+| Extended Stitch               | -            | A stitch variation with added height by chaining within the stitch.     |
+| Honeycomb Stitch              | -            | A textured pattern alternating simple and purl stitches.                |

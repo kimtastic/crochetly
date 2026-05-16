@@ -1,6 +1,6 @@
 ---
 title: Crochet chart symbols
-description: Quick reference for standard crochet chart symbols — basic stitches, increases, decreases, post stitches, special stitches (bobble, puff, popcorn), and diagram reading tips.
+description: Quick reference for standard crochet chart symbols, including basic stitches, increases, decreases, post stitches, special stitches (bobble, puff, popcorn), and diagram reading tips.
 ---
 
 **Sources:** Craft Yarn Council crochet chart standards

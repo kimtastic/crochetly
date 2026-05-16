@@ -12,7 +12,7 @@ To purchase a PDF template, visit [my shop](https://www.etsy.com/shop/ShopCroche
 
 Crochet pattern designed by [name] of [company].
 
-This pattern shows you how to crochet a **[Pattern Name]** — a [describe item: e.g., small plush toy, hat, etc.]. It uses [basic/intermediate/advanced] crochet techniques. 
+This pattern shows you how to crochet a **[Pattern Name]** , a [describe item: e.g., small plush toy, hat, etc.]. It uses [basic/intermediate/advanced] crochet techniques. 
 
 **Skill level:** Ideal for [experience level].
 

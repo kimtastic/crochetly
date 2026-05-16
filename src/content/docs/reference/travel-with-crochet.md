@@ -1,6 +1,6 @@
 ---
 title: Travel checklist
-description: Packing checklist for bringing crochet on trips — essential tools, TSA-friendly supplies, project-planning tips, and what to pack in your travel crochet kit.
+description: Packing checklist for bringing crochet on trips, including essential tools, TSA-friendly supplies, project-planning tips, and what to pack in your travel crochet kit.
 ---
 
 Crochet is a great travel buddy. Next time you plan a trip, use this checklist to pack your project.

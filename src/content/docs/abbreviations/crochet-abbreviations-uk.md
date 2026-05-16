@@ -5,7 +5,7 @@ description: Complete reference of UK crochet abbreviations from dc to trtr, wit
 
 **Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
-**Need to decode a UK crochet pattern?** This reference covers standard UK abbreviations — where `dc` means treble crochet and `sc` means double crochet — organized by category.
+**Need to decode a UK crochet pattern?** This reference covers standard UK abbreviations, where `dc` means treble crochet and `sc` means double crochet, organized by category.
 
 Designers and publishers sometimes use special abbreviations in a pattern. Always check the pattern's key before you start.
 
@@ -84,7 +84,7 @@ Designers and publishers sometimes use special abbreviations in a pattern. Alway
 
 ## What are the UK foundation and construction terms?
 
-**`beg` means begin/beginning, `inc` means increase, `dec` means decrease, and `rep` means repeat — same as US for these terms.** These describe how a project is structured.
+**`beg` means begin/beginning, `inc` means increase, `dec` means decrease, and `rep` means repeat, same as US for these terms.** These describe how a project is structured.
 
 | Abbreviation    | Description                             |
 |-----------------|-----------------------------------------|
@@ -105,7 +105,7 @@ Designers and publishers sometimes use special abbreviations in a pattern. Alway
 
 ## What are the UK terms for stitch loops and placement?
 
-**`FL/FLO` is front loop only, `BL/BLO` is back loop only, `tbl` is through back loop, and `sk` means skip — same abbreviations as US.** These specify where to insert your hook.
+**`FL/FLO` is front loop only, `BL/BLO` is back loop only, `tbl` is through back loop, and `sk` means skip, same abbreviations as US.** These specify where to insert your hook.
 
 | Abbreviation    | Description                                      |
 |-----------------|--------------------------------------------------|
@@ -125,7 +125,7 @@ Designers and publishers sometimes use special abbreviations in a pattern. Alway
 
 ## What are the UK abbreviations for markers and colour?
 
-**`m` is marker, `pm` is place marker, `MC` is main colour, `CC` is contrasting colour — same as US with British spelling.** These help you track your place and manage colour changes.
+**`m` is marker, `pm` is place marker, `MC` is main colour, `CC` is contrasting colour, same as US with British spelling.** These help you track your place and manage colour changes.
 
 | Abbreviation    | Description            |
 |-----------------|------------------------|
@@ -162,7 +162,7 @@ Designers and publishers sometimes use special abbreviations in a pattern. Alway
 
 ## What are the UK abbreviations for special stitches?
 
-**`bo` is bobble, `CL` is cluster, `pc` is popcorn, `ps/puff` is puff stitch, `sh` is shell — same abbreviations as US.** These decorative stitches share the same abbreviations across UK and US.
+**`bo` is bobble, `CL` is cluster, `pc` is popcorn, `ps/puff` is puff stitch, `sh` is shell, same abbreviations as US.** These decorative stitches share the same abbreviations across UK and US.
 
 | Abbreviation    | Description              |
 |-----------------|--------------------------|
@@ -213,7 +213,7 @@ Designers and publishers sometimes use special abbreviations in a pattern. Alway
 
 ## How do UK crochet terms convert to US English?
 
-**UK `dc` (double crochet) = US `sc` (single crochet). UK `tr` (treble crochet) = US `dc` (double crochet).** UK stitch names are always one level higher than US — this table helps you convert between systems.
+**UK `dc` (double crochet) = US `sc` (single crochet). UK `tr` (treble crochet) = US `dc` (double crochet).** UK stitch names are always one level higher than US, and this table helps you convert between systems.
 
 This table lists the equivalent stitch names between **US** and **UK** crochet terminology. Use this as a handy reference when converting patterns or instructions.
 

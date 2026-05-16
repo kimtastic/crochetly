@@ -1,6 +1,6 @@
 ---
 title: Reading patterns
-description: Guide to reading crochet patterns — pattern anatomy, stitch abbreviations and shorthand, gauge, repeats, chart reading, and step-by-step instruction flow for beginners.
+description: Guide to reading crochet patterns, covering pattern anatomy, stitch abbreviations and shorthand, gauge, repeats, chart reading, and step-by-step instruction flow for beginners.
 ---
 
 Crochet patterns follow a similar structure. They guide you stitch by stitch to create beautiful projects. Learning to read them makes crocheting easier and more fun.
@@ -11,15 +11,15 @@ Crochet patterns follow a similar structure. They guide you stitch by stitch to 
 
 ### Common headings and elements
 
-- **Pattern Title & Designer Information** — the project name and credit to the pattern designer.
-- **Skill Level** — a general indicator of complexity (beginner, intermediate, advanced). This is subjective but helpful for expectations.
-- **Materials / Notions** — yarn weight and type, hook size, and any additional tools (stitch markers, buttons, yarn needle, etc.).
-- **Gauge / Tension** — the number of stitches and rows per measurement (often 4 in / 10 cm). Matching gauge helps ensure correct sizing.
-- **Finished Size / Measurements** — final dimensions of the project. Especially important for garments and fitted items.
-- **Abbreviations & Special Stitches** — a list defining all shorthand and any non-standard stitches used in the pattern.
-- **Instructions / Stitch Sequence** — the step-by-step written directions for completing the project.
-- **Charts / Diagrams** — visual representations of stitch placement or pattern structure (sometimes included instead of, or alongside, written instructions).
-- **Notes / Pattern Tips** — important guidance you should read before starting — often includes construction details, variations, or warnings.
+- **Pattern Title & Designer Information**: the project name and credit to the pattern designer.
+- **Skill Level**: a general indicator of complexity (beginner, intermediate, advanced). This is subjective but helpful for expectations.
+- **Materials / Notions**: yarn weight and type, hook size, and any additional tools (stitch markers, buttons, yarn needle, etc.).
+- **Gauge / Tension**: the number of stitches and rows per measurement (often 4 in / 10 cm). Matching gauge helps ensure correct sizing.
+- **Finished Size / Measurements**: final dimensions of the project. Especially important for garments and fitted items.
+- **Abbreviations & Special Stitches**: a list defining all shorthand and any non-standard stitches used in the pattern.
+- **Instructions / Stitch Sequence**: the step-by-step written directions for completing the project.
+- **Charts / Diagrams**: visual representations of stitch placement or pattern structure (sometimes included instead of, or alongside, written instructions).
+- **Notes / Pattern Tips**: important guidance you should read before starting. Often includes construction details, variations, or warnings.
 
 > **Tip:** Always scan the entire pattern before you begin. Knowing what sections are included helps you avoid surprises later.
 
@@ -37,12 +37,12 @@ A well-written pattern will always define its abbreviations up front.
 
 ### Common examples
 
-- `ch` — chain
-- `sc` — single crochet
-- `dc` — double crochet
-- `sl st` — slip stitch
+- `ch`: chain
+- `sc`: single crochet
+- `dc`: double crochet
+- `sl st`: slip stitch
 
-> **Tip:** Review the abbreviation list before you start stitching. If something looks unfamiliar, pause and look it up — guessing often leads to mistakes.
+> **Tip:** Review the abbreviation list before you start stitching. If something looks unfamiliar, pause and look it up, because guessing often leads to mistakes.
 
 ## Why is gauge important in crochet patterns?
 

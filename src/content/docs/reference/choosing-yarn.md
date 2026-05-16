@@ -1,6 +1,6 @@
 ---
 title: Choosing yarn
-description: Guide to selecting yarn for crochet — weight categories (0–7), fiber types (acrylic, cotton, wool, bamboo), yardage per weight, ply, dye lots, care instructions, and recommendations for beginners.
+description: Guide to selecting yarn for crochet, covering weight categories (0–7), fiber types (acrylic, cotton, wool, bamboo), yardage per weight, ply, dye lots, care instructions, and recommendations for beginners.
 ---
 
 Understanding yarn helps you pick the right materials for your project. Here is what to look for when choosing yarn.
@@ -52,7 +52,7 @@ Understanding yarn helps you pick the right materials for your project. Here is 
 | **4**    | Aran         | Worsted        | 10 Ply       | 120–200           | 16–20 sts                | 4.5–5.5          | 5.5–6.5        | Afghan, Fisherman           | Thick, warm, balanced weight            |
 | **5**     | Chunky       | Bulky          | 12 Ply       | 80–120            | 12–15 sts                | 5.5–8.0          | 6.5–9.0        | Craft, Rug Yarn             | Heavy, plush, fast to work with         |
 | **6**| Super Chunky | Super Bulky    | 14 Ply       | 60–80             | 7–11 sts                 | 8.0–12.75         | 9.0–15.0       | Roving, Jumbo               | Very thick, great for chunky projects   |
-| **7**     | Mega Chunky  | Jumbo          | —            | <60               | 6 sts or fewer           | 12.75+           | 15.0+          | Arm Knitting Yarn           | Extremely thick, oversized texture      |
+| **7**     | Mega Chunky  | Jumbo          | -            | <60               | 6 sts or fewer           | 12.75+           | 15.0+          | Arm Knitting Yarn           | Extremely thick, oversized texture      |
 
 ## What is yarn ply?
 

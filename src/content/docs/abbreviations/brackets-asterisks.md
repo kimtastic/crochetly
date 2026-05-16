@@ -1,6 +1,6 @@
 ---
 title: Brackets and asterisks
-description: How to read parentheses, brackets, and asterisks in crochet patterns — group stitches, repeat sequences, and follow pattern notation with ease
+description: How to read parentheses, brackets, and asterisks in crochet patterns, including how to group stitches, repeat sequences, and follow pattern notation with ease
 ---
 **Parentheses `()`, square brackets `[]`, and asterisks `*` tell you how to group and repeat stitches in crochet patterns.** Curved brackets group stitches worked into the same space. Square brackets mark repeatable units. Asterisks flag where a repeating sequence begins.
 

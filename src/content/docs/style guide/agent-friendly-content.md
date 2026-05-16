@@ -126,9 +126,9 @@ llmsTxt({ siteUrl: 'https://crochetly.com' })
 
 ## How do I test agent-readiness after deployment?
 
-1. Fetch `https://crochetly.com/llms.txt` — should return a valid directory
-2. Append `/index.md` to any page URL — should return raw Markdown
+1. Fetch `https://crochetly.com/llms.txt`, which should return a valid directory
+2. Append `/index.md` to any page URL, which should return raw Markdown
 3. Run an agent like OpenCode with the llms.txt URL as context
 4. Check that the `<meta name="ai-agent">` tag appears in page HTML
 
-No additional build steps beyond `npm run build` are needed — the integration runs automatically.
+No additional build steps beyond `npm run build` are needed, because the integration runs automatically.

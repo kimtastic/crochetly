@@ -7,7 +7,7 @@ Finishing is the final step that secures your project and gets it ready to use.
 
 
 ## What does finishing mean in crochet?
-Finishing usually means fastening off — cutting the yarn and securing the tail — and weaving in ends to hide yarn tails inside the stitches.
+Finishing usually means fastening off, cutting the yarn and securing the tail, and weaving in ends to hide yarn tails inside the stitches.
 
 ## How do I write finishing instructions?
 - Be specific. Use action-oriented verbs like "Weave in ends" or "Block to dimensions."

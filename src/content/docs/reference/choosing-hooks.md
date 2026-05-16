@@ -1,13 +1,13 @@
 ---
 title: Choosing hooks
-description: Guide to selecting crochet hooks — sizes (metric, US, UK), materials (aluminum, steel, wood, plastic), hook anatomy, ergonomic options, and complete size conversion chart.
+description: Guide to selecting crochet hooks, covering sizes (metric, US, UK), materials (aluminum, steel, wood, plastic), hook anatomy, ergonomic options, and complete size conversion chart.
 ---
 
 Picking the right crochet hook makes a big difference in your projects. The right hook helps you maintain consistent tension and prevents hand fatigue.
 
 ## How do you choose the right crochet hook?
 
-**Answer:** Follow the yarn label recommendation (usually listed in mm). Use the hook size suggested in your pattern for correct gauge. Adjust hook size to change fabric tension — larger hook means looser fabric.
+**Answer:** Follow the yarn label recommendation (usually listed in mm). Use the hook size suggested in your pattern for correct gauge. Adjust hook size to change fabric tension. A larger hook means looser fabric.
 
 - Follow the yarn label recommendation (usually listed in mm).
 - Use the hook size suggested in your pattern for correct gauge.
@@ -34,7 +34,7 @@ Picking the right crochet hook makes a big difference in your projects. The righ
 | **Aluminum** | Lightweight, smooth, good for most yarn types    |
 | **Steel**    | Very small hooks for lace and fine thread crochet|
 | **Plastic**  | Lightweight, sometimes less smooth, budget-friendly|
-| **Wood/Bamboo**| Warm, slightly textured grip, slows down stitching — good for slippery yarns |
+| **Wood/Bamboo**| Warm, slightly textured grip that slows down stitching, good for slippery yarns |
 
 Choose a hook that feels comfortable in your hand and does not tire your wrist.
 

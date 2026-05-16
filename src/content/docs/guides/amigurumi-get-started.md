@@ -25,12 +25,12 @@ See [amigurumi terminology](amigurumi-terminology.md) for common terms used in a
 
 You need six basic stitches to start making amigurumi:
 
-- **Magic Ring (Magic Circle)** — starting technique
-- **Chain `ch`** — foundation stitches
-- **Single Crochet `sc`** — the main body stitch
-- **Increase `inc`** — 2 `sc` in one stitch
-- **Decrease `dec`** — `sc` two stitches together
-- **Slip Stitch `sl st`** — joining rounds
+- **Magic Ring (Magic Circle)** is a starting technique
+- **Chain `ch`** are foundation stitches
+- **Single Crochet `sc`** is the main body stitch
+- **Increase `inc`** means 2 `sc` in one stitch
+- **Decrease `dec`** means `sc` two stitches together
+- **Slip Stitch `sl st`** is for joining rounds
 
 [YouTube crochet tutorials](https://www.youtube.com/results?search_query=crochet+tutorials) offer clear, helpful guidance for each stitch.
 

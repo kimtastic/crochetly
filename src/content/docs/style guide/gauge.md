@@ -20,4 +20,4 @@ Gauge: 14 sts x 16 rows = 4" x 4" in dc
 See [gauge and tension](gauge-and-tension.md) for more information.
 
 ## Why is gauge important?
-If your gauge doesn't match the pattern's, your project will come out the wrong size. A garment that should be 40 inches around might end up 36 inches — or 44.
+If your gauge doesn't match the pattern's, your project will come out the wrong size. A garment that should be 40 inches around might end up 36 inches or 44.

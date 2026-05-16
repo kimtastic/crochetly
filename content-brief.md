@@ -39,8 +39,8 @@ location: Copy completed briefs into agent prompts when requesting new content.
 
 **Automatic trust section (do not add manually):**
 > Every page gets `**Author:** Crochetly · **Last updated:** <git date>` injected
-> at build time via a remark plugin. Do not include author, date, or "last
-> updated" in the content — it is handled automatically.
+> at build time via a remark plugin. Author, date, and "last
+> updated" are handled automatically, so do not include them in the content.
 
 **Sources (optional, manual):**
 > If this page references authoritative sources (e.g., Craft Yarn Council,

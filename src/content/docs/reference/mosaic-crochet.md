@@ -9,7 +9,7 @@ description: Learn mosaic crochet with this beginner-friendly guide covering ove
 
 ## What is Mosaic Crochet?
 
-**Answer:** Mosaic crochet creates colorful motifs using simple stitches — single crochet, double crochet, and chains — all worked one color at a time. It is typically worked in rows (overlay) or rounds (inset).
+**Answer:** Mosaic crochet creates colorful motifs using simple stitches, including single crochet, double crochet, and chains, all worked one color at a time. It is typically worked in rows (overlay) or rounds (inset).
 
 - Worked in **rows** (overlay mosaic) or **rounds** (inset mosaic)
 - Done using **only one color at a time**
@@ -46,7 +46,7 @@ description: Learn mosaic crochet with this beginner-friendly guide covering ove
 
 ## What tools do you need for mosaic crochet?
 
-**Answer:** You only need basic supplies — contrasting yarn colors, a hook, scissors, and a tapestry needle. Stitch markers are optional but helpful.
+**Answer:** You only need basic supplies: contrasting yarn colors, a hook, scissors, and a tapestry needle. Stitch markers are optional but helpful.
 
 - 2 or more contrasting yarn colors
 - Crochet hook appropriate for yarn weight

@@ -7,7 +7,7 @@ description: Complete reference for Spanish crochet abbreviations with regional 
 
 **Reading a crochet pattern in Spanish?** This guide covers the most common Spanish crochet abbreviations from Spain and Latin America, including regional differences.
 
-Spanish crochet terms vary by region — Spain and Latin America often use different words. Designers and publishers sometimes use their own abbreviations. Always check the pattern's key (clave de abreviaturas) for the exact terms.
+Spanish crochet terms vary by region; Spain and Latin America often use different words. Designers and publishers sometimes use their own abbreviations. Always check the pattern's key (clave de abreviaturas) for the exact terms.
 
 ## What are the most common Spanish crochet abbreviations?
 
@@ -247,7 +247,7 @@ Spanish crochet terms vary by region — Spain and Latin America often use diffe
 
 ## What should I know before reading a Spanish crochet pattern?
 
-**Always check for regional variations — Spain, Mexico, and Argentina use different terms for the same stitch.** Look for the pattern's abbreviation key (clave de abreviaturas) before starting.
+**Always check for regional variations, because Spain, Mexico, and Argentina use different terms for the same stitch.** Look for the pattern's abbreviation key (clave de abreviaturas) before starting.
 
 1. **Regional Differences**: Be aware of regional variations, especially between Spain and Latin America
 2. **Abbreviation Consistency**: Check each pattern's abbreviation key as variations exist

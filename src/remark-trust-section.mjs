@@ -27,6 +27,9 @@ export default function remarkTrustSection() {
 
     if (!filePath.includes('/src/content/docs/')) return;
 
+    const filename = filePath.split('/').pop();
+    if (filename === 'index.mdx') return;
+
     const date = getFileDate(filePath);
     if (!date) return;
 

@@ -2,7 +2,7 @@
 
 ## 🎨 Brand Palette
 
-Crochetly uses a **monochrome palette** — black in light mode, white in dark mode.
+Crochetly uses a **monochrome palette**: black in light mode, white in dark mode.
 
 - **Light mode:** `#000` (#202124 body text)
 - **Dark mode:** `#fff` (#e8e6df body text)
@@ -28,7 +28,7 @@ This keeps the site clean, accessible, and distraction-free.
 - **Style:** Monochrome, inheriting text color via `fill="currentColor"`
 - **Light mode:** Dark icons on card surfaces
 - **Dark mode:** Light icons on card surfaces
-- **No per-icon color variation** — all icons share the same text color
+- **No per-icon color variation**, all icons share the same text color
 
 ## 📐 Design Principles
 

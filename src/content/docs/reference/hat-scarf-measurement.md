@@ -1,6 +1,6 @@
 ---
 title: Hat and scarf measurement guide
-description: Standard sizing reference for hats, scarves, and cowls with circumference and height/length charts from preemie through adult sizes — plus tips for fit and yarn choice.
+description: Standard sizing reference for hats, scarves, and cowls with circumference and height/length charts from preemie through adult sizes, plus tips for fit and yarn choice.
 ---
 
 Use this guide to find standard sizes for hats, scarves, and cowls. Measurements are approximate and may vary based on fit preference or stitch pattern.
@@ -43,7 +43,7 @@ Use this guide to find standard sizes for hats, scarves, and cowls. Measurements
 
 ## What general tips apply to hats, scarves, and cowls?
 
-**Answer:** Gauge matters — swatch first. Stitch pattern affects size (cables, bobbles, ribbing can shrink width). Bulkier yarns need fewer rows; finer yarns require more.
+**Answer:** Gauge matters, so swatch first. Stitch pattern affects size (cables, bobbles, ribbing can shrink width). Bulkier yarns need fewer rows; finer yarns require more.
 
 - **Gauge matters**: Swatch first to ensure correct dimensions.
 - **Stitch pattern affects size**: Cables, bobbles, or ribbing can shrink width.

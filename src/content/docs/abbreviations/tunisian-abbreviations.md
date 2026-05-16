@@ -5,7 +5,7 @@ description: Complete reference for Tunisian crochet abbreviations covering simp
 
 **Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
-**Working on a Tunisian crochet pattern?** Tunisian crochet uses its own set of abbreviations like `tss` (Tunisian simple stitch), `tks` (Tunisian knit stitch), and `tps` (Tunisian purl stitch) — distinct from standard crochet.
+**Working on a Tunisian crochet pattern?** Tunisian crochet uses its own set of abbreviations like `tss` (Tunisian simple stitch), `tks` (Tunisian knit stitch), and `tps` (Tunisian purl stitch), which are distinct from standard crochet.
 
 ## What are all Tunisian crochet abbreviations?
 
@@ -51,7 +51,7 @@ description: Complete reference for Tunisian crochet abbreviations covering simp
 
 ## What are the Tunisian simple and extended stitches?
 
-**`tss` is Tunisian simple stitch — the foundation stitch. `etss` is the extended version. `tss2tog` and `tss3tog` are decreases.** These are the most commonly used Tunisian stitches for beginners.
+**`tss` is Tunisian simple stitch, the foundation stitch. `etss` is the extended version. `tss2tog` and `tss3tog` are decreases.** These are the most commonly used Tunisian stitches for beginners.
 
 | Abbreviation | Description                                      |
 |--------------|--------------------------------------------------|
@@ -85,7 +85,7 @@ description: Complete reference for Tunisian crochet abbreviations covering simp
 
 ## What is the Tunisian treble crochet abbreviation?
 
-**`ttr` is Tunisian treble crochet — the tallest standard Tunisian stitch.** It is less common than `tss` or `tks` but useful for lacy or openwork patterns.
+**`ttr` is Tunisian treble crochet, the tallest standard Tunisian stitch.** It is less common than `tss` or `tks` but useful for lacy or openwork patterns.
 
 | Abbreviation | Description                  |
 |--------------|------------------------------|

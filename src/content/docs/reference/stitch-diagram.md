@@ -1,6 +1,6 @@
 ---
 title: Stitch diagram
-description: Guide to reading crochet stitch diagrams — symbol interpretation, reading direction for rows versus rounds, and how visual charts complement written instructions for any language.
+description: Guide to reading crochet stitch diagrams, covering symbol interpretation, reading direction for rows versus rounds, and how visual charts complement written instructions for any language.
 ---
 
 A stitch diagram shows the right side of your work. Each symbol stands for a stitch. Learning to read diagrams helps you follow patterns from any language.
@@ -16,9 +16,9 @@ A stitch diagram shows the right side of your work. Each symbol stands for a sti
 
 ## Why use stitch diagrams?
 
-**Answer:** They are universal — no need to translate text from another language. They help you see complex patterns like lace or motifs. They are often more accurate than long written instructions for stitch placement.
+**Answer:** They are universal, so there is no need to translate text from another language. They help you see complex patterns like lace or motifs. They are often more accurate than long written instructions for stitch placement.
 
-- They are **universal** — no need to translate text from another language
+- They are **universal**, so there is no need to translate text from another language
 - They help you **see complex patterns** like lace or motifs
 - They are often **more accurate** than long written instructions for stitch placement
 

@@ -180,7 +180,7 @@ export default defineConfig({
           autogenerate: { directory: 'templates' },
         },
         {
-          label: 'Style Guide',
+          label: 'Writing & Editing',
           autogenerate: { directory: 'style guide' },
         },
         {

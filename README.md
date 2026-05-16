@@ -4,7 +4,7 @@ Crochetly is a growing, human-friendly knowledge base for crochet stitches,
 techniques, terminology, and best practices.
 
 Its goal is to make crochet knowledge easier to find, easier to understand,
-and easier to learn — whether you’re a beginner picking up a hook for the first
+and easier to learn, whether you are a beginner picking up a hook for the first
 time or an experienced crocheter looking up a specific technique.
 
 ---

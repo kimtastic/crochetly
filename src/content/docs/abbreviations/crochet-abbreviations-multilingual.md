@@ -1,6 +1,6 @@
 ---
 title: Multilingual crochet abbreviations cross-reference
-description: Translate crochet abbreviations across US, UK, Japanese, Spanish, and French — with comparison tables, regional notes, and quick translation tips for international patterns
+description: Translate crochet abbreviations across US, UK, Japanese, Spanish, and French, with comparison tables, regional notes, and quick translation tips for international patterns
 ---
 
 **Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), regional crochet publications
@@ -139,7 +139,7 @@ Each language has its own abbreviation style. Some terms change by region. Use t
 
 ## What makes each language's crochet patterns unique?
 
-**Each crochet tradition has its own style — Japanese patterns use symbols, Spanish varies by region, French is descriptive, and US/UK rely on heavy abbreviations.** Understanding these differences helps you read patterns faster.
+**Each crochet tradition has its own style: Japanese patterns use symbols, Spanish varies by region, French is descriptive, and US/UK rely on heavy abbreviations.** Understanding these differences helps you read patterns faster.
 
 ### Japanese Patterns
 - **Symbol-heavy**: Japanese patterns lean on visual symbols, not text
@@ -164,7 +164,7 @@ Each language has its own abbreviation style. Some terms change by region. Use t
 
 ## What regional variations exist within each language?
 
-**Regional differences matter — especially for Spanish, where terms for the same stitch change between Spain, Mexico, and Argentina.** The tables below highlight the most important regional variants.
+**Regional differences matter, especially for Spanish, where terms for the same stitch change between Spain, Mexico, and Argentina.** The tables below highlight the most important regional variants.
 
 ### Spanish Regional Differences
 | Region | Term for Single Crochet | Term for Double Crochet | Term for Slip Stitch |
@@ -197,7 +197,7 @@ Each language has its own abbreviation style. Some terms change by region. Use t
 
 ## What are the most common pitfalls when translating crochet patterns across languages?
 
-**The biggest challenge is the same abbreviation meaning different things in different languages.** Always check the pattern's own terminology section — it is your most reliable source.
+**The biggest challenge is the same abbreviation meaning different things in different languages.** Always check the pattern's own terminology section, as it is your most reliable source.
 
 | Challenge | Solution |
 |-----------|----------|
@@ -207,4 +207,4 @@ Each language has its own abbreviation style. Some terms change by region. Use t
 | Descriptive vs abbreviated (French/Spanish) | Look for full-term explanations |
 | US/UK stitch name differences | Use the conversion tables carefully |
 
-Bookmark this page for when you run into a pattern in another language. When in doubt, always check the pattern's own terminology section — that is your most reliable source.
+Bookmark this page for when you run into a pattern in another language. When in doubt, always check the pattern's own terminology section, as that is your most reliable source.

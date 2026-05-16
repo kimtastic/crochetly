@@ -37,7 +37,7 @@ Sizing ensures your project will fit as intended. If your finished piece is too 
 Check your gauge. Gauge is the number of stitches and rows per measurement (usually 4 inches or 10 cm). Make a gauge swatch, measure it, and compare it to the pattern's gauge.
 
 ## What are finished measurements?
-Finished measurements are the final dimensions of the completed project — width, length, circumference, and similar numbers.
+Finished measurements are the final dimensions of the completed project, including width, length, circumference, and similar numbers.
 
 **Example:**
 ```plaintext

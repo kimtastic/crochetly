@@ -12,5 +12,5 @@ Patterns also list yarn type and weight, gauge, and any special techniques used.
 Consistent measurement rules help makers follow patterns reliably.
 
 - Use numerals for all numbers (e.g., "ch 5" not "ch five")
-- Use inches and centimeters — US first, metric in parentheses
+- Use inches and centimeters, with US first and metric in parentheses
 - Add a space between numbers and units (e.g., "4 inches" not "4inches")

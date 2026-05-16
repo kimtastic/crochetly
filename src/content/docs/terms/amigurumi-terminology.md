@@ -26,11 +26,11 @@ The magic ring (MR) is essential for starting amigurumi in the round. You will a
 |--------------------------|----------------|-------------------------------------------------------------------------|
 | Magic Ring / Magic Circle| `MR` / `mc`    | A method to begin crocheting in the round with an adjustable starting loop. |
 | Round                    | `rnd`          | A circular row of stitches, used instead of rows in flat work.         |
-| Work in Continuous Rounds| —              | Stitching in a spiral without joining at the end of each round.        |
-| Join                     | —              | To connect the end of a round to the beginning with a slip stitch (often not used in amigurumi). |
-| Fasten Off               | —              | Secure the final stitch and cut the yarn.                              |
-| Stuff                    | —              | Fill the project with fiberfill or other stuffing material.            |
-| Finish Off               | —              | Weave in the end tail and close the final hole.                        |
+| Work in Continuous Rounds| | Stitching in a spiral without joining at the end of each round. |
+| Join                     | | To connect the end of a round to the beginning with a slip stitch (often not used in amigurumi). |
+| Fasten Off               | | Secure the final stitch and cut the yarn.                              |
+| Stuff                    | | Fill the project with fiberfill or other stuffing material.            |
+| Finish Off               | | Weave in the end tail and close the final hole.                        |
 
 ## Additional techniques and tips
 
@@ -42,4 +42,4 @@ Back loop only (blo) and front loop only (flo) create texture. Right side (RS) i
 | Front Loop Only          | `flo`          | Work the stitch only in the front loop of the previous stitch.         |
 | Right Side               | `RS`           | The outside of the finished project (what will be visible).            |
 | Wrong Side               | `WS`           | The inside of the project, usually hidden.                             |
-| Marker                   | —              | A tool or piece of yarn used to mark the beginning of a round.         |
+| Marker                   | | A tool or piece of yarn used to mark the beginning of a round.         |

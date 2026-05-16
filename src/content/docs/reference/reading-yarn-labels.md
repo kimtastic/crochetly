@@ -1,6 +1,6 @@
 ---
 title: Reading yarn labels
-description: Guide to interpreting yarn label information — weight category, fiber content, yardage, hook size recommendations, gauge, care instructions, and dye lots explained.
+description: Guide to interpreting yarn label information, including weight category, fiber content, yardage, hook size recommendations, gauge, care instructions, and dye lots explained.
 ---
 
 Yarn labels tell you everything you need to know for your project. Learn to read them so you can pick the right yarn and take care of your finished work.

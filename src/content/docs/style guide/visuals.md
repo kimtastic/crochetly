@@ -7,7 +7,7 @@ Eye-catching crochet patterns use photos, videos, and diagrams to clarify instru
 
 
 ## What general principles apply to crochet visuals?
-Visuals should enhance written instructions and help crocheters understand the steps — especially beginners or complex techniques.
+Visuals should enhance written instructions and help crocheters understand the steps, especially beginners or complex techniques.
 
 - Balance visuals and text. Don't overcrowd patterns with pictures.
 - Focus on key steps that are hard to describe with text alone, like unique stitch placements, color changes, and joining methods.
@@ -32,7 +32,7 @@ Keep video focused. Demonstrate only the techniques relevant to the pattern, lik
 - Include timestamps or chapters noting key moments (e.g., "Row 3 setup begins at 2:15")
 - Add captions or text overlays for accessibility
 - Embed and link the video in digital versions
-- Use a consistent label format — e.g., "See Video Tutorial: [URL]"
+- Use a consistent label format, for example "See Video Tutorial: [URL]"
 
 ## How do I create clear crochet diagrams and charts?
 Diagrams help visualize where to place stitches in relation to one another.
