@@ -150,37 +150,48 @@ export default defineConfig({
       social: [
         { icon: 'github', label: 'GitHub', href: 'https://github.com/kimtastic/crochetly' },
       ],
+      components: {
+        Sidebar: './src/components/Sidebar.astro',
+      },
       sidebar: [
         {
           label: 'Start here',
+          collapsed: true,
           autogenerate: { directory: 'guides' },
         },
         {
           label: 'Terms and measurements',
+          collapsed: true,
           autogenerate: { directory: 'terms' },
         },
         {
           label: 'Abbreviations',
+          collapsed: true,
           autogenerate: { directory: 'abbreviations' },
         },
         {
           label: 'Reference',
+          collapsed: true,
           autogenerate: { directory: 'reference' },
         },
         {
           label: 'Tools & Apps',
+          collapsed: true,
           autogenerate: { directory: 'apps' },
         },
         {
           label: 'Pattern Sources',
+          collapsed: true,
           autogenerate: { directory: 'patterns' },
         },
         {
           label: 'Templates',
+          collapsed: true,
           autogenerate: { directory: 'templates' },
         },
         {
           label: 'Writing & Editing',
+          collapsed: true,
           autogenerate: { directory: 'style guide' },
         },
         {

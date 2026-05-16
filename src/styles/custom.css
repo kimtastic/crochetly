@@ -29,10 +29,16 @@
     --sl-color-gray-2: #b5b0a8;
     --sl-color-gray-4: #6b6760;
     --sl-color-gray-6: #2d2b27;
+    --sl-color-text-accent: var(--warm-accent);
+    --sl-color-text-invert: var(--warm-bg);
+    --sl-color-bg-accent: var(--warm-accent);
   }
 
   :root[data-theme='light'] {
     color-scheme: light;
+    --sl-color-text-accent: var(--warm-accent);
+    --sl-color-text-invert: var(--warm-bg);
+    --sl-color-bg-accent: var(--warm-accent);
   }
 
   /* === Override Starlight Design Tokens === */
@@ -225,11 +231,78 @@
 
   .sidebar a {
     color: var(--warm-text);
+    transition: color 0.15s;
+  }
+
+  .sidebar a:hover {
+    color: var(--warm-accent);
   }
 
   .sidebar a[aria-current="page"] {
     color: var(--warm-accent);
-    font-weight: 500;
+    font-weight: 600;
+    background: transparent;
+  }
+
+  /* Accordion animation for details groups */
+  .sidebar-content details {
+    --accordion-duration: 200ms;
+  }
+
+  .sidebar-content details > ul,
+  .sidebar-content details > .top-level {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height var(--accordion-duration) cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .sidebar-content details[open] > ul,
+  .sidebar-content details[open] > .top-level {
+    max-height: 2000px;
+  }
+
+  /* Enhanced vertical indentation lines */
+  .sidebar-content ul ul li {
+    border-inline-start: 1.5px solid var(--sl-color-hairline-light);
+    margin-inline-start: 0.625rem;
+    padding-inline-start: 0.75rem;
+  }
+
+  /* Refined caret */
+  .sidebar-content .caret {
+    color: var(--sl-color-gray-3);
+    transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .sidebar-content summary:hover .caret {
+    color: var(--warm-text);
+  }
+
+  /* Summary hover state */
+  .sidebar-content summary {
+    border-radius: 0.375rem;
+    transition: background 0.15s;
+  }
+
+  .sidebar-content summary:hover {
+    background: var(--warm-hover);
+  }
+
+  /* Better active page indicator */
+  .sidebar-content a[aria-current="page"]:hover {
+    background: transparent;
+    color: var(--warm-accent);
+  }
+
+  /* Sidebar link subtle hover */
+  .sidebar-content a:not([aria-current="page"]):hover {
+    background: var(--warm-hover);
+    border-radius: 0.375rem;
+  }
+
+  /* Keep sidebar pane scrollable but smooth */
+  .sidebar-pane {
+    scroll-behavior: smooth;
   }
 
   /* === Social icons === */
