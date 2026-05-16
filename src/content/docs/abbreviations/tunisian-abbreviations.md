@@ -3,9 +3,13 @@ title: Tunisian crochet abbreviations
 description: Complete reference for Tunisian crochet abbreviations covering simple, knit, purl, double, and extended stitches including forward and return pass notation
 ---
 
-The following is a list of Tunisian crochet abbreviations used by the yarn industry, designers, and publishers. Refer to [Craft Yarn Council's abbreviations](https://www.craftyarncouncil.com/standards/abbreviations) for additional information.
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
-## All Abbreviations
+**Working on a Tunisian crochet pattern?** Tunisian crochet uses its own set of abbreviations like `tss` (Tunisian simple stitch), `tks` (Tunisian knit stitch), and `tps` (Tunisian purl stitch) — distinct from standard crochet.
+
+## What are all Tunisian crochet abbreviations?
+
+**Tunisian uses `tss` (simple), `tks` (knit), `tps` (purl), `tdc` (double crochet), and `ttr` (treble crochet) as its core stitches.** This master table covers every standard Tunisian abbreviation from `etss` to `txs`.
 
 | Abbreviation | Description                                      |
 |--------------|--------------------------------------------------|
@@ -32,16 +36,22 @@ The following is a list of Tunisian crochet abbreviations used by the yarn indus
 | `ttw`        | Tunisian twisted                                 |
 | `txs`        | Tunisian X stitch                                |
 
-# Tunisian Crochet Abbreviations (Grouped by Stitch Type)
+## What are the different types of Tunisian crochet stitches?
 
-## Passes
+**Tunisian stitches fall into categories: simple, knit/purl, double/half-double, treble, and special stitches.** Each group has a distinct technique and appearance.
+
+## What are the Tunisian forward and return passes?
+
+**Every Tunisian row has two passes: `FwP` (forward pass, picking up loops) and `RetP` (return pass, working them off).** Understanding these two passes is essential to Tunisian crochet.
 
 | Abbreviation | Description          |
 |--------------|----------------------|
 | `FwP`        | forward pass         |
 | `RetP`       | return pass          |
 
-## Simple & Extended Stitches
+## What are the Tunisian simple and extended stitches?
+
+**`tss` is Tunisian simple stitch — the foundation stitch. `etss` is the extended version. `tss2tog` and `tss3tog` are decreases.** These are the most commonly used Tunisian stitches for beginners.
 
 | Abbreviation | Description                                      |
 |--------------|--------------------------------------------------|
@@ -50,7 +60,9 @@ The following is a list of Tunisian crochet abbreviations used by the yarn indus
 | `tss2tog`    | Tunisian simple stitch 2 together (decrease)     |
 | `tss3tog`    | Tunisian simple stitch 3 together (decrease)     |
 
-## Knit, Purl, Rib, and Twisted
+## What are the Tunisian knit, purl, and rib stitch abbreviations?
+
+**`tks` (Tunisian knit stitch), `tps` (Tunisian purl stitch), `tribs` (Tunisian rib stitch), `ttw` (Tunisian twisted), and `txs` (Tunisian X stitch) create fabric textures.** These resemble their knitting counterparts.
 
 | Abbreviation | Description               |
 |--------------|---------------------------|
@@ -60,7 +72,9 @@ The following is a list of Tunisian crochet abbreviations used by the yarn indus
 | `ttw`        | Tunisian twisted          |
 | `txs`        | Tunisian X stitch         |
 
-## Double & Half Double Variants
+## What are the Tunisian double and half-double variants?
+
+**`tdc` is Tunisian double crochet, `tds` is Tunisian double stitch, `tds2tog` decreases two double stitches, and `thdc` is Tunisian half double crochet.** These create taller fabrics.
 
 | Abbreviation | Description                                      |
 |--------------|--------------------------------------------------|
@@ -69,13 +83,17 @@ The following is a list of Tunisian crochet abbreviations used by the yarn indus
 | `tds2tog`    | Tunisian double stitch 2 together (decrease)     |
 | `thdc`       | Tunisian half double crochet                     |
 
-## Treble & Beyond
+## What is the Tunisian treble crochet abbreviation?
+
+**`ttr` is Tunisian treble crochet — the tallest standard Tunisian stitch.** It is less common than `tss` or `tks` but useful for lacy or openwork patterns.
 
 | Abbreviation | Description                  |
 |--------------|------------------------------|
 | `ttr`        | Tunisian treble crochet      |
 
-## Special Stitches
+## What are the Tunisian special stitch abbreviations?
+
+**`tfs` (Tunisian full stitch), `tsc` (Tunisian single crochet), `tslst` (Tunisian slip stitch), `tes` (Tunisian extended stitch), and `tbs` (Tunisian bobble stitch).** These less common stitches add variety to Tunisian projects.
 
 | Abbreviation | Description             |
 |--------------|-------------------------|

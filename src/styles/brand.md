@@ -9,8 +9,8 @@ Crochetly uses a **monochrome palette** — black in light mode, white in dark m
 - **Opacity layers:** 0.9, 0.8, 0.7, 0.6 for depth and hierarchy
 - **Theme Support:** Full light/dark mode compatibility via CSS
 
-No accent colors, gradients, or brand hues are used in the primary brand
-expression. This keeps the site clean, accessible, and distraction-free.
+The primary brand does not use accent colors, gradients, or brand hues.
+This keeps the site clean, accessible, and distraction-free.
 
 ## 🖼️ Hero Image
 
@@ -35,11 +35,11 @@ expression. This keeps the site clean, accessible, and distraction-free.
 - **Monochrome first:** No brand colors in UI elements
 - **Typography-led:** Hierarchy comes from type weight and size
 - **Whitespace:** Generous spacing for readability
-- **Accessibility:** High contrast ratios maintained in both themes
+- **Accessibility:** Maintain high contrast ratios in both themes
 - **Performance:** Minimal CSS, no external icon libraries
 
 ## 🔮 Future Considerations
 
 If color is reintroduced, it should serve a specific functional purpose
 (e.g., success/error states, link underlines) rather than decoration.
-Any additions should be documented here before implementation.
+Document any additions here before implementation.

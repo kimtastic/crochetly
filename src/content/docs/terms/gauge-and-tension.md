@@ -2,15 +2,19 @@
 title: Gauge and tension
 description: Reference for crochet gauge and tension covering stitch and row gauge measurement, how to check gauge, hook size chart by yarn weight, and troubleshooting tips
 ---
-Gauge refers to the number of stitches and rows you make per inch or 4 inches, usually measured in a swatch. Tension is the term more commonly used in the UK. 
 
-Gauge is a crucial measurement because it affects the size and fit of your finished project. Making a swatch, checking it, and adjusting before starting your project can save time, yarn, and frustration.
+**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
+
+**Gauge** tells you how many stitches and rows fit in an inch (or 4 inches). You measure it in a swatch. In the UK, crocheters call this "tension."
+
+Gauge matters because it controls the size and fit of your finished project. Taking a few minutes to make a swatch, check it, and adjust your hook can save you time, yarn, and frustration.
 
 - **Stitch gauge** = number of stitches across a set width (usually 4 inches / 10 cm)
 - **Row gauge** = number of rows down a set length (usually 4 inches / 10 cm)
 
-
 ## Why is gauge important?
+
+Gauge ensures your finished item matches the pattern dimensions. Getting it right is critical for garments, amigurumi, and any fitted item.
 
 - Ensures your finished item matches the pattern dimensions.
 - Avoids projects that are too small or too big.
@@ -19,6 +23,8 @@ Gauge is a crucial measurement because it affects the size and fit of your finis
 
 
 ## How to check your gauge
+
+Crochet a 4"x4" (10x10 cm) swatch using your pattern yarn and hook. Measure stitches and rows within that square, then adjust your hook if needed.
 
 1. Use the yarn and hook recommended in the pattern.
 2. Crochet a sample swatch, usually about 4"x4" (10x10 cm).
@@ -31,6 +37,8 @@ Gauge is a crucial measurement because it affects the size and fit of your finis
 
 ## Tips for consistent tension
 
+Hold your yarn comfortably and practice even stitches. Using the same hook type and size throughout helps maintain consistency.
+
 - Hold your yarn comfortably — not too tight or loose.
 - Practice stitches evenly.
 - Use the same hook type and size throughout.
@@ -38,7 +46,7 @@ Gauge is a crucial measurement because it affects the size and fit of your finis
 - Wash and block your swatch to see true size.
 
 
-# Crochet gauge chart
+## Crochet gauge chart
 
 | Yarn Weight            | Recommended Hook Size (mm) | Gauge (Stitches x Rows per 4")              |
 |-----------------------|----------------------------|---------------------------------------------|

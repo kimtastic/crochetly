@@ -1,10 +1,13 @@
 ---
 title: Blanket measurement guide
-description: Standard sizing reference for crochet blankets from lovey to king size with width and length measurements in inches and centimeters
+description: Standard sizing reference for crochet blankets from lovey to king size with width and length measurements in inches and centimeters — plus tips for adjusting fit based on yarn and stitch pattern.
 ---
-This chart provides standard measurements for common crochet blanket sizes. Adjust as needed based on stitch pattern, yarn thickness, or personal preference.
 
-# Crochet Blanket Size Guide
+This chart lists standard measurements for common crochet blanket sizes. Use it as a starting point, then adjust based on your stitch pattern, yarn thickness, or personal preference.
+
+## What are the standard crochet blanket sizes?
+
+**Answer:** Crochet blankets range from small loveys (10–12 in) up to king size (108 x 100 in). The chart below covers 11 common sizes with width and length in inches and centimeters.
 
 | Blanket Type        | Width (in) | Length (in) | Width (cm) | Length (cm) |
 |---------------------|------------|-------------|------------|-------------|
@@ -20,9 +23,9 @@ This chart provides standard measurements for common crochet blanket sizes. Adju
 | **Queen**           | 90         | 100         | 229        | 254         |
 | **King**            | 108        | 100         | 274        | 254         |
 
----
+## What do the blanket size names mean?
 
-## Notes
+**Answer:** Each name describes the intended use. Loveys are small comfort items. Lapghans cover the lap. Throw blankets are decorative. Bed blankets match mattress sizes.
 
 - **Lovey**: Small comfort item, often with a toy or motif attached.
 - **Lapghan**: Great for covering the lap; often used in wheelchairs or on couches.
@@ -30,7 +33,10 @@ This chart provides standard measurements for common crochet blanket sizes. Adju
 - **Crib/Toddler**: Size may vary based on mattress or child height.
 - **Bed Blankets**: Typically sized to cover the mattress with some overhang.
 
-### Tips
+## What tips help when making a blanket?
+
+**Answer:** Add a border for extra size and a finished look. Consider shrinkage and stretch depending on your yarn fiber. Use multiples of your stitch pattern repeat to calculate width.
+
 - Add a **border** for extra size and a finished look.
 - Consider **shrinkage/stretch** depending on yarn fiber and stitch type.
 - Use **multiples of your stitch pattern repeat** to calculate width and length.

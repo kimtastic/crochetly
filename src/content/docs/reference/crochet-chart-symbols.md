@@ -1,10 +1,15 @@
 ---
 title: Crochet chart symbols
-description: Reference for standard crochet chart symbols including notation for basic stitches, increases, decreases, post stitches, special stitches, and diagram reading tips
+description: Quick reference for standard crochet chart symbols — basic stitches, increases, decreases, post stitches, special stitches (bobble, puff, popcorn), and diagram reading tips.
 ---
-Stitch charts in crochet patterns are used in addition to or in place of words to describe a pattern stitch. The following is a list of crochet chart symbols used by the yarn industry, designers, and publishers.
 
-# Crochet chart symbols
+**Sources:** Craft Yarn Council crochet chart standards
+
+Crochet patterns often use stitch charts alongside words (or instead of them) to show how stitches fit together. Here are the standard chart symbols used by designers and publishers.
+
+## What are the standard crochet chart symbols?
+
+**Answer:** Crochet charts use symbols like × for single crochet, T for half double crochet, and | for double crochet. Each symbol represents one stitch visually.
 
 | Symbol | Stitch Name / Meaning           | Description / Notes                                         |
 |--------|--------------------------------|------------------------------------------------------------|
@@ -26,10 +31,15 @@ Stitch charts in crochet patterns are used in addition to or in place of words t
 | ●●●    | Cluster                      | Multiple stitches worked together, partially completed      |
 | ▪      | Slip Knot                    | Starting knot                                               |
 
-## Notes on symbol usage
+## How do you read crochet chart symbols?
 
-- Symbols visually represent stitches in crochet charts.
-- Directions (e.g., front/back post) often indicated by placement of lines/hooks around basic stitch symbol.
-- Increases shown by V shapes; decreases by ∧ or diagonal connections.
-- Special stitches (bobble, puff, popcorn) often use circles or filled shapes combined with small lines.
+**Answer:** Symbols show stitches visually in crochet charts. Direction indicators (front or back post) use line placement around the stitch symbol.
+
+- Directions (front or back post) are shown by line placement around the stitch symbol.
+- Increases use V shapes; decreases use ∧ or diagonal connections.
+- Special stitches (bobble, puff, popcorn) often use circles or filled shapes with small lines.
+
+## What is the difference between bobble, puff, and popcorn stitches?
+
+**Answer:** Bobble stitches use a cluster worked into one stitch base. Puff stitches hold yarn overs together before pulling through. Popcorn stitches are a group worked into the same stitch and popped out.
 

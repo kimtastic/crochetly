@@ -2,10 +2,13 @@
 title: Tunisian terminology
 description: Glossary of Tunisian crochet terminology covering forward and return passes, basic stitches (Tss, Tks, Tps), special techniques like entrelac, and curling prevention
 ---
-**Tunisian crochet**, also known as Afghan crochet, is a unique crochet technique that combines elements of both knitting and traditional crochet to create a dense, textured fabric. The following information includes many Tunisian crochet terms used by the yarn industry, designers, and publishers.
 
+**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
 
+**Tunisian crochet**, also known as Afghan crochet, blends elements of knitting and traditional crochet. It creates a dense, textured fabric. This page covers the Tunisian crochet terms you will see in patterns.
 ## Basic stitch abbreviations
+
+The table below covers essential Tunisian stitch abbreviations. The most common are Tss (Tunisian Simple Stitch), Tks (Tunisian Knit Stitch), and Tps (Tunisian Purl Stitch).
 
 | Term                          | Abbreviation | Meaning                                                                 |
 |-------------------------------|--------------|-------------------------------------------------------------------------|
@@ -20,6 +23,8 @@ description: Glossary of Tunisian crochet terminology covering forward and retur
 
 ## General terms and concepts
 
+The forward pass picks up loops onto your hook; the return pass works them off. The foundation row builds on the chain, and bind off closes the live loops.
+
 | Term                          | Abbreviation | Meaning                                                                 |
 |-------------------------------|--------------|-------------------------------------------------------------------------|
 | Forward Pass                  | —            | The first half of a Tunisian row where loops are picked up and left on the hook. |
@@ -31,6 +36,8 @@ description: Glossary of Tunisian crochet terminology covering forward and retur
 | Work Under Back/Front Bar     | —            | Alternative insertion points to create texture and variation.           |
 
 ## Special techniques
+
+Tunisian entrelac uses blocks or diamonds to build fabric. Curling is common — blocking helps reduce it.
 
 | Term  | Abbreviation | Meaning   |
 |----|--------------|----------------------------|

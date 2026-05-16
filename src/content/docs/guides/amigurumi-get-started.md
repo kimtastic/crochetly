@@ -1,36 +1,42 @@
 ---
 title: Get started (Amigurumi)
-description: A beginner-friendly guide covering essential amigurumi techniques from magic ring through invisible decrease, with step-by-step project outline and recommended tools
+description: A beginner-friendly guide covering essential amigurumi techniques from magic ring through basic decreases, with a step-by-step project outline and recommended tools
 ---
-Amigurumi is the Japanese art of knitting or crocheting small, stuffed yarn creatures. It’s a fun and creative hobby that anyone can learn! This guide will walk you through the basics to get you started.
 
-## What you need to get started
 
-- **Yarn**: Choose a smooth, medium-weight yarn (like worsted weight) in your favorite colors.
-- **Crochet Hook**: Usually size 2.5mm to 4mm works well for amigurumi.
-- **Stuffing**: Polyester fiberfill is commonly used.
-- **Tapestry Needle**: For sewing pieces together and weaving in ends.
-- **Stitch Markers**: To keep track of rounds.
+Amigurumi is the Japanese art of crocheting small, stuffed yarn creatures. It is an accessible craft that anyone can learn with basic crochet skills.
+
+## What supplies do I need for amigurumi?
+
+Start with these basic tools and materials:
+
+- **Yarn:** Smooth, medium-weight yarn (worsted weight)
+- **Crochet Hook:** 2.5mm to 4mm
+- **Stuffing:** Polyester fiberfill
+- **Tapestry Needle:** For sewing pieces together and weaving in ends
+- **Stitch Markers:** To keep track of rounds
 - **Scissors**
 
-## Basic terminology
+## What amigurumi terms should I know?
 
-See [Amigurumi terminolog](amigurumi-terminology.md) for common terminology related to Amigurumi.
+See [amigurumi terminology](amigurumi-terminology.md) for common terms used in amigurumi.
 
-## Basic crochet stitches to know
+## What crochet stitches do I need for amigurumi?
 
-Before you start, you should be familiar with these stitches:
+You need six basic stitches to start making amigurumi:
 
-- **Magic Ring (Magic Circle)**
-- **Chain `ch`**
-- **Single Crochet `sc`**
-- **Increase `inc`**: 2 `sc` in one stitch
-- **Decrease `dec`**: `sc` two stitches together
-- **Slip Stitch `sl st`**
+- **Magic Ring (Magic Circle)** — starting technique
+- **Chain `ch`** — foundation stitches
+- **Single Crochet `sc`** — the main body stitch
+- **Increase `inc`** — 2 `sc` in one stitch
+- **Decrease `dec`** — `sc` two stitches together
+- **Slip Stitch `sl st`** — joining rounds
 
-There are many [YouTube crochet tutorials](https://www.youtube.com/results?search_query=crochet+tutorials) that provide clear, helpful guidance for crochet stitches. 
+[YouTube crochet tutorials](https://www.youtube.com/results?search_query=crochet+tutorials) offer clear, helpful guidance for each stitch.
 
-## Beginner Amigurumi project outline
+## What does a beginner amigurumi project look like?
+
+A simple amigurumi shape follows these steps:
 
 **Start with a Magic Ring**  
 Create a magic ring and crochet 6 single crochets into it. This will be the base of your piece.

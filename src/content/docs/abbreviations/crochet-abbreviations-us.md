@@ -3,11 +3,15 @@ title: US crochet abbreviations
 description: Complete reference of US crochet abbreviations from sc to trtr, with categorized tables for basic stitches, post stitches, extended stitches, and US-to-UK terminology conversion
 ---
 
-The following is a list of crochet abbreviations used by the yarn industry, designers, and publishers in the United States. 
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
-Designers and publishers may use special abbreviations in a pattern, although you can open a PR or Issue to make recommendations. Refer to [Craft Yarn Council's abbreviations](https://www.craftyarncouncil.com/standards/abbreviations) for additional information.
+**Need to decode a US crochet pattern?** This reference covers the standard US abbreviations from `sc` (single crochet) to `trtr` (triple treble crochet), organized by category.
 
-## All abbreviations
+Designers and publishers sometimes use special abbreviations in a pattern. Always check the pattern's key before you start.
+
+## What are the most common US crochet abbreviations?
+
+**US patterns use `sc` (single crochet), `hdc` (half double crochet), `dc` (double crochet), and `tr` (treble crochet) as the core stitches.** This master table covers every standard abbreviation from `alt` to `yoh`.
 
 | Abbreviation    | Description (US terminology)            |
 |-----------------|-----------------------------------------|
@@ -78,7 +82,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `yo`            | yarn over                               |
 | `yoh`           | yarn over hook                          |
 
-## Foundation & Construction Terms
+## What are the US foundation and construction terms?
+
+**`beg` means begin/beginning, `inc` means increase, `dec` means decrease, and `rep` means repeat.** These terms describe how a project is structured.
 
 | US Abbreviation | Description                             |
 |-----------------|-----------------------------------------|
@@ -97,7 +103,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `RS`            | right side                              |
 | `WS`            | wrong side                              |
 
-## Stitch Components & Placement
+## What are the US terms for stitch loops and placement?
+
+**`FL/FLO` is front loop only, `BL/BLO` is back loop only, `tbl` is through back loop, and `sk` means skip.** These specify where exactly to insert your hook.
 
 | US Abbreviation | Description                             |
 |-----------------|-----------------------------------------|
@@ -115,7 +123,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `yoh`           | yarn over hook                          |
 | `tch or t-ch`   | turning chain                           |
 
-## Markers & Color
+## What are the US abbreviations for markers and color?
+
+**`m` is marker, `pm` is place marker, `MC` is main color, `CC` is contrasting color.** These help you track your place and manage color changes.
 
 | US Abbreviation | Description            |
 |-----------------|------------------------|
@@ -125,7 +135,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `CC`            | contrasting color      |
 | `MC`            | main color             |
 
-## Basic Stitches
+## What are the basic US crochet stitches?
+
+**US stitches scale by height: `sc` (single crochet), `hdc` (half double), `dc` (double), `tr` (treble), `dtr` (double treble), `trtr` (triple treble).** Each additional yarn over creates a taller stitch.
 
 | US Abbreviation | Description                   |
 |-----------------|-------------------------------|
@@ -136,7 +148,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `dtr`           | double treble crochet         |
 | `trtr`          | triple treble crochet         |
 
-## Stitch Increases & Decreases
+## How do US patterns express increases and decreases?
+
+**`sc2tog`, `hdc2tog`, `dc2tog`, and `tr2tog` mean working 2 stitches together to decrease.** `inc` means increase by working multiple stitches into the same stitch.
 
 | US Abbreviation | Description                          |
 |-----------------|--------------------------------------|
@@ -146,7 +160,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `tr2tog`        | treble crochet 2 stitches together   |
 | `tog`           | together                             |
 
-## Special Stitches
+## What are the US abbreviations for special stitches?
+
+**`bo` is bobble, `CL` is cluster, `pc` is popcorn, `ps/puff` is puff stitch, `sh` is shell, and `sl st` is slip stitch.** These decorative stitches each have a distinct abbreviation.
 
 | US Abbreviation | Description                      |
 |-----------------|----------------------------------|
@@ -157,7 +173,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `sh`            | shell                            |
 | `sl st`         | slip stitch                      |
 
-## Post Stitches – Back Post
+## What are the US back post stitch abbreviations?
+
+**`BPsc`, `BPhdc`, `BPdc`, `BPtr`, and `BPdtr` work the stitch around the back post of a previous row.** Post stitches create texture and ribbing.
 
 | US Abbreviation | Description                      |
 |-----------------|----------------------------------|
@@ -168,7 +186,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `BPtr`          | back post treble crochet         |
 | `BPdtr`         | back post double treble crochet  |
 
-## Post Stitches – Front Post
+## What are the US front post stitch abbreviations?
+
+**`FPsc`, `FPhdc`, `FPdc`, `FPtr`, and `FPdtr` work the stitch around the front post of a previous row.** Combined with back post stitches, these create a variety of textured patterns.
 
 | US Abbreviation | Description                          |
 |-----------------|--------------------------------------|
@@ -179,7 +199,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `FPtr`          | front post treble crochet            |
 | `FPdtr`         | front post double treble crochet     |
 
-## Extended Stitches
+## What are the US extended stitch abbreviations?
+
+**`esc` (extended single crochet), `ehdc` (extended half double), `edc` (extended double), and `etr` (extended treble) add an extra chain to each stitch.** Extended stitches are taller and looser than standard stitches.
 
 | US Abbreviation | Description                     |
 |-----------------|---------------------------------|
@@ -189,7 +211,9 @@ Designers and publishers may use special abbreviations in a pattern, although yo
 | `etr`           | extended treble crochet         |
 
 
-## Notes on terminology conversion
+## How do US crochet terms convert to UK English?
+
+**US `sc` (single crochet) = UK `dc` (double crochet). US `dc` (double crochet) = UK `tr` (treble crochet).** Stitch name confusion between US and UK is the most common issue for crocheters — use this table to convert.
 
 This table lists the equivalent stitch names between **US** and **UK** crochet terminology. Use this as a handy reference when converting patterns or instructions.
 

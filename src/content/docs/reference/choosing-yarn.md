@@ -1,12 +1,13 @@
 ---
-title: Choosing yarn 
-description: Guide to selecting yarn for crochet covering weight categories (0-7), fiber types, yardage, ply, dye lots, and recommendations for beginners
+title: Choosing yarn
+description: Guide to selecting yarn for crochet — weight categories (0–7), fiber types (acrylic, cotton, wool, bamboo), yardage per weight, ply, dye lots, care instructions, and recommendations for beginners.
 ---
-Understanding yarn is essential for successful crochet projects. The following information are key things to know when selecting yarn for your project:
 
-## Yarn weight (thickness)
+Understanding yarn helps you pick the right materials for your project. Here is what to look for when choosing yarn.
 
-Yarn weight refers to how thick or thin the yarn is. It affects the size and texture of your project.
+## What is yarn weight and how does it affect projects?
+
+**Answer:** Yarn weight refers to how thick or thin the yarn is. It ranges from 0 (lace, very fine) to 7 (jumbo, extremely thick). Your yarn weight determines hook size, stitch size, and project texture.
 
 | Weight Category        | Common Names            | Typical Hook Size      | Example Uses                |
 |-----------------------|------------------------|-----------------------|----------------------------|
@@ -20,14 +21,13 @@ Yarn weight refers to how thick or thin the yarn is. It affects the size and tex
 
 **Beginners:** Start with **Worsted (Category 4)** or **DK (Category 3)** for better stitch visibility and control.
 
-## Fiber content
+## What fiber types are available for yarn?
 
-The material the yarn is made from influences feel, durability, and care. Different fibers affect stretch, softness, warmth, and ease of use:
+**Answer:** Yarn fibers fall into three groups: natural (wool, cotton, alpaca, silk), synthetic (acrylic, nylon, polyester), and blends. Each type affects feel, durability, and care.
 
 - **Natural fibers:** Wool, cotton, alpaca, silk (soft, breathable, often pricier)
 - **Synthetic fibers:** Acrylic, nylon, polyester (affordable, durable, easy care)
 - **Blends:** Combine best features of natural and synthetic fibers
-
 
 | Fiber Type     | Characteristics                              |
 |----------------|-----------------------------------------------|
@@ -37,9 +37,11 @@ The material the yarn is made from influences feel, durability, and care. Differ
 | Bamboo         | Soft and silky, drapes beautifully            |
 | Blends         | Combines properties of multiple fibers        |
 
-**Beginners:** Start with **acrylic** or **cotton** yarns are great starting points because they are affordable, durable, and machine washable.
+**Beginners:** **Acrylic** and **cotton** yarns are great starting points. They are affordable, durable, and machine washable.
 
-# Yarn Weight Guide
+## What is the complete yarn weight guide?
+
+**Answer:** The standard yarn weight system (0–7) includes UK, USA, and AUS naming, typical yardage per 100g, gauge ranges, and recommended hook sizes.
 
 | Yarn Weight       | UK Term      | USA Term       | AUS Term     | Meters (per 100g) | 4" / 10 cm Gauge (knit) | Needle Size (mm) | Hook Size (mm) | Also Known As            | Texture / Feel                          |
 |-------------------|--------------|----------------|--------------|-------------------|--------------------------|------------------|----------------|----------------------------|------------------------------------------|
@@ -52,17 +54,13 @@ The material the yarn is made from influences feel, durability, and care. Differ
 | **6**| Super Chunky | Super Bulky    | 14 Ply       | 60–80             | 7–11 sts                 | 8.0–12.75         | 9.0–15.0       | Roving, Jumbo               | Very thick, great for chunky projects   |
 | **7**     | Mega Chunky  | Jumbo          | —            | <60               | 6 sts or fewer           | 12.75+           | 15.0+          | Arm Knitting Yarn           | Extremely thick, oversized texture      |
 
+## What is yarn ply?
 
-## Yarn ply
+**Answer:** Ply refers to the number of strands twisted together. More plies usually mean stronger, smoother yarn. Single-ply yarn is softer but may split easily.
 
-- Ply refers to the number of strands twisted together.
-- More plies usually mean stronger, smoother yarn.
-- Single-ply yarn is softer but may split easily.
+## What yardage should you expect per yarn weight?
 
-
-## Yardage / meterage
-
-# Yarn Weight Categories: Length per 100 grams
+**Answer:** Finer yarns have more length per 100g. Lace weight gives 800–1200 yards per 100g. Jumbo weight gives under 50 yards per 100g. Always check the length per skein.
 
 | **Yarn Weight** | **Category Name**  | **Yardage (per 100g)** | **Meterage (per 100g)** |
 |-----------------|--------------------|------------------------|-------------------------|
@@ -75,31 +73,22 @@ The material the yarn is made from influences feel, durability, and care. Differ
 | 6               | Super Bulky        | 60–100 yards           | 55–90 meters            |
 | 7               | Jumbo              | <50 yards              | <45 meters              |
 
-> **Notes:**  
-- These values are approximate averages; actual yardage varies by fiber and brand.  
-- Finer yarns have more length per 100g due to thinner strands.
+These values are approximate averages; actual yardage varies by fiber and brand. Finer yarns have more length per 100g due to thinner strands.
 
-- Always check the length of yarn per skein.
-- Project requirements often list yarn in yards or meters.
-- Longer yardage means fewer joins and ends to weave in.
+Always check the length of yarn per skein. Project requirements often list yarn in yards or meters. Longer yardage means fewer joins and ends to weave in.
 
-## Color & dye lots
+## What is a dye lot and why does it matter?
 
-- Yarn color may vary slightly between dye lots.
-- Buy enough yarn from the same dye lot to ensure color consistency.
+**Answer:** A dye lot is a batch of yarn dyed together. Yarn color may vary slightly between dye lots. Buy enough yarn from the same dye lot to ensure color consistency.
 
-## Texture
+## What yarn texture is best for beginners?
 
-- Smooth yarns are easier for beginners.
-- Textured yarns (bouclé, eyelash, chenille) add interest but can be tricky.
+**Answer:** Smooth yarns are easier for beginners. Textured yarns (bouclé, eyelash, chenille) add interest but can be tricky to work with.
 
-## Care instructions
+## How do you care for different yarn types?
 
-- Check labels for washing and drying.
-- Some yarns need hand washing; others are machine washable.
+**Answer:** Check labels for washing and drying instructions. Some yarns need hand washing; others are machine washable.
 
-## Final tips
+## What are the final tips for choosing yarn?
 
-- For beginners, start with medium weight (worsted, category 4) acrylic or cotton yarn.
-- Use the recommended hook size on the yarn label.
-- Make a gauge swatch to match pattern requirements.
+**Answer:** Start with medium weight (worsted, category 4) acrylic or cotton yarn. Use the recommended hook size on the yarn label. Make a gauge swatch to match pattern requirements.

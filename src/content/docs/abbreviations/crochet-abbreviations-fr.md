@@ -3,13 +3,15 @@ title: French crochet abbreviations
 description: Complete reference for French crochet abbreviations with tables for basic stitches, post stitches, special stitches, Tunisian terms, and US/UK equivalent conversions
 ---
 
-The following is a list of crochet abbreviations and terminology used in French-language patterns and publications. 
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), French crochet publications
 
-French crochet terminology is relatively standardized across French-speaking regions, with most variations being minor. This guide covers the most common terms used in French crochet patterns.
+**Reading a crochet pattern in French?** This guide covers the most common French crochet abbreviations, including post stitches, Tunisian terms, and US/UK equivalents.
 
-Designers and publishers may use special abbreviations in a pattern. Always check the pattern's abbreviation key (clé des abréviations) for specific terms used.
+French crochet terms are consistent across French-speaking regions, with only small differences. Designers and publishers sometimes use their own abbreviations. Always check the pattern's key (clé des abréviations) for the exact terms.
 
-## All abbreviations
+## What are the most common French crochet abbreviations?
+
+**French patterns use `ms` (maille serrée) for single crochet, `b` (bride) for double crochet, and `db` (double bride) for treble crochet.** The table below covers the essential abbreviations.
 
 | Abbreviation | French Term | Description (French terminology) | English Equivalent |
 |--------------|--------------|----------------------------------|-------------------|
@@ -34,7 +36,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | `env` | envers | wrong side | wrong side |
 | `am` | anneau magique | magic ring | magic ring |
 
-## Foundation & Construction Terms
+## What are the French foundation and construction terms?
+
+**French patterns use `ml` (maille en l'air) for chain, `am` (anneau magique) for magic ring, and `rg` (rang) for row.** These terms describe how a project is started and built.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -57,7 +61,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | suivant | suiv | next / following | next / following |
 | après | apr | after | after |
 
-## Stitch Components & Placement
+## What are the French terms for stitch loops and placement?
+
+**`ba` (brin avant) means front loop, `bar` (brin arrière) means back loop, and `ent` means between.** These tell you where to insert your hook in relation to stitch parts.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -78,7 +84,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | lancer le fil | lan fil | yarn over | yarn over |
 | tourner le fil | tor fil | yarn over | yarn over |
 
-## Basic Stitches
+## What are the basic stitch names in French?
+
+**`ms` (maille serrée) is single crochet, `db` (demi-bride) is half double crochet, and `b` (bride) is double crochet.** French terms are more descriptive than most languages.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -91,7 +99,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | triple bride | tb | double treble crochet | double treble crochet |
 | bride simple | bs | double crochet (alternate) | double crochet |
 
-## Stitch Increases & Decreases
+## How do French patterns express increases and decreases?
+
+**`aug` (augmentation) means increase, `dim` (diminution) means decrease, and `2 m ens` means 2 stitches together.** French uses intuitive abbreviations for shaping.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -105,7 +115,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | grappe | grp | cluster | cluster |
 | groupe | gr | group | group |
 
-## Special Stitches
+## What are the French names for special stitches?
+
+**`msi` (maille serrée inversée) is crab stitch, `coq` (coquille) is shell stitch, and `pb` (point de bouillon) is bobble stitch.** French special stitch names often differ significantly from English.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -123,7 +135,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | point croisé | pcz | crossed stitch / X-stitch | crossed stitch |
 | point de V | pv | V-stitch | V-stitch |
 
-## Post Stitches
+## How do French patterns refer to post stitches?
+
+**`bra` (bride en relief avant) is front post double crochet and `brar` (bride en relief arrière) is back post double crochet.** French post stitch abbreviations are consistently formed.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -136,7 +150,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | double bride en relief avant | dbra | front post treble crochet | front post treble crochet |
 | double bride en relief arrière | dbrar | back post treble crochet | back post treble crochet |
 
-## Color and Markers
+## What are the French terms for color changes and markers?
+
+**`cp` (couleur principale) is main color, `ct` (couleur de contraste) is contrasting color, and `pm` (placer un marqueur) means place marker.** These terms help manage colorwork in French patterns.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -147,7 +163,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | placer un marqueur | pm | place marker | place marker |
 | marqueur de maille | mm | stitch marker | stitch marker |
 
-## Common Instructions and Actions
+## How do French patterns express common actions like turn and join?
+
+**`tt` (tourner le travail) means turn, `rab` (rabattre) means fasten off, and `jo` (joindre) means join.** These action terms appear throughout French crochet instructions.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -166,7 +184,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | échantillon | ech | gauge / swatch | gauge / swatch |
 | tension | ten | tension | tension |
 
-## Extended Stitches
+## What are the French extended stitch terms?
+
+**`msa` (maille serrée allongée) is extended single crochet, `dba` (demi-bride allongée) is extended half double crochet.** Extended stitches in French follow a predictable naming pattern.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -175,7 +195,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | bride allongée | ba | extended double crochet | extended double crochet |
 | double bride allongée | dba | extended treble crochet | extended treble crochet |
 
-## Tunisian Crochet Terms
+## What are the French terms for Tunisian crochet stitches?
+
+**`pts` (point tunisien simple) is Tunisian simple stitch, `pte` is Tunisian purl stitch, and `ptd` is Tunisian knit stitch.** The same pattern of French stitch naming applies to Tunisian crochet.
 
 | French Term | Abbreviation | Description | English Equivalent |
 |--------------|--------------|-------------|-------------------|
@@ -186,7 +208,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | point tunisien croisé | ptc | Tunisian crossed stitch | Tunisian crossed stitch |
 | point tunisien côtelé | pt c | Tunisian rib stitch | Tunisian rib stitch |
 
-## Common Pattern Phrases
+## What common French phrases appear in crochet patterns?
+
+**"Faire X mailles en l'air" means "Chain X" and "Tricoter en rond" means "Work in round."** These full phrases help you follow French patterns that use complete sentences rather than abbreviations.
 
 | French Phrase | Translation |
 |----------------|-------------|
@@ -203,7 +227,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | Sauter X mailles | Skip X stitches |
 | Tourner l'ouvrage | Turn the work |
 
-## Number and Counting Terms
+## What are the French numbers and counting terms used in patterns?
+
+**French patterns use standard number words: `un`, `deux`, `trois` for 1, 2, 3.** Understanding these helps you follow stitch counts and repeats in French instructions.
 
 | French Term | English Equivalent |
 |--------------|-------------------|
@@ -222,7 +248,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 | chaque | each |
 | tous/toutes | all |
 
-## Notes on French Pattern Reading
+## What should I know before reading a French crochet pattern?
+
+**French patterns are more descriptive than other languages and often use full words instead of abbreviations.** Terms are generally consistent across France, Quebec, and other French-speaking regions.
 
 1. **Terminology**: French terminology is more descriptive and often uses full terms rather than abbreviations
 2. **Consistency**: Abbreviations are generally consistent across French-speaking regions
@@ -230,7 +258,9 @@ Designers and publishers may use special abbreviations in a pattern. Always chec
 4. **Translation**: Some terms may have literal translations that don't match crochet terminology
 5. **Regional Differences**: Minor variations exist between France, Quebec, and other French-speaking regions
 
-## Terminology Conversion to US/UK
+## How do French crochet terms convert to US and UK English?
+
+**French `ms` (maille serrée) = US single crochet = UK double crochet. French `b` (bride) = US double crochet = UK treble crochet.** Use this conversion table to translate between French and English patterns.
 
 This table provides quick conversion between French terms and their US/UK equivalents:
 

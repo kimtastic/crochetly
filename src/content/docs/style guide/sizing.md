@@ -1,38 +1,43 @@
 ---
 title: Repeats and sizing
-description: Guidelines for communicating stitch repeats, row repeats, and multiple-size notation in crochet patterns including finished measurements
+description: How crochet patterns use stitch repeats, row repeats, and multiple-size notation to communicate repeated instructions and finished measurements clearly
 ---
-In crochet, creating content that make repeats and sizing clear is crucial for makers to successfully follow patterns and create projects that turn out as intended. 
 
-### Repeats
-Repeats refer to sections of instructions in a crochet pattern that are repeated multiple times.
-- Simplify pattern writing, making the instructions shorter and easier to follow. 
-- Repeats allow for faster reading.
-- Use asterisks (*) and brackets consistently.
+Clear repeats and sizing help makers follow patterns and create projects that turn out as planned.
 
-### Stitch repeats
-These involve repeating a sequence of stitches within a single row or round. 
 
-For example, [`sc` in next `st`, `ch 1`] 5 times means you'll work "`sc` in next `st`, `ch 1`" five times in a row.
+## What are repeats in crochet patterns?
+Repeats are sections of instructions you work multiple times within a crochet pattern. They simplify the writing and make instructions shorter and easier to follow.
 
-### Row/Round repeats
-This means repeating an entire row or round of crochet instructions.
-How they are indicated: Repeats are often indicated using punctuation like asterisks (*), parentheses (()), or brackets ([]). 
-- Use asterisks (*) and brackets consistently.
+Repeats help with:
+- Faster reading and less clutter
+- Consistent formatting using asterisks (\*) and brackets ([])
 
-## Sizing
-Sizing in crochet refers to the final dimensions and fit of your finished project. This is especially important for wearable items like garments, where the piece needs to fit a specific person.
-- Clarify which instructions apply to which size.
-- For multiple sizes, list stitch counts in parentheses.
+### What are stitch repeats?
+A stitch repeat is a sequence of stitches you repeat within a single row or round.
 
-## Why it matters
-Sizing ensures your project will fit as intended. If your finished piece is too small or too large, it may not be wearable or useful.
+For example, [`sc` in next `st`, `ch 1`] 5 times means you work "`sc` in next `st`, `ch 1`" five times in a row.
 
-## Checking your size
-Gauge is the number of stitches and rows per a certain measurement (usually 4 inches or 10 cm). It's crucial for achieving the correct size. You'll make a gauge swatch, measure it, and compare it to the pattern's gauge.
+### What are row or round repeats?
+A row or round repeat means working an entire row or round more than once.
 
-## Finished measurements
-Patterns typically provide the final dimensions of the completed project, such as width, length, and circumference.
+Use asterisks (\*) and brackets ([]) consistently to indicate these repeats.
+
+## What is sizing in crochet?
+Sizing refers to the final dimensions and fit of your finished project. This is especially important for garments.
+
+For patterns with multiple sizes:
+- Clarify which instructions apply to which size
+- List stitch counts in parentheses like S (M, L)
+
+## Why does sizing matter?
+Sizing ensures your project will fit as intended. If your finished piece is too small or too large, it may not be wearable.
+
+## How do I check my size?
+Check your gauge. Gauge is the number of stitches and rows per measurement (usually 4 inches or 10 cm). Make a gauge swatch, measure it, and compare it to the pattern's gauge.
+
+## What are finished measurements?
+Finished measurements are the final dimensions of the completed project — width, length, circumference, and similar numbers.
 
 **Example:**
 ```plaintext

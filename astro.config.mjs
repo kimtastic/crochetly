@@ -8,10 +8,14 @@ import starlightLinksValidator from "starlight-links-validator";
 import icon from "astro-icon";
 import sitemap from "@astrojs/sitemap";
 import llmsTxt from "./src/integrations/llms-txt";
+import remarkTrustSection from "./src/remark-trust-section.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://crochetly.com',
+  markdown: {
+    remarkPlugins: [remarkTrustSection],
+  },
 
   integrations: [
     llmsTxt({ siteUrl: 'https://crochetly.com' }),
@@ -162,6 +166,14 @@ export default defineConfig({
         {
           label: 'Reference',
           autogenerate: { directory: 'reference' },
+        },
+        {
+          label: 'Tools & Apps',
+          autogenerate: { directory: 'apps' },
+        },
+        {
+          label: 'Pattern Sources',
+          autogenerate: { directory: 'patterns' },
         },
         {
           label: 'Templates',

@@ -2,9 +2,13 @@
 title: Crochet terminology
 description: Comprehensive glossary of foundational crochet terms covering basic stitches (sc, hdc, dc, tr), construction concepts, increases, decreases, post stitches, and specialty stitch types
 ---
-**Crochet** is a needlework technique that involves creating fabric by interlocking loops of yarn or thread using a hooked needle called a crochet hook. The following information includes many crochet terms used by the yarn industry, designers, and publishers.
 
+**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
+
+**Crochet** is a needlework technique where you create fabric by interlocking loops of yarn or thread with a hooked needle (a crochet hook). This page covers common crochet terms you will see in patterns.
 ## Basic crochet terms
+
+The table below covers essential crochet terms: chain, slip stitch, yarn over, and more. These are the building blocks of every pattern.
 
 | Term               | Abbreviation | Meaning                                                                 |
 |--------------------|--------------|-------------------------------------------------------------------------|
@@ -21,7 +25,9 @@ description: Comprehensive glossary of foundational crochet terms covering basic
 | **Fastening Off**  | —            | Finishing the last stitch and cutting the yarn to secure your work.    |
 | **Finger Wrap**    | —            | A method of wrapping yarn around your fingers to begin a project, often used for a magic ring or loop. |
 
-## Pattern-specific terms
+## What pattern-specific terms should you know?
+
+Increase (inc), decrease (dec), front loop only (flo), and back loop only (blo) are common in patterns. Right side (RS) and wrong side (WS) tell you which side is the front.
 
 | Term               | Abbreviation | Meaning                                                                 |
 |--------------------|--------------|-------------------------------------------------------------------------|
@@ -34,7 +40,9 @@ description: Comprehensive glossary of foundational crochet terms covering basic
 | **Fasten Off**     | —            | To secure and cut the yarn after finishing a project.                  |
 | **Weave In Ends**  | —            | Tucking and hiding yarn tails in your work for a neat finish.          |
 
-## Special terms for patterns/rounds
+## What special terms appear in pattern rounds?
+
+Repeat (rep), round (rnd), and space (sp) are terms you will see often. "Work even" means continue without increasing or decreasing.
 
 | Term               | Abbreviation | Meaning                                                                 |
 |--------------------|--------------|-------------------------------------------------------------------------|
@@ -45,6 +53,9 @@ description: Comprehensive glossary of foundational crochet terms covering basic
 | **Gauge**          | —            | The number of stitches/rows per inch; important for sizing.           |
 
 ## Common crochet stitches
+
+The table below covers the most frequently used crochet stitches, from single crochet (sc) to specialty stitches like bobble and puff.
+
 This list is not exhaustive. Refer to [YouTube crochet tutorials](https://www.youtube.com/results?search_query=crochet+tutorials) for in-depth video tutorials.
 
 | Stitch Name                 | Abbreviation | Meaning                                                                 |

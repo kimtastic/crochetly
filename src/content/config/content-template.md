@@ -7,7 +7,7 @@
 # (Every reference entry must include these)
 # =========================================================
 title: "Stitch/Technique Name"               # Clear, descriptive title
-description: "Brief one-sentence description" # SEO-friendly summary
+description: "Brief one-sentence answer describing what this stitch is and why it matters" # AEO-friendly summary for AI extractability
 template: "reference-entry"                  # Template identifier
 category: "basic-stitches|textured-stitches|decorative-stitches|techniques|motifs|terminology"
 difficulty: "beginner|intermediate|advanced" # Primary difficulty level
@@ -41,11 +41,11 @@ diagram_included: true
 # [Stitch/Technique Name] ([Abbreviation])
 
 ## Quick Summary
-Concise one-sentence definition describing what this stitch or technique is and its primary use.
+Lead with a direct answer: one sentence defining what this stitch or technique is and its primary use. AI tools extract this as your citation-worthy summary.
 
 ---
 
-## Instructions
+## How do I work this stitch?
 
 ### Standard Written Instructions
 Step-by-step instructions using standard crochet terminology.
@@ -69,7 +69,7 @@ Example:
 
 ---
 
-## Common Issues & Troubleshooting
+## What common issues might I encounter?
 
 | Problem | Likely Cause | Solution |
 |-------|-------------|----------|
@@ -78,7 +78,7 @@ Example:
 
 ---
 
-## Tips & Best Practices
+## What tips will help me succeed?
 - **Tension:** Keep consistent tension for even fabric
 - **Counting:** Count stitches at the end of each row or round
 - **Yarn choice:** Works best with [specific yarn characteristics]
@@ -96,8 +96,8 @@ Explanation of what makes this variation unique.
 
 ---
 
-## Applications & Use Cases
-This stitch or technique is commonly used for:
+## What can I use this stitch for?
+Use this stitch or technique for:
 - **Projects:** Blankets, scarves, garments, amigurumi, etc.
 - **Effects:** Texture, drape, structure
 - **Combinations:** Pairs well with [other stitches or techniques]

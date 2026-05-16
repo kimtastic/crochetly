@@ -2,9 +2,11 @@
 title: Amigurumi terminology
 description: Complete reference for amigurumi-specific crochet terms including magic ring, invisible decrease, working in continuous rounds, and back/front loop only techniques
 ---
-**Amigurumi** is the Japanese art of crocheting or knitting small, stuffed toys and figures. The word combines *"ami"* (meaning knitted or crocheted) and *"nuigurumi"* (meaning stuffed doll). The following information will help you with the terms used by the yarn industry, designers, and publishers.
+**Amigurumi** is the Japanese art of crocheting or knitting small, stuffed toys and figures. The word combines *"ami"* (meaning knitted or crocheted) and *"nuigurumi"* (meaning stuffed doll). This page covers the terms you will see in amigurumi patterns.
 
 ## Basic stitch abbreviations
+
+Chain, slip stitch, and single crochet are the core stitches. Increase (inc) adds stitches; invisible decrease (inv dec) reduces them neatly.
 
 | Term                     | Abbreviation   | Meaning                                                                 |
 |--------------------------|----------------|-------------------------------------------------------------------------|
@@ -16,7 +18,9 @@ description: Complete reference for amigurumi-specific crochet terms including m
 | Decrease                 | `dec`          | Combine two stitches into one to reduce stitch count.                   |
 | Stitch                   | `st`           | A general term for one loop or unit of crochet.                         |
 
-## Pattern-specific instructions
+## What pattern-specific instructions do you need to know?
+
+The magic ring (MR) is essential for starting amigurumi in the round. You will also see "work in continuous rounds" (spiral stitching) and "stuff" for filling the piece.
 
 | Term                     | Abbreviation   | Meaning                                                                 |
 |--------------------------|----------------|-------------------------------------------------------------------------|
@@ -29,6 +33,8 @@ description: Complete reference for amigurumi-specific crochet terms including m
 | Finish Off               | —              | Weave in the end tail and close the final hole.                        |
 
 ## Additional techniques and tips
+
+Back loop only (blo) and front loop only (flo) create texture. Right side (RS) is the outside; wrong side (WS) is hidden. Use a stitch marker to track round starts.
 
 | Term                     | Abbreviation   | Meaning                                                                 |
 |--------------------------|----------------|-------------------------------------------------------------------------|

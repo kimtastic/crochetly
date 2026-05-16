@@ -1,21 +1,21 @@
 ---
 title: Choosing hooks
-description: Guide to selecting crochet hooks covering sizes (metric, US, UK), materials, hook anatomy, ergonomic options, and a complete size conversion chart
+description: Guide to selecting crochet hooks — sizes (metric, US, UK), materials (aluminum, steel, wood, plastic), hook anatomy, ergonomic options, and complete size conversion chart.
 ---
-Choosing and understanding your crochet hooks is key to creating beautiful projects. Here's what you need to know:
 
-## Choosing the right hook
+Picking the right crochet hook makes a big difference in your projects. The right hook helps you maintain consistent tension and prevents hand fatigue.
+
+## How do you choose the right crochet hook?
+
+**Answer:** Follow the yarn label recommendation (usually listed in mm). Use the hook size suggested in your pattern for correct gauge. Adjust hook size to change fabric tension — larger hook means looser fabric.
 
 - Follow the yarn label recommendation (usually listed in mm).
 - Use the hook size suggested in your pattern for correct gauge.
 - Adjust hook size to change fabric tension (larger hook = looser fabric).
 
-## Hook sizes
+## How do crochet hook sizes work?
 
-Crochet hooks come in various sizes, affecting the size of your stitches and overall fabric.
-- Metric sizes (mm) refer to the diameter of the hook shaft.
-- Larger diameter = bigger stitches, looser fabric.
-- Smaller diameter = tighter stitches, denser fabric.
+**Answer:** Metric sizes (mm) refer to the diameter of the hook shaft. Larger diameter creates bigger stitches and looser fabric. Smaller diameter gives tighter stitches and denser fabric.
 
 | Size System       | Size Range            | Typical Uses                      |
 |-------------------|----------------------|---------------------------------|
@@ -25,18 +25,22 @@ Crochet hooks come in various sizes, affecting the size of your stitches and ove
 
 **Beginners:** Use a **5.0 mm (H-8)** hook with **worsted weight yarn**.
 
-## Hook materials
+## What materials are crochet hooks made from?
+
+**Answer:** Hooks come in aluminum (lightweight, smooth), steel (for lace and fine thread), plastic (budget-friendly), and wood/bamboo (warm feel, good for slippery yarns).
 
 | Material     | Characteristics                                   |
 |--------------|--------------------------------------------------|
 | **Aluminum** | Lightweight, smooth, good for most yarn types    |
 | **Steel**    | Very small hooks for lace and fine thread crochet|
 | **Plastic**  | Lightweight, sometimes less smooth, budget-friendly|
-| **Wood/Bamboo**| Warm, slightly textured grip, slows down stitching—good for slippery yarns |
+| **Wood/Bamboo**| Warm, slightly textured grip, slows down stitching — good for slippery yarns |
 
-Choose a hook that feels comfortable in your hand and doesn’t tire your wrist.
+Choose a hook that feels comfortable in your hand and does not tire your wrist.
 
-## Hook anatomy
+## What are the parts of a crochet hook?
+
+**Answer:** A hook has five parts: head (tip), throat/gorge (narrow part), shaft (straight section), and handle/grip (where you hold it).
 
 | Part           | Description                          |
 |----------------|------------------------------------|
@@ -45,13 +49,17 @@ Choose a hook that feels comfortable in your hand and doesn’t tire your wrist.
 | **Shaft**      | The straight part where loops form  |
 | **Handle/Grip**| The part you hold (varies in shape/material) |
 
-## Special hooks
+## What special types of hooks are available?
+
+**Answer:** Ergonomic hooks have cushioned grips for comfort. Tunisian hooks are longer for Tunisian crochet. Light-up hooks help you work in low light.
 
 - **Ergonomic hooks:** Designed for comfort with cushioned grips.
 - **Tunisian hooks:** Longer hooks or double-ended hooks for Tunisian crochet.
 - **Crochet hooks with built-in light:** For working in low light.
 
-# Crochet Hook Size Conversion Chart
+## What is the complete crochet hook size conversion chart?
+
+**Answer:** This chart converts metric (mm), US steel, US aluminum/plastic, and UK imperial hook sizes side by side.
 
 | Metric (mm) | Imperial Steel (UK) | US Steel Hook | US Aluminum/Plastic Hook | Imperial (UK Aluminum) |
 |-------------|---------------------|----------------|---------------------------|-------------------------|
@@ -84,20 +92,22 @@ Choose a hook that feels comfortable in your hand and doesn’t tire your wrist.
 | 9.00 mm     | –                   | –              | M/N/13                    | 00                      |
 | 10.00 mm    | –                   | –              | N/P/15                    | 000                     |
 
-## Tips for beginners
+## What tips help beginners pick a hook?
+
+**Answer:** Start with a medium size hook (5 mm/H-8) and medium weight yarn. Try different materials to see what feels best. Keep your hook clean and free of burrs.
 
 - Start with a medium size hook (5 mm/H-8) and medium weight yarn.
 - Try different materials to see what feels best in your hand.
 - Keep your hook clean and free of burrs for smooth stitching.
 
-## Matching yarn and hook
+## How do you match yarn and hook?
 
-Always check the **recommended hook size** on the yarn label for best results.
+**Answer:** Always check the recommended hook size on the yarn label. Larger hooks create looser fabric with more drape. Smaller hooks create tighter, firmer fabric.
 
 - Larger hook → looser fabric and more drape.
 - Smaller hook → tighter, firmer fabric.
 
-## Swatching and gauge
+## Why is swatching and gauge important?
 
-Before starting a project (especially wearables), make a **gauge swatch** to ensure your stitches match the pattern. See [Gauge and Tension](gauge-and-tension.md) for more information.
+**Answer:** Before starting a project (especially wearables), make a gauge swatch to ensure your stitches match the pattern. See [Gauge and Tension](gauge-and-tension.md) for more information.
 

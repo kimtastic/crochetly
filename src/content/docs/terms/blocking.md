@@ -2,13 +2,17 @@
 title: Blocking
 description: Guide to wet, steam, and spray blocking techniques for setting crochet pieces to their intended size and shape, with tool recommendations and project suitability notes
 ---
-Blocking in crochet is the process of shaping and setting your finished piece to its intended size and drape. It is useful for:
-- Evening out stitches
-- Flattening edges or lacework
-- Opening up textures (like cables or lace)
-- Giving the piece a professional finish
 
-## Types of blocking
+**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
+
+Blocking is the final step where you shape and set your finished piece to its intended size and drape. It helps:
+- Even out your stitches
+- Flatten curly edges and lacework
+- Open up textures (like cables or lace)
+- Give your piece a polished, professional look
+## What types of blocking are there?
+
+There are three main blocking methods: wet blocking, steam blocking, and spray blocking. Your choice depends on the fiber content and the effect you want.
 
 ### Wet Blocking
 ```plaintext
@@ -40,17 +44,21 @@ Great for acrylics and blends. Softens without melting the yarn
 ```
 Ideal for lightweight fabrics or gentle adjustments  
 
-## When Should You Block?
+## When should you block?
+
+Block before seaming pieces together and after finishing lace or textured projects. It helps edges lie flat and stitch patterns open up.
 
 - Before seaming pieces together (like in sweaters or motif blankets)  
 - After finishing a scarf, shawl, or lace project  
 - When edges curl or the stitch pattern needs to open up  
 
-## Does Every Project Need Blocking?
+## Does every project need blocking?
 
-Not always. Some projects — like dishcloths, toys (amigurumi), or very dense fabrics — may not require blocking at all.
+No. Blocking is optional for dense fabrics, dishcloths, and amigurumi toys. These projects hold their shape well without it.
 
-## Blocking Tools
+## What tools do you need for blocking?
+
+You only need a few basic tools: blocking mats, rust-proof pins or wires, and a way to apply moisture.
 
 - Blocking mats (foam boards or towels)  
 - Rust-proof pins or blocking wires  

@@ -1,8 +1,13 @@
 ---
 title: Reading yarn labels
-description: Guide to interpreting yarn label information including weight category, fiber content, yardage, hook size recommendations, gauge, care instructions, and dye lots
+description: Guide to interpreting yarn label information — weight category, fiber content, yardage, hook size recommendations, gauge, care instructions, and dye lots explained.
 ---
-Yarn labels provide essential information for your crochet projects. Knowing how to read them helps you pick the right yarn and understand how to care for your finished work. Look for this key info on the yarn label:
+
+Yarn labels tell you everything you need to know for your project. Learn to read them so you can pick the right yarn and take care of your finished work.
+
+## What information is on a yarn label?
+
+**Answer:** Yarn labels show weight category (e.g., 4 - Worsted), recommended hook size, gauge, yardage, and care instructions. Here is a closer look at each detail.
 
 - **Weight category** (e.g., 4 - Worsted)
 - **Recommended hook size**
@@ -10,55 +15,38 @@ Yarn labels provide essential information for your crochet projects. Knowing how
 - **Yardage** (meters/yards per skein)
 - **Care instructions**
 
-The following information takes a closer look at all information you may find on a yarn label.
+## How do you read the yarn brand and name?
 
-## Yarn brand & name
+**Answer:** The manufacturer's name and the specific yarn line (e.g., Lion Brand "Vanna's Choice") help you find matching yarn later or look up details online.
 
-- The manufacturer’s name and the specific yarn line (e.g., *Lion Brand* “Vanna’s Choice”).
-- Helpful for finding matching yarn later or looking up details online.
+## What does fiber content tell you?
 
-## Fiber content
+**Answer:** Fiber content lists the materials (e.g., 100% acrylic, 80% wool/20% nylon). This influences feel, warmth, durability, and care instructions.
 
-- Lists the materials (e.g., 100% acrylic, 80% wool/20% nylon).
-- Influences feel, warmth, durability, and care instructions.
+## How do you read yarn weight and category?
 
-## Yarn weight / category
+**Answer:** The weight category indicates thickness, often shown as a number or category name. See [choosing yarn](choosing-yarn.md) for more details.
 
-- Indicates thickness, often shown as a number or category. See [choosing yarn](choosing-yarn.md) for more details.
-- Helps you match yarn with your pattern’s requirements.
+## What does yardage mean on a label?
 
-## Yardage / meterage
+**Answer:** Yardage is the length of yarn in the skein (e.g., 220 yards / 200 meters). Knowing this helps you buy enough yarn for your project.
 
-- Length of yarn in the skein (e.g., 220 yards / 200 meters).
-- Important to know how much yarn you need for your project.
+## How do you use the recommended hook size?
 
-## Recommended hook / needle size
+**Answer:** The suggested crochet hook size (e.g., 5 mm / H-8) helps you achieve the right gauge and fabric texture.
 
-- Suggests crochet hook size (e.g., 5 mm / H-8).
-- Following this helps you achieve the right gauge and fabric texture.
+## How do you read gauge information?
 
+**Answer:** Gauge shows how many stitches and rows fit in a specific area (usually 4" x 4" or 10 x 10 cm). Example: 16 stitches and 20 rows = 4 inches with a 5 mm hook.
 
-## Gauge information
+## How do you read care instructions?
 
-- Shows how many stitches and rows you should get in a specific area (usually 4" x 4" or 10 x 10 cm).
-- Example: 16 stitches and 20 rows = 4 inches with a 5 mm hook.
-- Helps ensure your finished item matches the pattern size.
+**Answer:** Washing and drying guidelines are shown as symbols or text. Examples include machine washable, hand wash only, dry flat, tumble dry low, and do not bleach.
 
-## Care instructions
+## What is a dye lot number?
 
-- Washing and drying guidelines (symbols or text).
-- Examples:
-  - Machine washable or hand wash only
-  - Dry flat or tumble dry low
-  - Do not bleach
+**Answer:** A dye lot indicates a batch of yarn dyed together. Buy all yarn for one project from the same dye lot to avoid color differences.
 
-## Dye lot number
+## What other information appears on yarn labels?
 
-- Indicates a batch of yarn dyed together.
-- Important to buy all yarn for one project from the same dye lot to avoid color differences.
-
-## Other information
-
-- Color name or number
-- Fiber certifications (e.g., organic, fair trade)
-- Country of origin
+**Answer:** Color name or number, fiber certifications (e.g., organic, fair trade), and country of origin.
