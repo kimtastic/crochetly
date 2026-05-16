@@ -21,6 +21,7 @@ export default defineConfig({
     llmsTxt({ siteUrl: 'https://crochetly.com' }),
     starlight({
       title: 'Crochetly',
+      favicon: '/favicon.svg',
       customCss: [
         './src/styles/custom.css',
       ],
