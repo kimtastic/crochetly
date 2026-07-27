@@ -21,6 +21,7 @@ export default defineConfig({
     llmsTxt({ siteUrl: 'https://crochetly.com' }),
     starlight({
       title: 'Crochetly',
+      favicon: '/favicon.svg',
       customCss: [
         './src/styles/custom.css',
       ],
@@ -143,6 +144,76 @@ export default defineConfig({
               } else {
                 initAIDropdown();
               }
+            })();
+          `
+        },
+        {
+          tag: 'script',
+          attrs: { async: true, src: 'https://cdn.mxpnl.com/libs/mixpanel-latest.min.js' },
+          content: `
+            window.initMixpanel = function() {
+              mixpanel.init('c04075cf5492a7b007fb6be49298598a', {
+                track_page_view: false,
+                persistence: 'localStorage'
+              });
+            };
+          `
+        },
+        {
+          tag: 'script',
+          content: `
+            (function() {
+              function getPageType(path) {
+                if (path.startsWith('/guides/')) return 'tutorial';
+                if (path.startsWith('/abbreviations/')) return 'abbreviation';
+                if (path.startsWith('/terms/')) return 'reference';
+                if (path.startsWith('/reference/')) return 'reference';
+                if (path.startsWith('/apps/') || path.startsWith('/tools/')) return 'tool';
+                return 'other';
+              }
+
+              function trackPageView() {
+                if (typeof mixpanel === 'undefined') return;
+                var path = window.location.pathname;
+                var pageType = getPageType(path);
+                mixpanel.track('page_viewed', {
+                  page_title: document.title,
+                  page_url: window.location.href,
+                  page_type: pageType
+                });
+              }
+
+              function trackTutorialRead() {
+                if (typeof mixpanel === 'undefined') return;
+                var path = window.location.pathname;
+                var pageType = getPageType(path);
+                if (pageType !== 'tutorial') return;
+
+                var startTime = Date.now();
+                var timer = setTimeout(function() {
+                  var timeOnPage = Math.round((Date.now() - startTime) / 1000);
+                  mixpanel.track('tutorial_read', {
+                    page_title: document.title,
+                    page_url: window.location.href,
+                    page_path: path,
+                    time_on_page: timeOnPage
+                  });
+                }, 10000);
+
+                window.addEventListener('beforeunload', function() {
+                  clearTimeout(timer);
+                });
+              }
+
+              function onReady(fn) {
+                if (document.readyState !== 'loading') fn();
+                else document.addEventListener('DOMContentLoaded', fn);
+              }
+
+              onReady(function() {
+                trackPageView();
+                trackTutorialRead();
+              });
             })();
           `
         }
