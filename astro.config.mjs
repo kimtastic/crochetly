@@ -146,13 +146,58 @@ export default defineConfig({
               }
             })();
           `
+        },
+        {
+          tag: 'script',
+          attrs: {
+            src: 'https://cdn.mxpnl.com/libs/mixpanel-latest.min.js',
+          },
+        },
+        {
+          tag: 'script',
+          content: `
+            mixpanel.init('c04075cf5492a7b007fb6be49298598a', {
+              autocapture: true,
+              record_sessions_percent: 100,
+            });
+
+            function getPageType(path) {
+              if (path.startsWith('/guides/')) return 'tutorial';
+              if (path.startsWith('/abbreviations/')) return 'abbreviation';
+              if (path.startsWith('/terms/')) return 'reference';
+              if (path.startsWith('/reference/')) return 'reference';
+              if (path.startsWith('/apps/') || path.startsWith('/tools/')) return 'tool';
+              return 'other';
+            }
+
+            var mpPath = window.location.pathname;
+            var mpPageType = getPageType(mpPath);
+
+            mixpanel.track('page_viewed', {
+              page_title: document.title,
+              page_url: window.location.href,
+              page_type: mpPageType,
+            });
+
+            if (mpPageType === 'tutorial') {
+              var startTime = Date.now();
+              var timer = setTimeout(function() {
+                mixpanel.track('tutorial_read', {
+                  page_title: document.title,
+                  page_url: window.location.href,
+                  page_path: mpPath,
+                  time_on_page: Math.round((Date.now() - startTime) / 1000),
+                });
+              }, 10000);
+              window.addEventListener('beforeunload', function() { clearTimeout(timer); });
+            }
+          `
         }
       ],
       social: [
         { icon: 'github', label: 'GitHub', href: 'https://github.com/kimtastic/crochetly' },
       ],
       components: {
-        Head: './src/components/MixpanelInit.astro',
         Sidebar: './src/components/Sidebar.astro',
       },
       sidebar: [
