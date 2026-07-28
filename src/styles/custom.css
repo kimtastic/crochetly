@@ -509,4 +509,127 @@
       font-size: 0.8rem;
     }
   }
+
+  /* === Page Feedback Widget === */
+  .page-feedback {
+    padding: 1.5rem 0 0.5rem;
+    text-align: center;
+  }
+
+  .page-feedback__question {
+    font-size: 0.875rem;
+    color: var(--warm-subtle);
+    margin: 0 0 0.75rem;
+    font-weight: 500;
+  }
+
+  .page-feedback__buttons {
+    display: flex;
+    justify-content: center;
+    gap: 0.75rem;
+  }
+
+  .page-feedback__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.45rem 1.1rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-family: inherit;
+    color: var(--warm-text);
+    background: transparent;
+    border: 1px solid var(--warm-border);
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    line-height: 1.4;
+  }
+
+  .page-feedback__btn:hover {
+    background: var(--warm-hover);
+    border-color: var(--warm-border);
+  }
+
+  .page-feedback__btn:active {
+    transform: translateY(1px);
+  }
+
+  .page-feedback__btn--disabled,
+  .page-feedback__btn:disabled {
+    opacity: 0.45;
+    cursor: default;
+    pointer-events: none;
+  }
+
+  .page-feedback__icon {
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  .page-feedback__comment {
+    margin-top: 1rem;
+    max-width: 28rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .page-feedback__textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0.7rem 0.9rem;
+    font-size: 0.875rem;
+    font-family: inherit;
+    color: var(--warm-text);
+    background: transparent;
+    border: 1px solid var(--warm-border);
+    border-radius: 12px;
+    resize: vertical;
+    min-height: 5rem;
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+    transition: border-color 0.15s, outline-color 0.15s;
+  }
+
+  .page-feedback__textarea:focus {
+    border-color: var(--warm-accent);
+    outline-color: var(--warm-accent);
+  }
+
+  .page-feedback__textarea::placeholder {
+    color: var(--warm-subtle);
+    opacity: 0.7;
+  }
+
+  .page-feedback__submit {
+    display: inline-block;
+    margin-top: 0.6rem;
+    padding: 0.5rem 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    font-family: inherit;
+    color: var(--warm-bg);
+    background: var(--warm-accent);
+    border: none;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+  }
+
+  .page-feedback__submit:hover {
+    opacity: 0.85;
+  }
+
+  .page-feedback__thanks {
+    font-size: 0.875rem;
+    color: var(--warm-subtle);
+    margin: 0.75rem 0 0;
+  }
+
+  @media (max-width: 768px) {
+    .page-feedback__btn {
+      padding: 0.4rem 0.9rem;
+      font-size: 0.8125rem;
+    }
+  }
 }

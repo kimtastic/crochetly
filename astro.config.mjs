@@ -195,6 +195,7 @@ export default defineConfig({
       ],
       components: {
         Sidebar: './src/components/Sidebar.astro',
+        Footer: './src/components/Footer.astro',
       },
       sidebar: [
         {
