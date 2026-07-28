@@ -1,0 +1,96 @@
+<div id="page-feedback" class="page-feedback">
+  <p class="page-feedback__question">Was this page helpful?</p>
+  <div class="page-feedback__buttons">
+    <button class="page-feedback__btn page-feedback__btn--yes" data-rating="helpful">
+      <span class="page-feedback__icon">&#x1F44D;</span> Yes
+    </button>
+    <button class="page-feedback__btn page-feedback__btn--no" data-rating="not_helpful">
+      <span class="page-feedback__icon">&#x1F44E;</span> No
+    </button>
+  </div>
+  <div id="feedback-comment" class="page-feedback__comment" hidden>
+    <textarea id="feedback-text" class="page-feedback__textarea" placeholder="What could be improved?" rows="3"></textarea>
+    <button id="feedback-submit" class="page-feedback__submit">Submit</button>
+  </div>
+  <p id="feedback-thanks" class="page-feedback__thanks" hidden>Thanks for your feedback! &#x1F64F;</p>
+</div>
+
+<script>
+(function() {
+  var STORAGE_PREFIX = 'crochetly_feedback_';
+
+  function getPageCategory() {
+    var path = window.location.pathname;
+    if (path.startsWith('/guides/')) return 'guides';
+    if (path.startsWith('/abbreviations/')) return 'abbreviations';
+    if (path.startsWith('/terms/')) return 'terms';
+    if (path.startsWith('/reference/')) return 'reference';
+    if (path.startsWith('/apps/')) return 'apps';
+    if (path.startsWith('/patterns/')) return 'patterns';
+    if (path.startsWith('/templates/')) return 'templates';
+    if (path.startsWith('/style-guide/')) return 'style-guide';
+    return 'other';
+  }
+
+  var storageKey = STORAGE_PREFIX + window.location.pathname;
+
+  if (localStorage.getItem(storageKey)) {
+    document.getElementById('page-feedback').style.display = 'none';
+  } else {
+    var buttons = document.querySelectorAll('#page-feedback .page-feedback__btn');
+    var commentBox = document.getElementById('feedback-comment');
+    var thanksMsg = document.getElementById('feedback-thanks');
+    var submitBtn = document.getElementById('feedback-submit');
+
+    function disableButtons() {
+      for (var i = 0; i < buttons.length; i++) {
+        buttons[i].disabled = true;
+        buttons[i].classList.add('page-feedback__btn--disabled');
+      }
+    }
+
+    function submitFeedback(rating) {
+      if (typeof mixpanel !== 'undefined') {
+        mixpanel.track('Feedback Submitted', {
+          rating: rating,
+          page_name: document.title,
+          page_url: window.location.pathname,
+          page_category: getPageCategory()
+        });
+      }
+
+      localStorage.setItem(storageKey, 'submitted');
+      disableButtons();
+
+      if (rating === 'not_helpful') {
+        commentBox.hidden = false;
+      } else {
+        thanksMsg.hidden = false;
+      }
+    }
+
+    function submitFeedbackComment() {
+      var comment = document.getElementById('feedback-text').value;
+      if (typeof mixpanel !== 'undefined') {
+        mixpanel.track('Feedback Comment Submitted', {
+          page_name: document.title,
+          page_url: window.location.pathname,
+          page_category: getPageCategory(),
+          comment: comment
+        });
+      }
+      commentBox.hidden = true;
+      thanksMsg.hidden = false;
+    }
+
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].addEventListener('click', function() {
+        var rating = this.getAttribute('data-rating');
+        submitFeedback(rating);
+      });
+    }
+
+    submitBtn.addEventListener('click', submitFeedbackComment);
+  }
+})();
+</script>
