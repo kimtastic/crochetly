@@ -1,15 +1,15 @@
 ---
 title: Choosing yarn
-description: Guide to selecting yarn for crochet, covering weight categories (0–7), fiber types (acrylic, cotton, wool, bamboo), yardage per weight, ply, dye lots, care instructions, and recommendations for beginners.
+description: Guide to selecting yarn for crochet and knitting, covering weight categories (0–7), fiber types (acrylic, cotton, wool, bamboo), yardage per weight, ply, dye lots, care instructions, and recommendations for beginners.
 ---
 
 Understanding yarn helps you pick the right materials for your project. Here is what to look for when choosing yarn.
 
 ## What is yarn weight and how does it affect projects?
 
-Yarn weight refers to how thick or thin the yarn is. It ranges from 0 (lace, very fine) to 7 (jumbo, extremely thick). Your yarn weight determines hook size, stitch size, and project texture.
+Yarn weight refers to how thick or thin the yarn is. It ranges from 0 (lace, very fine) to 7 (jumbo, extremely thick). Your yarn weight determines tool size, stitch size, and project texture.
 
-| Weight Category        | Common Names            | Typical Hook Size      | Example Uses                |
+| Weight Category        | Common Names            | Typical Tool Size      | Example Uses                |
 |-----------------------|------------------------|-----------------------|----------------------------|
 | 0 - Lace              | Lace, Cobweb            | 1.5 - 2.5 mm          | Doilies, lace, fine shawls  |
 | 1 - Super Fine        | Fingering, Sock          | 2.25 - 3.5 mm         | Socks, baby garments        |
@@ -91,4 +91,4 @@ Check labels for washing and drying instructions. Some yarns need hand washing; 
 
 ## What are the final tips for choosing yarn?
 
-Start with medium weight (worsted, category 4) acrylic or cotton yarn. Use the recommended hook size on the yarn label. Make a gauge swatch to match pattern requirements.
+Start with medium weight (worsted, category 4) acrylic or cotton yarn. Use the recommended hook or needle size on the yarn label. Make a gauge swatch to match pattern requirements.

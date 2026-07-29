@@ -14,6 +14,7 @@ export default defineConfig({
   site: 'https://crochetly.com',
   redirects: {
     '/reference/reading-crochet-patterns': '/reference/reading-patterns',
+    '/terms/knitting-swatching': '/terms/swatch',
   },
 
   integrations: [
@@ -198,46 +199,106 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Crochet: Start here',
+          label: 'Get started',
           collapsed: true,
           items: [
-            { label: 'Get started with crochet', link: 'guides/get-started' },
-            { label: 'Get started with amigurumi', link: 'guides/amigurumi-get-started' },
-            { label: 'Get started with Tunisian crochet', link: 'guides/tunisian-get-started' },
-            { label: 'Crochet FAQ', link: 'guides/faq' },
+            { label: 'Get started with Crochetly', link: 'guides/get-started-with-crochetly' },
+            {
+              label: 'Crochet: Start here',
+              collapsed: true,
+              items: [
+                { label: 'Get started with crochet', link: 'guides/get-started' },
+                { label: 'Get started with amigurumi', link: 'guides/amigurumi-get-started' },
+                { label: 'Get started with Tunisian crochet', link: 'guides/tunisian-get-started' },
+                { label: 'Crochet FAQ', link: 'guides/crochet-faq' },
+              ],
+            },
+            {
+              label: 'Knitting: Start here',
+              collapsed: true,
+              items: [
+                { label: 'Get started with knitting', link: 'guides-knitting/get-started' },
+                { label: 'Knitting FAQ', link: 'guides-knitting/faq' },
+              ],
+            },
           ],
         },
         {
-          label: 'Knitting: Start here',
-          collapsed: true,
-          items: [
-            { label: 'Get started with knitting', link: 'guides-knitting/get-started' },
-            { label: 'Knitting FAQ', link: 'guides-knitting/faq' },
-          ],
-        },
-        {
-          label: 'Terms and measurements',
+          label: 'Terms',
           collapsed: true,
           items: [
             { label: 'Crochet terminology', link: 'terms/crochet-terminology' },
             { label: 'Knitting terminology', link: 'terms/knitting-terminology' },
             { label: 'Tunisian terminology', link: 'terms/tunisian-crochet-terminology' },
             { label: 'Amigurumi terminology', link: 'terms/amigurumi-terminology' },
-            { label: 'Gauge and tension', link: 'terms/gauge-and-tension' },
-            { label: 'Crochet swatching', link: 'terms/swatch' },
-            { label: 'Knitting swatching', link: 'terms/knitting-swatching' },
-            { label: 'Blocking', link: 'terms/blocking' },
           ],
         },
         {
           label: 'Abbreviations',
           collapsed: true,
-          autogenerate: { directory: 'abbreviations' },
+          items: [
+            {
+              label: 'Crochet abbreviations',
+              collapsed: true,
+              autogenerate: { directory: 'abbreviations/crochet' },
+            },
+            {
+              label: 'Knitting abbreviations',
+              collapsed: true,
+              autogenerate: { directory: 'abbreviations/knitting' },
+            },
+          ],
         },
         {
           label: 'Reference',
           collapsed: true,
-          autogenerate: { directory: 'reference' },
+          items: [
+            {
+              label: 'Crochet reference',
+              collapsed: true,
+              items: [
+                { label: 'Choosing crochet hooks', link: 'reference/choosing-hooks' },
+                { label: 'Crochet chart symbols', link: 'reference/crochet-chart-symbols' },
+                { label: 'Holding yarn and a hook', link: 'reference/holding-yarn-hook' },
+                { label: 'Mosaic crochet', link: 'reference/mosaic-crochet' },
+                { label: 'Resources', link: 'reference/resources' },
+                { label: 'Stitch diagram', link: 'reference/stitch-diagram' },
+                { label: 'Stitch library', link: 'reference/stitch-library' },
+                { label: 'Structure of crochet', link: 'reference/structure-of-crochet' },
+                { label: 'Troubleshooting', link: 'reference/troubleshooting' },
+              ],
+            },
+            {
+              label: 'Knitting reference',
+              collapsed: true,
+              items: [
+                { label: 'Bind off methods', link: 'knitting-reference/bind-off-methods' },
+                { label: 'Cast on methods', link: 'knitting-reference/cast-on-methods' },
+                { label: 'Choosing needles', link: 'knitting-reference/choosing-needles' },
+                { label: 'Colorwork knitting', link: 'knitting-reference/colorwork-knitting' },
+                { label: 'Holding yarn and needles', link: 'knitting-reference/holding-yarn-needles' },
+                { label: 'Kitchener stitch (grafting)', link: 'knitting-reference/kitchener-stitch' },
+                { label: 'Structure of knitting', link: 'knitting-reference/structure-of-knitting' },
+                { label: 'Troubleshooting', link: 'knitting-reference/troubleshooting' },
+              ],
+            },
+            {
+              label: 'Fiber arts reference',
+              collapsed: true,
+              items: [
+                { label: 'Blanket measurement guide', link: 'reference/blanket-measurement' },
+                { label: 'Blocking', link: 'terms/blocking' },
+                { label: 'Choosing yarn', link: 'reference/choosing-yarn' },
+                { label: 'Gauge and tension', link: 'terms/gauge-and-tension' },
+                { label: 'Hat and scarf measurement guide', link: 'reference/hat-scarf-measurement' },
+                { label: 'Joining yarn', link: 'reference/joining-yarn' },
+                { label: 'Reading patterns', link: 'reference/reading-patterns' },
+                { label: 'Reading yarn labels', link: 'reference/reading-yarn-labels' },
+                { label: 'Swatching', link: 'terms/swatch' },
+                { label: 'Travel checklist', link: 'reference/travel-with-crochet' },
+              ],
+            },
+          ],
         },
         {
           label: 'Tools & Apps',
@@ -264,6 +325,15 @@ export default defineConfig({
           items: [
             { label: 'llms.txt', link: '/llms.txt' },
             { label: 'llms-full.txt', link: '/llms-full.txt' },
+          ],
+        },
+        {
+          label: 'About',
+          collapsed: true,
+          items: [
+            { label: 'About Crochetly', link: 'about/about' },
+            { label: 'Contact', link: 'about/contact' },
+            { label: 'FAQ', link: 'about/faq' },
           ],
         },
       ],

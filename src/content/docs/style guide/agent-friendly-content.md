@@ -46,7 +46,7 @@ Each entry follows this format:
 Every content page is available as raw Markdown by appending `/index.md` to its URL:
 
 ```
-https://crochetly.com/abbreviations/crochet-abbreviations-us/index.md
+https://crochetly.com/abbreviations/crochet/abbreviations-us/index.md
 ```
 
 This is handled at build time by copying each source .md file into the output directory. Agents that prefer Markdown over HTML can use these URLs directly.

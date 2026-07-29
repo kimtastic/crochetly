@@ -51,7 +51,7 @@ A well-written pattern will always define its abbreviations up front.
 
 > **Tip:** Review the abbreviation list before you start stitching. If something looks unfamiliar, pause and look it up, because guessing often leads to mistakes.
 
-For complete lists, see the [crochet abbreviations](/abbreviations/crochet-abbreviations-us/) and knitting abbreviations pages.
+For complete lists, see the [crochet abbreviations](/abbreviations/crochet/abbreviations-us/) and [knitting abbreviations](/abbreviations/knitting/abbreviations-us-uk/) pages.
 
 ## Why is gauge important in patterns?
 
