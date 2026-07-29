@@ -18,7 +18,7 @@ content readable.
 
 ## Reference files
 
-- `src/content/docs/style guide/agent-friendly-content.md` provides existing
+- `src/content/docs/about/agent-friendly-content.md` provides existing
   agent-readiness infrastructure
 - `src/content/docs/guides/faq.md` is a Q&A format reference
 - `src/content/docs/style guide/conventions.md` defines numeral and unit
