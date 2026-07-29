@@ -1,6 +1,8 @@
 ---
 import Default from "@astrojs/starlight/components/Footer.astro";
 import PageFeedback from "./PageFeedback.astro";
+
+const isHome = Astro.url.pathname === "/";
 ---
-<PageFeedback />
+{!isHome && <PageFeedback />}
 <Default><slot /></Default>
