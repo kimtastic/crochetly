@@ -3,9 +3,10 @@ title: Crochet terminology
 description: Comprehensive glossary of foundational crochet terms covering basic stitches (sc, hdc, dc, tr), construction concepts, increases, decreases, post stitches, and specialty stitch types
 ---
 
+**Crochet** is a needlework technique where you create fabric by interlocking loops of yarn or thread with a hooked needle (a crochet hook). This page covers common crochet terms you will see in patterns.
+
 **Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
 
-**Crochet** is a needlework technique where you create fabric by interlocking loops of yarn or thread with a hooked needle (a crochet hook). This page covers common crochet terms you will see in patterns.
 ## Basic crochet terms
 
 The table below covers essential crochet terms: chain, slip stitch, yarn over, and more. These are the building blocks of every pattern.

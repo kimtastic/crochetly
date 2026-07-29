@@ -3,9 +3,10 @@ title: Tunisian terminology
 description: Glossary of Tunisian crochet terminology covering forward and return passes, basic stitches (Tss, Tks, Tps), special techniques like entrelac, and curling prevention
 ---
 
+**Tunisian crochet**, also known as Afghan crochet, blends elements of knitting and traditional crochet. It creates a dense, textured fabric. This page covers the Tunisian crochet terms you will see in patterns.
+
 **Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
 
-**Tunisian crochet**, also known as Afghan crochet, blends elements of knitting and traditional crochet. It creates a dense, textured fabric. This page covers the Tunisian crochet terms you will see in patterns.
 ## Basic stitch abbreviations
 
 The table below covers essential Tunisian stitch abbreviations. The most common are Tss (Tunisian Simple Stitch), Tks (Tunisian Knit Stitch), and Tps (Tunisian Purl Stitch).

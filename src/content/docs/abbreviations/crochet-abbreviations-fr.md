@@ -3,11 +3,11 @@ title: French crochet abbreviations
 description: Complete reference for French crochet abbreviations with tables for basic stitches, post stitches, special stitches, Tunisian terms, and US/UK equivalent conversions
 ---
 
-**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), French crochet publications
-
 **Reading a crochet pattern in French?** This guide covers the most common French crochet abbreviations, including post stitches, Tunisian terms, and US/UK equivalents.
 
 French crochet terms are consistent across French-speaking regions, with only small differences. Designers and publishers sometimes use their own abbreviations. Always check the pattern's key (clé des abréviations) for the exact terms.
+
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), French crochet publications
 
 ## What are the most common French crochet abbreviations?
 

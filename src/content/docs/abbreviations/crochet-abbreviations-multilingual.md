@@ -3,11 +3,11 @@ title: Multilingual crochet abbreviations cross-reference
 description: Translate crochet abbreviations across US, UK, Japanese, Spanish, and French, with comparison tables, regional notes, and quick translation tips for international patterns
 ---
 
-**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), regional crochet publications
-
 **Need to translate a crochet pattern from another language?** This cross-reference table maps abbreviations across US English, UK English, Japanese, Spanish, and French so you can work with international patterns confidently.
 
 Each language has its own abbreviation style. Some terms change by region. Use these tables to find equivalent stitches, construction terms, and pattern instructions across five common crochet languages.
+
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), regional crochet publications
 
 ## What are the basic crochet abbreviation differences between languages?
 

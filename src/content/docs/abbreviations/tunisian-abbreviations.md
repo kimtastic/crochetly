@@ -3,9 +3,9 @@ title: Tunisian crochet abbreviations
 description: Complete reference for Tunisian crochet abbreviations covering simple, knit, purl, double, and extended stitches including forward and return pass notation
 ---
 
-**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
-
 **Working on a Tunisian crochet pattern?** Tunisian crochet uses its own set of abbreviations like `tss` (Tunisian simple stitch), `tks` (Tunisian knit stitch), and `tps` (Tunisian purl stitch), which are distinct from standard crochet.
+
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
 ## What are all Tunisian crochet abbreviations?
 

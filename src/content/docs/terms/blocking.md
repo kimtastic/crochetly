@@ -3,13 +3,14 @@ title: Blocking
 description: Guide to wet, steam, and spray blocking techniques for setting crochet pieces to their intended size and shape, with tool recommendations and project suitability notes
 ---
 
-**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
-
 Blocking is the final step where you shape and set your finished piece to its intended size and drape. It helps:
 - Even out your stitches
 - Flatten curly edges and lacework
 - Open up textures (like cables or lace)
 - Give your piece a polished, professional look
+
+**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
+
 ## What types of blocking are there?
 
 There are three main blocking methods: wet blocking, steam blocking, and spray blocking. Your choice depends on the fiber content and the effect you want.

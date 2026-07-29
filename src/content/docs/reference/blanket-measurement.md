@@ -7,7 +7,7 @@ This chart lists standard measurements for common crochet blanket sizes. Use it 
 
 ## What are the standard crochet blanket sizes?
 
-**Answer:** Crochet blankets range from small loveys (10–12 in) up to king size (108 x 100 in). The chart below covers 11 common sizes with width and length in inches and centimeters.
+Crochet blankets range from small loveys (10–12 in) up to king size (108 x 100 in). The chart below covers 11 common sizes with width and length in inches and centimeters.
 
 | Blanket Type        | Width (in) | Length (in) | Width (cm) | Length (cm) |
 |---------------------|------------|-------------|------------|-------------|
@@ -25,7 +25,7 @@ This chart lists standard measurements for common crochet blanket sizes. Use it 
 
 ## What do the blanket size names mean?
 
-**Answer:** Each name describes the intended use. Loveys are small comfort items. Lapghans cover the lap. Throw blankets are decorative. Bed blankets match mattress sizes.
+Each name describes the intended use. Loveys are small comfort items. Lapghans cover the lap. Throw blankets are decorative. Bed blankets match mattress sizes.
 
 - **Lovey**: Small comfort item, often with a toy or motif attached.
 - **Lapghan**: Great for covering the lap; often used in wheelchairs or on couches.
@@ -35,7 +35,7 @@ This chart lists standard measurements for common crochet blanket sizes. Use it 
 
 ## What tips help when making a blanket?
 
-**Answer:** Add a border for extra size and a finished look. Consider shrinkage and stretch depending on your yarn fiber. Use multiples of your stitch pattern repeat to calculate width.
+Add a border for extra size and a finished look. Consider shrinkage and stretch depending on your yarn fiber. Use multiples of your stitch pattern repeat to calculate width.
 
 - Add a **border** for extra size and a finished look.
 - Consider **shrinkage/stretch** depending on yarn fiber and stitch type.

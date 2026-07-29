@@ -3,11 +3,11 @@ title: Spanish crochet abbreviations
 description: Complete reference for Spanish crochet abbreviations with regional variations across Spain, Mexico, Argentina, and Latin America plus US/UK equivalents
 ---
 
-**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), regional crochet publications
-
 **Reading a crochet pattern in Spanish?** This guide covers the most common Spanish crochet abbreviations from Spain and Latin America, including regional differences.
 
 Spanish crochet terms vary by region; Spain and Latin America often use different words. Designers and publishers sometimes use their own abbreviations. Always check the pattern's key (clave de abreviaturas) for the exact terms.
+
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations), regional crochet publications
 
 ## What are the most common Spanish crochet abbreviations?
 

@@ -5,13 +5,13 @@ description: Quick-reference guide to crochet resources, including tools and app
 
 ## Where can I find crochet tools and apps?
 
-**Answer:** Crochetly has detailed guides for 14 tools and apps covering pattern browsing, project tracking, row counting, stash management, and chart design.
+Crochetly has detailed guides for 14 tools and apps covering pattern browsing, project tracking, row counting, stash management, and chart design.
 
 See the full [Apps & Tools](/apps/using-ravelry/) section for guides on Ravelry, Ribblr, Stitch Fiddle, My Row Counter, Yarn Buddy, Pocket Crochet, and more.
 
 ## Where can I find crochet patterns?
 
-**Answer:** Crochetly covers the major pattern sources with dedicated guides for each platform.
+Crochetly covers the major pattern sources with dedicated guides for each platform.
 
 - [Finding patterns on Ravelry](/patterns/finding-patterns-on-ravelry/) — the largest crochet and knitting pattern database
 - [Finding patterns on Etsy](/patterns/finding-patterns-on-etsy/) — thousands of independent designers selling PDF patterns
@@ -23,7 +23,7 @@ For help understanding pattern licenses and what you can do with patterns you bu
 
 ## Where can I learn how to design crochet patterns?
 
-**Answer:** Crochetly has resources to help you create original patterns, from understanding stitch charts to choosing materials and testing gauge.
+Crochetly has resources to help you create original patterns, from understanding stitch charts to choosing materials and testing gauge.
 
 ### Chart and diagram resources
 - [Crochet chart symbols](/reference/crochet-chart-symbols/) — standard symbols for designing stitch charts
@@ -41,7 +41,7 @@ For help understanding pattern licenses and what you can do with patterns you bu
 
 ## Where can I learn how to write and edit crochet patterns?
 
-**Answer:** Crochetly has a pattern template and a full writing guide to help you turn your design into a clear, publishable pattern.
+Crochetly has a pattern template and a full writing guide to help you turn your design into a clear, publishable pattern.
 
 ### Pattern template
 - [Crochet pattern template](/templates/crochet-pattern-mdtemplate/) — ready-to-use Markdown template with all standard pattern sections
@@ -67,14 +67,14 @@ For help understanding pattern licenses and what you can do with patterns you bu
 
 ## Where can I find crochet video tutorials?
 
-**Answer:** YouTube has the largest collection of free crochet tutorials. Search for any technique, stitch, or project and you will find step-by-step video guides.
+YouTube has the largest collection of free crochet tutorials. Search for any technique, stitch, or project and you will find step-by-step video guides.
 
 - [YouTube](https://www.youtube.com/results?search_query=crochet+tutorials) for searching any crochet technique or stitch
 
 ## Where can I find crochet help and community?
 
-**Answer:** Ask for help in crochet Facebook groups, Reddit communities (r/crochet), or Ravelry forums. These are great places for troubleshooting and inspiration.
+Ask for help in crochet Facebook groups, Reddit communities (r/crochet), or Ravelry forums. These are great places for troubleshooting and inspiration.
 
 ## Where can I find crochet supplies?
 
-**Answer:** Local yarn shops, craft stores (Michael's, Joann), and online retailers (LoveCrafts, Hobbii, KnitPicks) all carry crochet supplies and yarn.
+Local yarn shops, craft stores (Michael's, Joann), and online retailers (LoveCrafts, Hobbii, KnitPicks) all carry crochet supplies and yarn.

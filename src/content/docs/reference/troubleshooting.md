@@ -7,7 +7,7 @@ Crochet is a relaxing craft, but sometimes things go wrong. This guide covers co
 
 ## How do you fix general crochet problems?
 
-**Answer:** Most common issues have simple fixes. Adjust your hook size, slow down, count stitches, and block your finished pieces.
+Most common issues have simple fixes. Adjust your hook size, slow down, count stitches, and block your finished pieces.
 
 ### Tension too tight or loose
 Adjust your hook size or consciously relax your hand to even out stitches.
@@ -29,7 +29,7 @@ Use stitch markers and take notes.
 
 ## How do you fix common amigurumi problems?
 
-**Answer:** Use a smaller hook than the yarn label recommends. Tight stitches keep stuffing from showing through. Keep your tension consistent and use stitch markers to track rounds.
+Use a smaller hook than the yarn label recommends. Tight stitches keep stuffing from showing through. Keep your tension consistent and use stitch markers to track rounds.
 
 ### Holes between stitches
 Use a smaller hook than recommended. Tight stitches prevent stuffing from showing.
@@ -48,7 +48,7 @@ Use a stitch marker to keep track of the beginning of each round.
 
 ## How do you fix Tunisian crochet problems?
 
-**Answer:** Use a smooth hook and yarn that glides easily. Block your projects and experiment with hook size. Use stitch markers to count stitches on the forward pass.
+Use a smooth hook and yarn that glides easily. Block your projects and experiment with hook size. Use stitch markers to count stitches on the forward pass.
 
 ### Hard to pull loops over
 Make sure your hook is smooth and use a yarn that glides easily.
@@ -67,7 +67,7 @@ Practice keeping even tension on both passes for uniform fabric.
 
 ## What are the bonus tips for troubleshooting?
 
-**Answer:** Use stitch markers, count stitches often, watch tutorials, take breaks when your hands get tired, and be patient with yourself.
+Use stitch markers, count stitches often, watch tutorials, take breaks when your hands get tired, and be patient with yourself.
 
 - **Use stitch markers** to keep track of your place.
 - **Count stitches often** so you can catch mistakes early.

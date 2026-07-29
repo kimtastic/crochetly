@@ -3,11 +3,11 @@ title: US crochet abbreviations
 description: Complete reference of US crochet abbreviations from sc to trtr, with categorized tables for basic stitches, post stitches, extended stitches, and US-to-UK terminology conversion
 ---
 
-**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
-
 **Need to decode a US crochet pattern?** This reference covers the standard US abbreviations from `sc` (single crochet) to `trtr` (triple treble crochet), organized by category.
 
 Designers and publishers sometimes use special abbreviations in a pattern. Always check the pattern's key before you start.
+
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
 ## What are the most common US crochet abbreviations?
 

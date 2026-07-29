@@ -7,7 +7,7 @@ Crochet is a great travel buddy. Next time you plan a trip, use this checklist t
 
 ## What should you pack in a travel crochet kit?
 
-**Answer:** Pack a zippered pouch or clear bag, crochet hooks (plastic or bamboo for flights), small scissors or thread cutter, enough yarn for the whole trip, tapestry needle, stitch markers, and a printed or offline pattern.
+Pack a zippered pouch or clear bag, crochet hooks (plastic or bamboo for flights), small scissors or thread cutter, enough yarn for the whole trip, tapestry needle, stitch markers, and a printed or offline pattern.
 
 ### Essentials
 - A zippered pouch or a TSA-compliant clear bag.
@@ -26,8 +26,8 @@ Crochet is a great travel buddy. Next time you plan a trip, use this checklist t
 
 ## What TSA rules apply to crochet supplies?
 
-**Answer:** Plastic and bamboo hooks are generally allowed in carry-on bags. Metal hooks may be allowed but can face scrutiny. Scissors smaller than 4 inches are usually permitted.
+Plastic and bamboo hooks are generally allowed in carry-on bags. Metal hooks may be allowed but can face scrutiny. Scissors smaller than 4 inches are usually permitted.
 
 ## What tips help with travel crochet projects?
 
-**Answer:** Choose a simple, portable project that does not require many supplies. Bring extra yarn in case you run out. Download patterns offline before your trip.
+Choose a simple, portable project that does not require many supplies. Bring extra yarn in case you run out. Download patterns offline before your trip.
