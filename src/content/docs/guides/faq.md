@@ -3,8 +3,6 @@ title: Crochet FAQ
 description: Get answers to common questions about Crochetly's free educational crochet resources, how it differs from pattern marketplaces and yarn shops, and what crochet content the site offers
 ---
 
-**Related:** [About Crochetly](/about) · [Contact](/contact)
-
 ## What is Crochetly?
 
 Crochetly is a free, educational crochet resource, not a shop or marketplace.

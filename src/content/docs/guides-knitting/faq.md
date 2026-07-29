@@ -3,11 +3,9 @@ title: Knitting FAQ
 description: Frequently asked questions about Crochetly's knitting content, written for crocheters who are learning to knit or considering picking up knitting needles for the first time
 ---
 
-**Related:** [About Crochetly](/about) · [Contact](/contact) · [Crochet FAQ](/guides/faq/)
-
 ## What is Crochetly?
 
-Crochetly launched as a free, educational crochet resource — not a shop or marketplace. Over time, it became clear that many crocheters also knit (or want to learn). So Crochetly is expanding to cover knitting too, with the same depth and clarity you expect from the crochet side.
+Crochetly launched as a free, educational crochet resource, not a shop or marketplace. Over time, it became clear that many crocheters also knit (or want to learn). So Crochetly is expanding to cover knitting too, with the same depth and clarity you expect from the crochet side.
 
 There are no products for sale, no subscriptions, and no downloads.
 
@@ -15,7 +13,7 @@ There are no products for sale, no subscriptions, and no downloads.
 
 ## Why is Crochetly adding knitting content?
 
-Because many crocheters eventually pick up knitting needles. The skills complement each other. If you already crochet, you already understand yarn, tension, gauge, and reading patterns — that puts you ahead of a true beginner.
+Because many crocheters eventually pick up knitting needles. The skills complement each other. If you already crochet, you already understand yarn, tension, gauge, and reading patterns. That puts you ahead of a true beginner.
 
 Crochet content is not going anywhere. Knitting is an addition, not a replacement.
 
@@ -23,7 +21,7 @@ Crochet content is not going anywhere. Knitting is an addition, not a replacemen
 
 ## Do I need to know crochet to learn knitting here?
 
-No. The knitting guides are written for everyone — including people who have never held yarn before.
+No. The knitting guides are written for everyone, including people who have never held yarn before.
 
 If you do crochet, you will notice occasional comparisons between the two crafts. These are meant to help you translate what you already know. If you are starting from scratch, you can ignore them and follow the steps as-is.
 
@@ -34,9 +32,9 @@ If you do crochet, you will notice occasional comparisons between the two crafts
 If you already crochet, you own half the kit already.
 
 **New tools you will need:**
-- **Knitting needles** — straight, circular, or double-pointed. Start with medium-size needles (US 8 / 5 mm) and medium-weight yarn.
-- **Stitch holders** — like locking stitch markers but designed to hold live stitches.
-- **Row counter** — you may already use one for crochet.
+- **Knitting needles** – straight, circular, or double-pointed. Start with medium-size needles (US 8 / 5 mm) and medium-weight yarn.
+- **Stitch holders** – like locking stitch markers but designed to hold live stitches.
+- **Row counter** – you may already use one for crochet.
 
 **Shared with crochet:**
 - Yarn (same yarn works for both)
@@ -48,11 +46,11 @@ If you already crochet, you own half the kit already.
 
 ## Which is harder: knitting or crochet?
 
-Neither is harder — they are different rhythms.
+Neither is harder. They are different rhythms.
 
 In crochet, you control one active loop and build stitches one at a time. In knitting, you hold many live stitches on the needle at once. That feels unfamiliar at first, but the stitch structure is actually simpler.
 
-Most crocheters find the knit stitch intuitive after a few rows. The purl stitch takes a bit more practice. The real challenge is building muscle memory for tension with both hands — but you already have good yarn hands from crochet.
+Most crocheters find the knit stitch intuitive after a few rows. The purl stitch takes a bit more practice. The real challenge is building muscle memory for tension with both hands, but you already have good yarn hands from crochet.
 
 ---
 
@@ -74,4 +72,4 @@ Yes. Knitting abbreviations (K, P, k2tog, yo, etc.) will be covered in a dedicat
 
 ## Is Crochetly still free?
 
-Yes. All Crochetly content — crochet and knitting — remains free to access. No subscriptions, no paid memberships, no premium features.
+Yes. All Crochetly content, crochet and knitting, remains free to access. No subscriptions, no paid memberships, no premium features.

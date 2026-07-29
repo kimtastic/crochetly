@@ -12,6 +12,9 @@ import llmsTxt from "./src/integrations/llms-txt";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://crochetly.com',
+  redirects: {
+    '/reference/reading-crochet-patterns': '/reference/reading-patterns',
+  },
 
   integrations: [
     llmsTxt({ siteUrl: 'https://crochetly.com' }),
@@ -197,17 +200,34 @@ export default defineConfig({
         {
           label: 'Crochet: Start here',
           collapsed: true,
-          autogenerate: { directory: 'guides' },
+          items: [
+            { label: 'Get started with crochet', link: 'guides/get-started' },
+            { label: 'Get started with amigurumi', link: 'guides/amigurumi-get-started' },
+            { label: 'Get started with Tunisian crochet', link: 'guides/tunisian-get-started' },
+            { label: 'Crochet FAQ', link: 'guides/faq' },
+          ],
         },
         {
           label: 'Knitting: Start here',
           collapsed: true,
-          autogenerate: { directory: 'guides-knitting' },
+          items: [
+            { label: 'Get started with knitting', link: 'guides-knitting/get-started' },
+            { label: 'Knitting FAQ', link: 'guides-knitting/faq' },
+          ],
         },
         {
           label: 'Terms and measurements',
           collapsed: true,
-          autogenerate: { directory: 'terms' },
+          items: [
+            { label: 'Crochet terminology', link: 'terms/crochet-terminology' },
+            { label: 'Knitting terminology', link: 'terms/knitting-terminology' },
+            { label: 'Tunisian terminology', link: 'terms/tunisian-crochet-terminology' },
+            { label: 'Amigurumi terminology', link: 'terms/amigurumi-terminology' },
+            { label: 'Gauge and tension', link: 'terms/gauge-and-tension' },
+            { label: 'Crochet swatching', link: 'terms/swatch' },
+            { label: 'Knitting swatching', link: 'terms/knitting-swatching' },
+            { label: 'Blocking', link: 'terms/blocking' },
+          ],
         },
         {
           label: 'Abbreviations',
