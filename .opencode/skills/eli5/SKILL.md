@@ -21,7 +21,7 @@ These define the voice, tone, and conventions you must match:
   instructional, encouraging, inclusive ("crocheter" not "he/she")
 - `src/content/docs/style guide/conventions.md` uses numerals for numbers, US
   units with metric in parentheses
-- `src/content/docs/style guide/agent-friendly-content.md` requires unique, specific
+- `src/content/docs/about/agent-friendly-content.md` requires unique, specific
   frontmatter `description` fields (but avoid agent-only phrasing in the body)
 
 ## What to check

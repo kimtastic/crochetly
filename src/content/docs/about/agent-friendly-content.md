@@ -81,7 +81,7 @@ src/
   integrations/
     llms-txt.ts              # Build-time integration
   content/docs/
-    style guide/
+    about/
       agent-friendly-content.md
     ...
 public/

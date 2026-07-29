@@ -41,6 +41,62 @@ Look for these sections in the sidebar:
 - **Knitting reference**. Guides for techniques like the [Kitchener stitch](/knitting-reference/kitchener-stitch/)
 - **Terms and measurements**. [Knitting terminology](/terms/knitting-terminology/), [gauge](/terms/gauge-and-tension/), [swatching](/terms/swatch/)
 
+## Crochet vs knitting
+
+Crochet and knitting are related but different crafts. Both use yarn and create fabric, but they use different tools, produce different textures, and suit different types of projects.
+
+| Aspect | Crochet | Knitting |
+|---|---|---|
+| Tools | One hook | Two needles (or circular needles) |
+| Stitch structure | Each stitch is completed before starting the next | Many stitches are held on the needle at once |
+| Fabric feel | Denser, less drape, more structured | Stretchier, more drape, more fluid |
+| Texture | Bumpy, uniform grid of knots | Smooth V-shaped columns (stockinette) |
+| Learning curve | Easier to form individual stitches, harder to fix mistakes | Slower to learn stitch formation, easier to unravel and redo |
+| Best for | Amigurumi, bags, hats, lace, blankets, home decor, edges | Garments, socks, sweaters, shawls, intricate colorwork, cables |
+| Speed | Generally faster — one live loop at a time | Varies — dropping a stitch means starting over from where it fell |
+| Common beginner mistake | Splitting yarn, inconsistent tension | Dropped stitches, twisted stitches |
+| Fixing errors | Harder to tink (undo stitch by stitch), easier to frog | Easier to tink and fix mistakes without losing the whole row |
+
+### When to crochet vs knit a project
+
+Choose **crochet** when you want a structured, dense fabric that holds its shape. Crochet is ideal for amigurumi, bags, baskets, home decor, blankets, and lace that needs to stay open. It is also faster for large projects like blankets.
+
+Choose **knitting** when you want a stretchy, drapey fabric that moves with the body. Knitting is the better choice for garments like socks, sweaters, shawls, and hats that need to stretch to fit. Knitting also excels at colorwork patterns (stranded, intarsia) and cable textures.
+
+Many crafters do both and choose the craft that best suits each project. Crochetly covers both so you can learn whichever one you prefer.
+
+## Yarn and tools reference
+
+These topics apply to both crochet and knitting. Each has a dedicated page with more detail.
+
+### Best yarns for crochet and knitting
+
+Start with a smooth, medium-weight yarn in a light color so you can see your stitches clearly. Acrylic and cotton are affordable and forgiving for beginners. Wool is warm and elastic but requires more care. See the [choosing yarn](/reference/choosing-yarn/) guide for recommendations by project type.
+
+### Understanding yarn weights
+
+Yarn weight (0–7, from lace to jumbo) determines what hook or needle size to use and how the finished fabric will feel. Most beginners start with worsted weight (category 4). The [choosing yarn](/reference/choosing-yarn/#what-is-yarn-weight-and-how-does-it-affect-projects) page has a full weight chart with recommended tool sizes.
+
+### How to read yarn labels
+
+Yarn labels show the weight category, fiber content, yardage, recommended hook or needle size, gauge, and care instructions. The [reading yarn labels](/reference/reading-yarn-labels/) guide explains each part of the label and how to use it.
+
+### Blocking knitted and crocheted items
+
+Blocking is the final step that shapes and sets your finished piece. Wet blocking works best for natural fibers, steam blocking for acrylics, and spray blocking for light adjustments. The [blocking guide](/terms/blocking/) covers all three methods with step-by-step instructions.
+
+### Fiber guides
+
+Yarn fibers fall into three groups: natural (wool, cotton, alpaca, silk), synthetic (acrylic, nylon, polyester), and blends. Natural fibers are breathable and block well. Synthetics are affordable and easy to care for. Blends combine the best of both. The [choosing yarn](/reference/choosing-yarn/#what-fiber-types-are-available-for-yarn) page has a detailed breakdown of each fiber type.
+
+### Needle vs hook sizing
+
+Crochet hooks and knitting needles both use metric sizing (mm), but their US number systems are different. A US 8 crochet hook is not the same as a US 8 knitting needle. Always check the metric size. See the [crochet hook size chart](/reference/choosing-hooks/#what-is-the-complete-crochet-hook-size-conversion-chart) and [knitting needle size chart](/knitting-reference/choosing-needles/#what-is-the-complete-knitting-needle-size-conversion-chart) for conversions.
+
+### Common yarn substitutions
+
+If you cannot find the exact yarn a pattern calls for, look for a substitute with the same weight category, similar fiber content, and matching yardage per gram. Online tools like [Yarn Sub](/apps/yarn-sub/) can help you find alternatives by brand, fiber, and gauge.
+
 ## Can I use this site on mobile?
 
 Yes. Crochetly works on phones, tablets, and desktops. The sidebar collapses on smaller screens. Tap the menu icon to open it.
