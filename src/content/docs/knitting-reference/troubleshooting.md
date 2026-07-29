@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting knitting
-description: Solutions for common knitting problems, such as dropped stitches, tension issues, curling edges, holes, twisted stitches, and joining new yarn, plus colorwork troubleshooting tips for beginners
+description: Solutions for common knitting problems such as tension issues, curling edges, holes, and yarn splitting, plus how to correct errors like twisted stitches, dropped stitches, incomplete stitches, and more, with colorwork troubleshooting tips for beginners.
 ---
 
 Knitting is a relaxing craft, but sometimes things go wrong. This guide covers common problems and how to fix them.
@@ -8,9 +8,6 @@ Knitting is a relaxing craft, but sometimes things go wrong. This guide covers c
 ## How do you fix general knitting problems?
 
 Most common issues have simple fixes. Adjust your needle size, slow down, count stitches, and block your finished pieces.
-
-### Dropped stitches
-Use a crochet hook to pick up the dropped stitch and work it back up to the needle. For stockinette, catch the ladder from the front. For garter, alternate front and back.
 
 ### Tension too tight or loose
 Adjust your needle size or consciously relax your hands. Looser tension often comes from rushing or gripping the needles too tightly.
@@ -30,11 +27,70 @@ Holes often come from accidental yarn overs. Count stitches each row to catch ex
 ### Curling edges
 Stockinette stitch naturally curls. Add a garter, seed stitch, or ribbed border to prevent curling. Blocking helps but does not fix curling permanently.
 
-### Twisted stitches
-Twisted stitches happen when you knit through the back loop by accident or when mounting stitches backward. Check your stitch mount regularly.
-
 ### Joining a new yarn ball
 Join at the beginning of a row when possible. Leave 4–6 inch tails to weave in later. Avoid joining in the middle of a row for a cleaner look.
+
+## How do you correct knitting errors?
+
+### Twisted knit stitches
+A knitted stitch whose legs cross instead of sitting parallel. Fix by knitting through the opposite loop (front vs. back) on the next row to untwist it.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+twisted+knit+stitch+fix)
+
+### Twisted purl stitches
+A purl stitch with crossed legs. Fix by purling through the correct leg on the next row.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+twisted+purl+stitch+fix)
+
+### Picking up a dropped knit stitch
+When a stitch falls off the needle on the knit side, use a crochet hook to catch the horizontal ladder and pull it through from front to back, working your way up.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+pick+up+dropped+knit+stitch)
+
+### Picking up a dropped purl stitch
+A dropped stitch on the purl side. Use a crochet hook inserted from the back to pull each ladder strand through.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+pick+up+dropped+purl+stitch)
+
+### Picking up a running knit stitch
+A stitch that has started to unravel but has not fully dropped. Catch the loose strand and pull it through the stitch below using a crochet hook from the front.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+fix+running+knit+stitch)
+
+### Picking up a running purl stitch
+A purl stitch unraveling mid-row. Work the ladder back up from the back using a crochet hook.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+fix+running+purl+stitch)
+
+### Incomplete knit stitches
+A stitch where the yarn was not pulled all the way through. Gently tug the working yarn to complete it, or drop it off the needle and pick it back up correctly.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+incomplete+knit+stitch+fix)
+
+### Incomplete purl stitches
+Same issue on the purl side. Adjust the tension or re-work the stitch by transferring it back to the left needle.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+incomplete+purl+stitch+fix)
+
+### Extra stitches on the edge
+Accidental increases at the edge, often from yarn overs at the beginning of a row. Decrease by knitting two together on the next row to restore the stitch count.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+extra+stitch+edge+fix)
+
+### Unraveling stitch by stitch (tinking)
+Also called tinking (knit spelled backward). Insert the left needle into the stitch below the working yarn, then pull the working yarn out to undo one stitch at a time.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+tinking+unravel+stitch+by+stitch)
+
+### Unraveling entire rows (frogging)
+Also called frogging or ripping out. Remove the needle, pull the yarn to unravel rows, then catch the live stitches on a smaller needle before resuming.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+frogging+unravel+entire+rows)
+
+### Adding lifelines
+Thread a strand of scrap yarn through a row of stitches using a tapestry needle. If you make a mistake later, you can rip back safely to the lifeline without losing stitches.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+add+lifeline)
+
+### Correcting a running/dropped stitch in garter stitch
+Garter stitch alternates knit and purl bumps, so you need to alternate front and back pickups as you work the ladder up with a crochet hook.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+garter+stitch+dropped+stitch+fix)
+
+### Mending a hole
+Stitch the hole closed using duplicate stitch or mattress stitch with a tapestry needle and matching yarn. Weave the ends in securely.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+mending+hole+tutorial)
+
+### Darning
+Weave in loose yarn ends using a tapestry needle, following the path of existing stitches so the ends are invisible on the right side.
+[Watch on YouTube](https://www.youtube.com/results?search_query=knitting+darning+ends)
 
 ## How do you fix colorwork problems?
 
