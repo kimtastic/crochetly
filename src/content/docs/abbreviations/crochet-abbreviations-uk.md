@@ -3,11 +3,11 @@ title: UK crochet abbreviations
 description: Complete reference of UK crochet abbreviations from dc to trtr, with categorized tables for basic stitches, post stitches, and UK-to-US terminology conversion
 ---
 
-**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
-
 **Need to decode a UK crochet pattern?** This reference covers standard UK abbreviations, where `dc` means treble crochet and `sc` means double crochet, organized by category.
 
 Designers and publishers sometimes use special abbreviations in a pattern. Always check the pattern's key before you start.
+
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
 ## What are the most common UK crochet abbreviations?
 

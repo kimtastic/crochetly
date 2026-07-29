@@ -3,14 +3,14 @@ title: Gauge and tension
 description: Reference for crochet gauge and tension covering stitch and row gauge measurement, how to check gauge, hook size chart by yarn weight, and troubleshooting tips
 ---
 
-**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
-
 **Gauge** tells you how many stitches and rows fit in an inch (or 4 inches). You measure it in a swatch. In the UK, crocheters call this "tension."
 
 Gauge matters because it controls the size and fit of your finished project. Taking a few minutes to make a swatch, check it, and adjust your hook can save you time, yarn, and frustration.
 
 - **Stitch gauge** = number of stitches across a set width (usually 4 inches / 10 cm)
 - **Row gauge** = number of rows down a set length (usually 4 inches / 10 cm)
+
+**Sources:** [The Craft Yarn Council](https://www.craftyarncouncil.com/)
 
 ## Why is gauge important?
 

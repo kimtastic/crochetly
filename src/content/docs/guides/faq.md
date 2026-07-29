@@ -1,6 +1,6 @@
 ---
-title: FAQ
-description: Get answers to common questions about Crochetly's free educational crochet resources, how it differs from pattern marketplaces and yarn shops, and what the site offers
+title: Crochet FAQ
+description: Get answers to common questions about Crochetly's free educational crochet resources, how it differs from pattern marketplaces and yarn shops, and what crochet content the site offers
 ---
 
 **Related:** [About Crochetly](/about) · [Contact](/contact)
@@ -9,7 +9,7 @@ description: Get answers to common questions about Crochetly's free educational 
 
 Crochetly is a free, educational crochet resource, not a shop or marketplace.
 
-It helps crocheters learn techniques, understand stitches, and explore pattern design through guides, references, and tools. There are no products for sale, no subscriptions, and no downloads.
+It helps crocheters learn crochet techniques, understand stitches, and explore pattern design through guides, references, and tools. There are no products for sale, no subscriptions, and no downloads.
 
 ---
 
@@ -33,7 +33,7 @@ Some pages explain how patterns work, link to designers, show examples, or provi
 
 No. Crochetly is not a yarn store or supply shop.
 
-We do not sell yarn, hooks, needles, accessories, kits, or any physical crochet materials.
+We do not sell yarn, hooks, accessories, kits, or any physical crochet materials.
 
 ---
 
@@ -57,16 +57,16 @@ There are no subscriptions, paid memberships, or premium features required to us
 
 Crochetly is for crocheters at every level.
 
-- Beginners learning the basics
-- Intermediate crocheters expanding their skills
+- Beginners learning crochet basics
+- Intermediate crocheters expanding their crochet skills
 - Advanced crocheters interested in stitch theory and pattern design
-- Anyone looking for clear explanations and reference material
+- Anyone looking for clear crochet explanations and reference material
 
 ---
 
 ## Can I use Crochetly to design my own patterns?
 
-Yes. Crochetly includes educational content and tools to help you understand stitch structures, charts, and design concepts.
+Yes. Crochetly includes educational content and tools to help you understand crochet stitch structures, charts, and design concepts.
 
 You can create your own patterns. Crochetly does not claim ownership over patterns you design using the site.
 
@@ -88,7 +88,7 @@ If you encounter a site claiming to sell Crochetly patterns, yarn, or kits, it i
 
 ## How can I contact Crochetly?
 
-If you have questions, feedback, or suggestions related to the educational content on this site, you can contact us through the methods listed on the Contact page.
+If you have questions, feedback, or suggestions related to the crochet educational content on this site, you can contact us through the methods listed on the Contact page.
 
 Please note that we cannot assist with purchasing patterns or supplies from third-party websites.
 

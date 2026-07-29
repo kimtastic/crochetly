@@ -3,13 +3,13 @@ title: Crochet chart symbols
 description: Quick reference for standard crochet chart symbols, including basic stitches, increases, decreases, post stitches, special stitches (bobble, puff, popcorn), and diagram reading tips.
 ---
 
-**Sources:** Craft Yarn Council crochet chart standards
-
 Crochet patterns often use stitch charts alongside words (or instead of them) to show how stitches fit together. Here are the standard chart symbols used by designers and publishers.
+
+**Sources:** Craft Yarn Council crochet chart standards
 
 ## What are the standard crochet chart symbols?
 
-**Answer:** Crochet charts use symbols like × for single crochet, T for half double crochet, and | for double crochet. Each symbol represents one stitch visually.
+Crochet charts use symbols like × for single crochet, T for half double crochet, and | for double crochet. Each symbol represents one stitch visually.
 
 | Symbol | Stitch Name / Meaning           | Description / Notes                                         |
 |--------|--------------------------------|------------------------------------------------------------|
@@ -33,7 +33,7 @@ Crochet patterns often use stitch charts alongside words (or instead of them) to
 
 ## How do you read crochet chart symbols?
 
-**Answer:** Symbols show stitches visually in crochet charts. Direction indicators (front or back post) use line placement around the stitch symbol.
+Symbols show stitches visually in crochet charts. Direction indicators (front or back post) use line placement around the stitch symbol.
 
 - Directions (front or back post) are shown by line placement around the stitch symbol.
 - Increases use V shapes; decreases use ∧ or diagonal connections.
@@ -41,5 +41,5 @@ Crochet patterns often use stitch charts alongside words (or instead of them) to
 
 ## What is the difference between bobble, puff, and popcorn stitches?
 
-**Answer:** Bobble stitches use a cluster worked into one stitch base. Puff stitches hold yarn overs together before pulling through. Popcorn stitches are a group worked into the same stitch and popped out.
+Bobble stitches use a cluster worked into one stitch base. Puff stitches hold yarn overs together before pulling through. Popcorn stitches are a group worked into the same stitch and popped out.
 

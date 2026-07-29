@@ -8,14 +8,10 @@ import starlightLinksValidator from "starlight-links-validator";
 import icon from "astro-icon";
 import sitemap from "@astrojs/sitemap";
 import llmsTxt from "./src/integrations/llms-txt";
-import remarkTrustSection from "./src/remark-trust-section.mjs";
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://crochetly.com',
-  markdown: {
-    remarkPlugins: [remarkTrustSection],
-  },
 
   integrations: [
     llmsTxt({ siteUrl: 'https://crochetly.com' }),
@@ -199,9 +195,14 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Start here',
+          label: 'Crochet: Start here',
           collapsed: true,
           autogenerate: { directory: 'guides' },
+        },
+        {
+          label: 'Knitting: Start here',
+          collapsed: true,
+          autogenerate: { directory: 'guides-knitting' },
         },
         {
           label: 'Terms and measurements',

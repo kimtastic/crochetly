@@ -7,7 +7,7 @@ Understanding yarn helps you pick the right materials for your project. Here is 
 
 ## What is yarn weight and how does it affect projects?
 
-**Answer:** Yarn weight refers to how thick or thin the yarn is. It ranges from 0 (lace, very fine) to 7 (jumbo, extremely thick). Your yarn weight determines hook size, stitch size, and project texture.
+Yarn weight refers to how thick or thin the yarn is. It ranges from 0 (lace, very fine) to 7 (jumbo, extremely thick). Your yarn weight determines hook size, stitch size, and project texture.
 
 | Weight Category        | Common Names            | Typical Hook Size      | Example Uses                |
 |-----------------------|------------------------|-----------------------|----------------------------|
@@ -23,7 +23,7 @@ Understanding yarn helps you pick the right materials for your project. Here is 
 
 ## What fiber types are available for yarn?
 
-**Answer:** Yarn fibers fall into three groups: natural (wool, cotton, alpaca, silk), synthetic (acrylic, nylon, polyester), and blends. Each type affects feel, durability, and care.
+Yarn fibers fall into three groups: natural (wool, cotton, alpaca, silk), synthetic (acrylic, nylon, polyester), and blends. Each type affects feel, durability, and care.
 
 - **Natural fibers:** Wool, cotton, alpaca, silk (soft, breathable, often pricier)
 - **Synthetic fibers:** Acrylic, nylon, polyester (affordable, durable, easy care)
@@ -41,7 +41,7 @@ Understanding yarn helps you pick the right materials for your project. Here is 
 
 ## What is the complete yarn weight guide?
 
-**Answer:** The standard yarn weight system (0–7) includes UK, USA, and AUS naming, typical yardage per 100g, gauge ranges, and recommended hook sizes.
+The standard yarn weight system (0–7) includes UK, USA, and AUS naming, typical yardage per 100g, gauge ranges, and recommended hook sizes.
 
 | Yarn Weight       | UK Term      | USA Term       | AUS Term     | Meters (per 100g) | 4" / 10 cm Gauge (knit) | Needle Size (mm) | Hook Size (mm) | Also Known As            | Texture / Feel                          |
 |-------------------|--------------|----------------|--------------|-------------------|--------------------------|------------------|----------------|----------------------------|------------------------------------------|
@@ -56,11 +56,11 @@ Understanding yarn helps you pick the right materials for your project. Here is 
 
 ## What is yarn ply?
 
-**Answer:** Ply refers to the number of strands twisted together. More plies usually mean stronger, smoother yarn. Single-ply yarn is softer but may split easily.
+Ply refers to the number of strands twisted together. More plies usually mean stronger, smoother yarn. Single-ply yarn is softer but may split easily.
 
 ## What yardage should you expect per yarn weight?
 
-**Answer:** Finer yarns have more length per 100g. Lace weight gives 800–1200 yards per 100g. Jumbo weight gives under 50 yards per 100g. Always check the length per skein.
+Finer yarns have more length per 100g. Lace weight gives 800–1200 yards per 100g. Jumbo weight gives under 50 yards per 100g. Always check the length per skein.
 
 | **Yarn Weight** | **Category Name**  | **Yardage (per 100g)** | **Meterage (per 100g)** |
 |-----------------|--------------------|------------------------|-------------------------|
@@ -79,16 +79,16 @@ Always check the length of yarn per skein. Project requirements often list yarn 
 
 ## What is a dye lot and why does it matter?
 
-**Answer:** A dye lot is a batch of yarn dyed together. Yarn color may vary slightly between dye lots. Buy enough yarn from the same dye lot to ensure color consistency.
+A dye lot is a batch of yarn dyed together. Yarn color may vary slightly between dye lots. Buy enough yarn from the same dye lot to ensure color consistency.
 
 ## What yarn texture is best for beginners?
 
-**Answer:** Smooth yarns are easier for beginners. Textured yarns (bouclé, eyelash, chenille) add interest but can be tricky to work with.
+Smooth yarns are easier for beginners. Textured yarns (bouclé, eyelash, chenille) add interest but can be tricky to work with.
 
 ## How do you care for different yarn types?
 
-**Answer:** Check labels for washing and drying instructions. Some yarns need hand washing; others are machine washable.
+Check labels for washing and drying instructions. Some yarns need hand washing; others are machine washable.
 
 ## What are the final tips for choosing yarn?
 
-**Answer:** Start with medium weight (worsted, category 4) acrylic or cotton yarn. Use the recommended hook size on the yarn label. Make a gauge swatch to match pattern requirements.
+Start with medium weight (worsted, category 4) acrylic or cotton yarn. Use the recommended hook size on the yarn label. Make a gauge swatch to match pattern requirements.

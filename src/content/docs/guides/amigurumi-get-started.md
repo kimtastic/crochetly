@@ -1,5 +1,5 @@
 ---
-title: Get started (Amigurumi)
+title: Get started with amigurumi
 description: A beginner-friendly guide covering essential amigurumi techniques from magic ring through basic decreases, with a step-by-step project outline and recommended tools
 ---
 

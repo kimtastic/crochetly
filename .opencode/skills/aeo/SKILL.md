@@ -74,10 +74,8 @@ content readable.
 
 ## What to add
 
-### Trust block
-Near the top of each page (after the intro paragraph), add or verify:
-- Author name and credentials (if available)
-- Last updated date
+### Trust signals
+Throughout the page, add or verify:
 - 1–2 cited sources or links to authoritative references
 
 ### Q&A blocks
@@ -141,4 +139,4 @@ diving into detail. This front-loads the citation-worthy content.
 > - Opening up lace patterns
 > - Setting the final shape and size
 >
-> *Last updated: May 2026*
+> *Reviewed: May 2026*

@@ -3,11 +3,11 @@ title: Japanese crochet abbreviations
 description: Complete reference for Japanese crochet abbreviations, romaji, and schematic symbols with tables for basic stitches, construction terms, and US/UK equivalents
 ---
 
-**Sources:** Japanese crochet publications, [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
-
 **Reading a Japanese crochet pattern?** Japanese patterns rely on visual symbols more than written abbreviations. This guide covers the symbols, Romaji, and Japanese characters you need.
 
 Always check the pattern's stitch key (記號の説明) for the exact abbreviations and symbols used.
+
+**Sources:** Japanese crochet publications, [Craft Yarn Council](https://www.craftyarncouncil.com/standards/abbreviations)
 
 ## What Japanese crochet schematic symbols should I learn first?
 

@@ -1,26 +1,6 @@
 import type { AstroIntegration } from 'astro';
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, statSync, existsSync } from 'fs';
 import { join, relative, extname, sep } from 'path';
-import { execSync } from 'child_process';
-
-function getFileDate(filePath: string): string | null {
-  try {
-    const date = execSync(
-      `git log -1 --format="%ad" --date=format:"%B %d, %Y" -- "${filePath}"`,
-      { encoding: 'utf-8', cwd: process.cwd() }
-    ).trim();
-    if (date) return date;
-  } catch {}
-
-  try {
-    const mtime = statSync(filePath).mtime;
-    const months = ['January', 'February', 'March', 'April', 'May', 'June',
-      'July', 'August', 'September', 'October', 'November', 'December'];
-    return `${months[mtime.getMonth()]} ${mtime.getDate()}, ${mtime.getFullYear()}`;
-  } catch {}
-
-  return null;
-}
 
 interface PageEntry {
   title: string;
@@ -85,18 +65,6 @@ function parseFrontmatter(filePath: string): { title: string; description: strin
   } catch {
     return { title: '', description: '' };
   }
-}
-
-function injectTrustLine(content: string, filePath: string): string {
-  const date = getFileDate(filePath);
-  if (!date) return content;
-  const trustLine = `**Author:** Crochetly · **Last updated:** ${date}\n\n`;
-  const frontmatterEnd = content.match(/^---[\s\S]*?---\r?\n?/);
-  if (frontmatterEnd) {
-    const after = content.slice(frontmatterEnd[0].length);
-    return frontmatterEnd[0] + trustLine + after;
-  }
-  return trustLine + content;
 }
 
 export default function llmsTxtIntegration(options: { siteUrl: string }): AstroIntegration {
@@ -178,7 +146,7 @@ export default function llmsTxtIntegration(options: { siteUrl: string }): AstroI
             const pageDir = join(distDir, entry.slug);
             mkdirSync(pageDir, { recursive: true });
             const mdContent = readFileSync(entry.filePath, 'utf-8');
-            writeFileSync(join(pageDir, 'index.md'), injectTrustLine(mdContent, entry.filePath));
+            writeFileSync(join(pageDir, 'index.md'), mdContent);
           }
         }
 
@@ -198,7 +166,7 @@ export default function llmsTxtIntegration(options: { siteUrl: string }): AstroI
           const entries = collectPages(sectionDir, contentDir);
 
           for (const entry of entries) {
-            const content = injectTrustLine(readFileSync(entry.filePath, 'utf-8'), entry.filePath);
+            const content = readFileSync(entry.filePath, 'utf-8');
             const body = content.replace(/^---[\s\S]*?---\r?\n?/, '').trim();
             fullLines.push(`---`);
             fullLines.push(`# ${entry.title}`);
