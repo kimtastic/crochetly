@@ -1,13 +1,13 @@
 ---
 title: Blanket measurement guide
-description: Standard sizing reference for crochet blankets from lovey to king size with width and length measurements in inches and centimeters, plus tips for adjusting fit based on yarn and stitch pattern.
+description: Standard sizing reference for knit or crochet blankets from lovey to king size with width and length measurements in inches and centimeters, plus tips for adjusting fit based on yarn and stitch pattern.
 ---
 
-This chart lists standard measurements for common crochet blanket sizes. Use it as a starting point, then adjust based on your stitch pattern, yarn thickness, or personal preference.
+This chart lists standard measurements for common blanket sizes. Use it as a starting point, then adjust based on your stitch pattern, yarn thickness, or personal preference.
 
-## What are the standard crochet blanket sizes?
+## What are the standard blanket sizes?
 
-Crochet blankets range from small loveys (10–12 in) up to king size (108 x 100 in). The chart below covers 11 common sizes with width and length in inches and centimeters.
+Blankets range from small loveys (10–12 in) up to king size (108 x 100 in). The chart below covers 11 common sizes with width and length in inches and centimeters.
 
 | Blanket Type        | Width (in) | Length (in) | Width (cm) | Length (cm) |
 |---------------------|------------|-------------|------------|-------------|

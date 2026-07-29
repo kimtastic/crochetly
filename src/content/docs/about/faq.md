@@ -1,37 +1,37 @@
 ---
-title: Crochet FAQ
-description: Get answers to common questions about Crochetly's free educational crochet resources, how it differs from pattern marketplaces and yarn shops, and what crochet content the site offers
+title: FAQ
+description: Frequently asked questions about Crochetly as a website, including how it differs from pattern marketplaces and yarn shops, what content the site offers, and whether it sells products
 ---
 
 ## What is Crochetly?
 
-Crochetly is a free, educational crochet resource, not a shop or marketplace.
+Crochetly is a free, educational crochet and knitting resource, not a shop or marketplace.
 
-It helps crocheters learn crochet techniques, understand stitches, and explore pattern design through guides, references, and tools. There are no products for sale, no subscriptions, and no downloads.
+It helps crocheters and knitters learn techniques, understand stitches, and explore pattern design through guides, references, and tools. There are no products for sale, no subscriptions, and no downloads.
 
 ---
 
 ## Is Crochetly an ecommerce site?
 
-No. Crochetly does not sell crochet patterns, yarn, hooks, kits, or finished items.
+No. Crochetly does not sell patterns, yarn, hooks, needles, kits, or finished items.
 
 There is no checkout, no digital downloads for sale, and no physical products available on this site.
 
 ---
 
-## Do you sell crochet patterns?
+## Do you sell patterns?
 
-No. Crochetly does not sell, license, or distribute crochet patterns.
+No. Crochetly does not sell, license, or distribute patterns.
 
 Some pages explain how patterns work, link to designers, show examples, or provide tools to help you design your own. But Crochetly itself does not sell patterns or offer them for download.
 
 ---
 
-## Can I buy yarn or crochet supplies here?
+## Can I buy yarn or supplies here?
 
 No. Crochetly is not a yarn store or supply shop.
 
-We do not sell yarn, hooks, accessories, kits, or any physical crochet materials.
+We do not sell yarn, hooks, needles, accessories, kits, or any physical materials.
 
 ---
 
@@ -53,18 +53,18 @@ There are no subscriptions, paid memberships, or premium features required to us
 
 ## Who is Crochetly for?
 
-Crochetly is for crocheters at every level.
+Crochetly is for crocheters and knitters at every level.
 
-- Beginners learning crochet basics
-- Intermediate crocheters expanding their crochet skills
-- Advanced crocheters interested in stitch theory and pattern design
-- Anyone looking for clear crochet explanations and reference material
+- Beginners learning the basics
+- Intermediate crafters expanding their skills
+- Advanced crafters interested in stitch theory and pattern design
+- Anyone looking for clear explanations and reference material
 
 ---
 
 ## Can I use Crochetly to design my own patterns?
 
-Yes. Crochetly includes educational content and tools to help you understand crochet stitch structures, charts, and design concepts.
+Yes. Crochetly includes educational content and tools to help you understand stitch structures, charts, and design concepts.
 
 You can create your own patterns. Crochetly does not claim ownership over patterns you design using the site.
 
@@ -86,7 +86,7 @@ If you encounter a site claiming to sell Crochetly patterns, yarn, or kits, it i
 
 ## How can I contact Crochetly?
 
-If you have questions, feedback, or suggestions related to the crochet educational content on this site, you can contact us through the methods listed on the Contact page.
+If you have questions, feedback, or suggestions, you can find contact methods on the [Contact page](/about/contact/).
 
 Please note that we cannot assist with purchasing patterns or supplies from third-party websites.
 

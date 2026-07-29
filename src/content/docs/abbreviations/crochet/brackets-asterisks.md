@@ -2,6 +2,8 @@
 title: Brackets and asterisks
 description: How to read parentheses, brackets, and asterisks in crochet and knitting patterns, including how to group stitches, repeat sequences, and follow pattern notation with ease
 ---
+This page covers **both crochet and knitting**. The same bracket and asterisk notation works identically in both crafts.
+
 **Parentheses `()`, square brackets `[]`, and asterisks `*` tell you how to group and repeat stitches in crochet and knitting patterns.** Curved brackets group stitches worked into the same space. Square brackets mark repeatable units. Asterisks flag where a repeating sequence begins. Knitting patterns use the same notation.
 
 ## What do parentheses `()` mean?

@@ -1,6 +1,6 @@
 ---
 title: Blocking
-description: Guide to wet, steam, and spray blocking techniques for setting crochet pieces to their intended size and shape, with tool recommendations and project suitability notes
+description: Guide to wet, steam, and spray blocking techniques for setting finished knit or crochet pieces to their intended size and shape, with tool recommendations and project suitability notes
 ---
 
 Blocking is the final step where you shape and set your finished piece to its intended size and drape. It helps:

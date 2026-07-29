@@ -32,3 +32,4 @@ Tone adapts to the context. It's how you express your voice depending on the sit
 - Use plain language; be clear, direct, and concise
 - Be encouraging. Avoid overly technical jargon unless it's standard in crochet
 - Be inclusive. Use "maker" or "crocheter" rather than gendered terms
+- Avoid em dashes and hyphens used as punctuation. Use periods or commas instead (e.g., write "Start here — Beginner guides" as "Start here. Beginner guides")

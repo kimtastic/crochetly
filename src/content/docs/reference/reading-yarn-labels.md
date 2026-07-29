@@ -7,10 +7,10 @@ Yarn labels tell you everything you need to know for your project. Learn to read
 
 ## What information is on a yarn label?
 
-Yarn labels show weight category (e.g., 4 - Worsted), recommended hook size, gauge, yardage, and care instructions. Here is a closer look at each detail.
+Yarn labels show weight category (e.g., 4 - Worsted), recommended hook or needle size, gauge, yardage, and care instructions. Here is a closer look at each detail.
 
 - **Weight category** (e.g., 4 - Worsted)
-- **Recommended hook size**
+- **Recommended hook or needle size**
 - **Gauge** (e.g., 16 stitches x 20 rows = 4")
 - **Yardage** (meters/yards per skein)
 - **Care instructions**
@@ -31,13 +31,13 @@ The weight category indicates thickness, often shown as a number or category nam
 
 Yardage is the length of yarn in the skein (e.g., 220 yards / 200 meters). Knowing this helps you buy enough yarn for your project.
 
-## How do you use the recommended hook size?
+## How do you use the recommended hook or needle size?
 
-The suggested crochet hook size (e.g., 5 mm / H-8) helps you achieve the right gauge and fabric texture.
+The suggested hook or needle size (e.g., 5 mm / US 8) helps you achieve the right gauge and fabric texture.
 
 ## How do you read gauge information?
 
-Gauge shows how many stitches and rows fit in a specific area (usually 4" x 4" or 10 x 10 cm). Example: 16 stitches and 20 rows = 4 inches with a 5 mm hook.
+Gauge shows how many stitches and rows fit in a specific area (usually 4" x 4" or 10 x 10 cm). Example: 16 stitches and 20 rows = 4 inches with a 5 mm hook or needle.
 
 ## How do you read care instructions?
 
