@@ -27,13 +27,17 @@ This pattern shows you how to make a pair of **[Pattern Name]** socks, a [descri
 | Adult M | [in / cm] | [in / cm] | [in / cm] |
 | Adult L | [in / cm] | [in / cm] | [in / cm] |
 
+Sock circumference is designed with ~15% negative ease for a snug fit. Stitch count should be divisible by 4 for the heel construction.
+
 ### Gauge
 
 [e.g., 32 sts x 40 rounds / 4 in / 10 cm in stockinette or main stitch pattern]
 
+Swatch in the round, not flat, to get accurate sock gauge. Wash and block your swatch before measuring.
+
 ### Materials
 
-**Yarn:** [Yarn name, weight, fiber content]
+**Yarn:** [Yarn name, weight, fiber content. A nylon/wool blend is standard for durable socks.]
 
 ```plaintext
 - [yarn name]
@@ -43,7 +47,7 @@ This pattern shows you how to make a pair of **[Pattern Name]** socks, a [descri
 ```
 
 **Needles / Hooks:** [Size and type, e.g., US 1 / 2.25 mm DPNs or circular for magic loop]
-**Notions:** [Stitch markers, tapestry needle, waste yarn]
+**Notions:** [Stitch markers, tapestry needle, waste yarn, crochet hook for picking up heel stitches if applicable]
 
 ### Abbreviations
 
@@ -55,6 +59,7 @@ See [abbreviations](/abbreviations/crochet/abbreviations-us/) for standard defin
 
 - Construction: [Toe-up / Cuff-down / Heel type: e.g., heel flap and gusset, short-row heel, afterthought heel]
 - How it is worked: [In the round on DPNs / magic loop / two at a time]
+- Try on the sock after the first 30 rounds to verify fit, and again after the gusset. Adjust sizing before continuing.
 - Any notes about fit, ease, or stretch
 
 ---
@@ -64,7 +69,7 @@ See [abbreviations](/abbreviations/crochet/abbreviations-us/) for standard defin
 ### Cuff
 
 ```plaintext
-[Instructions for cuff/ribbing]
+[Instructions for cuff/ribbing. Cast on with a stretchy method like long-tail.]
 ```
 
 ### Leg
@@ -79,6 +84,8 @@ See [abbreviations](/abbreviations/crochet/abbreviations-us/) for standard defin
 [Instructions for heel flap, turn, and gusset, or short-row heel]
 ```
 
+For a reinforced heel, use a slipped stitch pattern (\*SL1, k1\* on right side, \*SL1, p1\* on wrong side). You can also hold a second nylon thread together with your yarn for extra durability at the heel.
+
 ### Foot
 
 ```plaintext
@@ -90,6 +97,8 @@ See [abbreviations](/abbreviations/crochet/abbreviations-us/) for standard defin
 ```plaintext
 [Instructions for toe decreases and grafting or closing]
 ```
+
+Use Kitchener stitch (grafting) for an invisible seamless toe. Pulling the yarn through the final stitches creates a pointier toe that may not fit as well in shoes.
 
 ---
 
