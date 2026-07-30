@@ -43,4 +43,4 @@ Images of the finished project and progress photos or diagrams.
 State how the pattern can and cannot be used.
 
 **Example:**
-See this [crochet template](crochet-pattern-mdtemplate.md).
+See the [sweater pattern template](/templates/sweater-pattern-template/), [sock pattern template](/templates/sock-pattern-template/), and [other templates](/templates/) for reusable starting points.
