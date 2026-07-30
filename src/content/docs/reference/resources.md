@@ -28,7 +28,7 @@ Crochetly has resources to help you create original patterns, from understanding
 ### Chart and diagram resources
 - [Crochet chart symbols](/reference/crochet-chart-symbols/). Standard symbols for designing stitch charts
 - [Stitch diagrams](/reference/stitch-diagram/). Understanding row and round diagram structure
-- [Mosaic crochet generator](/templates/grid-tool/). Interactive grid tool for mosaic pattern design
+- [Mosaic crochet generator](/apps/grid-tool/). Interactive grid tool for mosaic pattern design
 - [Stitch Fiddle](/apps/stitch-fiddle/). Browser-based tool for creating symbol charts
 
 ### Technique and material reference

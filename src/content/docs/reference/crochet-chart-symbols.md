@@ -5,7 +5,7 @@ description: Quick reference for standard crochet chart symbols, including basic
 
 Crochet patterns often use stitch charts alongside words (or instead of them) to show how stitches fit together. Here are the standard chart symbols used by designers and publishers.
 
-**Sources:** Craft Yarn Council crochet chart standards
+**Sources:** [Craft Yarn Council](https://www.craftyarncouncil.com/standards) crochet chart standards
 
 ## What are the standard crochet chart symbols?
 

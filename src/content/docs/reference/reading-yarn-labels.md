@@ -50,3 +50,18 @@ A dye lot indicates a batch of yarn dyed together. Buy all yarn for one project 
 ## What other information appears on yarn labels?
 
 Color name or number, fiber certifications (e.g., organic, fair trade), and country of origin.
+
+## What should go on a yarn label if I am a designer or dyer?
+
+If you are selling yarn or creating your own labels, include the standard CYC weight symbol and category number, fiber content by percentage, yardage and weight, recommended hook and needle sizes, gauge, and care instructions using the international care symbols. A clear label helps makers choose the right yarn and care for it properly.
+
+- **Weight symbol:** Use the standard CYC yarn weight symbol and category number (0-7) for easy identification.
+- **Fiber content:** List materials by percentage (e.g., 100% Merino Wool or 80% Acrylic, 20% Nylon).
+- **Yardage and weight:** Show both yards (or meters) and ounces (or grams).
+- **Recommended tools:** List both metric and US hook or needle sizes.
+- **Gauge:** Include stitch count over 4 inches (10 cm) using the recommended tool size.
+- **Care symbols:** Include the standard international care symbols in the correct order: wash, bleach, dry, iron, dry clean.
+- **Dye lot:** Print the dye lot number and date so makers can match batches.
+- **Color name and number:** Make the color easy to reorder.
+
+If you use the CYC weight symbol or skill level symbol on your labels or packaging, include the required credit line: "Symbols provided by Craft Yarn Council. craftyarncouncil.com"

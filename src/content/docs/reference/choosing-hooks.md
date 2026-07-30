@@ -91,6 +91,10 @@ This chart converts metric (mm), US steel, US aluminum/plastic, and UK imperial 
 | 8.00 mm     | –                   | –              | L/11                      | 0                       |
 | 9.00 mm     | –                   | –              | M/N/13                    | 00                      |
 | 10.00 mm    | –                   | –              | N/P/15                    | 000                     |
+| 12.00 mm    | –                   | –              | –                         | –                       |
+| 15.00 mm    | –                   | –              | P/Q                       | –                       |
+| 20.00 mm    | –                   | –              | S                         | –                       |
+| 25.00 mm    | –                   | –              | T/U/X                     | –                       |
 
 ## What tips help beginners pick a hook?
 
