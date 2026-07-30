@@ -17,7 +17,7 @@ A pattern benefits from both. Tech edit first, then test, then a final editor pa
 
 ## How do you find testers?
 
-Testers come from many places. Your existing audience on social media or your newsletter is a good place to start. Ravelry groups, Discord servers, and other pattern testing communities are also common sources.
+Testers come from many places. Your existing audience on social media or your newsletter is a good place to start. Ravelry groups, [Discord servers](/apps/discord-communities/), and other pattern testing communities are also common sources.
 
 Some designers build a testing team over time by reaching out to makers who test well and asking if they want to be notified about future calls.
 

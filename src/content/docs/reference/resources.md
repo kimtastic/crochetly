@@ -73,7 +73,7 @@ YouTube has the largest collection of free crochet tutorials. Search for any tec
 
 ## Where can I find crochet help and community?
 
-Ask for help in crochet Facebook groups, Reddit communities (r/crochet), or Ravelry forums. These are great places for troubleshooting and inspiration.
+Ask for help in crochet Facebook groups, [Reddit communities](/apps/reddit-communities/) (r/crochet), [Discord servers](/apps/discord-communities/), or Ravelry forums. These are great places for troubleshooting and inspiration.
 
 ## Where can I find crochet supplies?
 
