@@ -5,9 +5,9 @@ description: Quick-reference guide to crochet resources, including tools and app
 
 ## Where can I find crochet tools and apps?
 
-Crochetly has detailed guides for 14 tools and apps covering pattern browsing, project tracking, row counting, stash management, and chart design.
+Crochetly has detailed guides for tools and apps covering pattern browsing, project tracking, row counting, stash management, chart design, and online craft communities.
 
-See the full [Apps & Tools](/apps/using-ravelry/) section for guides on Ravelry, Ribblr, Stitch Fiddle, My Row Counter, Yarn Buddy, Pocket Crochet, and more.
+See the full [Apps & Tools](/apps/) section for the complete list of guides.
 
 ## Where can I find crochet patterns?
 
@@ -73,7 +73,7 @@ YouTube has the largest collection of free crochet tutorials. Search for any tec
 
 ## Where can I find crochet help and community?
 
-Ask for help in crochet Facebook groups, Reddit communities (r/crochet), or Ravelry forums. These are great places for troubleshooting and inspiration.
+Ask for help in crochet Facebook groups, [Reddit communities](/apps/reddit-communities/) (r/crochet), [Discord servers](/apps/discord-communities/), or Ravelry forums. These are great places for troubleshooting and inspiration.
 
 ## Where can I find crochet supplies?
 
