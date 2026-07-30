@@ -17,6 +17,8 @@ Designed by [name] of [company].
 
 This pattern shows you how to make a **[Pattern Name]** , a [describe item: e.g., beanie, slouchy hat, beret, etc.]. It is worked [top-down / bottom-up / in the round / flat] and uses [basic/intermediate/advanced] techniques.
 
+**Techniques:** [Stranded colorwork / Cables / Lace / Textured stitches]
+
 **Sizes:** Preemie (Newborn, Baby, Toddler, Child, Adult S, Adult M, Adult L). Sizes listed in this order unless otherwise noted.
 
 ### Finished Measurements
@@ -36,66 +38,115 @@ Hat circumference is designed to be [1-2 in / 2.5-5 cm] smaller than head circum
 
 ### Gauge
 
-[e.g., 18 sts x 24 rounds / 4 in / 10 cm in main stitch pattern]
+[e.g., 21 sts x 24 rounds / 4 in / 10 cm in stranded colorwork on larger needles, after blocking]
+
+Swatch your stitch pattern in the round if the hat is worked in the round. Wash and block your swatch before measuring.
 
 ### Materials
 
 **Yarn:** [Yarn name, weight, fiber content]
 
 ```plaintext
-- [yarn name]
-- [yarn weight]
-- [yardage per skein]
-- [yardage needed based on sizing]
+- MC (main color): [yarn name, weight, yardage]
+- CC (contrast color): [yarn name, weight, yardage]
+- [Additional colors if needed]
 ```
 
-**Needles / Hooks:** [Size and type, e.g., US 7 / 4.5 mm DPNs or circular for magic loop]
-**Notions:** [Stitch markers, tapestry needle, pompom if applicable]
+**Needles / Hooks:**
+
+- Smaller size for brim: [e.g., US 5 / 3.75 mm] 16 in / 40 cm circular
+- Larger size for body: [e.g., US 7 / 4.5 mm] 16 in / 40 cm circular
+- DPNs in larger size for crown decreases (or magic loop)
+
+**Notions:** [Stitch markers, darning needle, stitch holder or waste yarn]
 
 ### Abbreviations
 
 See [abbreviations](/abbreviations/crochet/abbreviations-us/) for standard definitions.
 
-**Special stitches:** [List any unique stitches used]
+**Special stitches:** [List any unique stitches used, e.g., Latvian Braid, s2kp, kfb]
+
+### Special Technique: [Technique Name]
+
+[e.g., Latvian Braid]
+```plaintext
+Rnd 1: *K1 MC, K1 CC; repeat from * around.
+Rnd 2: Bring both yarns to front. *P1 MC, bring CC over MC, P1 CC, bring MC over CC; repeat from * around.
+Rnd 3: *P1 MC, bring CC under MC, P1 CC, bring MC under CC; repeat from * around.
+```
+
+### Charts
+
+**Chart Key**
+
+| Symbol | Stitch |
+|---|---|
+| [ ] | Knit in MC |
+| [ ] | Knit in CC |
+| [ ] | K2tog in MC |
+
+**Body Chart:** Worked [N] times around. [N] sts per repeat x [N] repeats = [N] sts.
+
+**Crown Chart:** Worked [N] times around. Decreases shape the top of the hat.
+
+If using different colors than shown, color in the symbol chart based on your chosen colors.
 
 ### Pattern Notes
 
 - Construction: [Top-down / Bottom-up / In the round / Seamed]
-- Brim type: [Ribbed / Folded / Brimless / Ear flaps]
+- Brim type: [Ribbed / Folded / Latvian Braid / Twisted rib / Picot / Ear flaps]
+- Stitch pattern: [Worked even / Charted / Written]
+- Colorwork notes: [Carry floats loosely on WS / Jogless stripe technique / Yarn dominance]
+- Special adjust rounds: [e.g., Remove marker, slip 1 stitch to right needle, replace marker, work as charted around]
 - Any notes about fit, crown shaping, or stitch pattern
 
 ---
 
 ## Pattern Instructions
 
-### [Crown / Brim depending on construction]
+### Brim
+
+Using smaller needles and MC, CO [N] sts. Place marker and join for working in the round.
 
 ```plaintext
-[For top-down: crown increase rounds]
-[For bottom-up: brim ribbing or edging]
+[Instructions for brim: ribbing, decorative braid, folded hem, etc.]
 ```
 
 ### Body
 
+Change to larger needles.
+
+**Work from chart:** Work Rounds 1-[N] of Body Chart. Body chart is worked [N] times around.
+
+**Worked even (no chart):**
+
 ```plaintext
-[Main body instructions, worked even or with stitch pattern]
+[Row/round-by-row instructions]
 [Continue until piece measures X in / cm from cast-on]
 ```
 
-### [Brim / Crown depending on construction]
+If adding a second decorative band between body and crown, change to smaller needles and work [technique], then return to larger needles.
+
+### Crown
+
+**Work from chart:** Work Rounds 1-[N] of Crown Chart.
+
+**Written instructions:**
 
 ```plaintext
-[For top-down: brim instructions]
-[For bottom-up: crown decrease rounds]
+[Decrease rounds, special adjust rounds as needed]
+[Continue until N sts remain]
 ```
 
 ---
 
 ## Finishing
 
+- [Break yarn, thread through live stitches 2-3 times, and fasten off]
 - [Weave in all ends]
 - [Block hat over a plate or balloon to shape]
-- [Attach pompom or other embellishments if desired]
+- [Make a N in / cm diameter pompom and secure to top of hat]
+- [Sew on brand label if desired]
 
 ### Video tutorial
 
@@ -103,4 +154,4 @@ Find a full step-by-step tutorial video [here](example.com).
 
 ### Pattern credits
 
-Tested by [names]. Tech edited by [name].
+Tested by [names]. Tech edited by [name]. Charts by [name].
