@@ -43,16 +43,18 @@ Yarn fibers fall into three groups: natural (wool, cotton, alpaca, silk), synthe
 
 The standard yarn weight system (0–7) includes UK, USA, and AUS naming, typical yardage per 100g, gauge ranges, and recommended hook sizes.
 
-| Yarn Weight       | UK Term      | USA Term       | AUS Term     | Meters (per 100g) | 4" / 10 cm Gauge (knit) | Needle Size (mm) | Hook Size (mm) | Also Known As            | Texture / Feel                          |
-|-------------------|--------------|----------------|--------------|-------------------|--------------------------|------------------|----------------|----------------------------|------------------------------------------|
-| **0**      | Lace         | Lace           | 2 Ply        | 800–1200          | 33–40 sts                | 1.5–2.25         | 1.5–2.25       | Cobweb, Thread             | Very fine, light, almost threadlike     |
-| **1**| 3 Ply        | Fingering      | 3 Ply        | 400–500           | 27–32 sts                | 2.25–3.25        | 2.25–3.5       | Sock, Baby                 | Thin, light, often used for baby items  |
-| **2**      | 4 Ply        | Sport          | 5 Ply        | 300–400           | 23–26 sts                | 3.25–3.75        | 3.5–4.5        | Baby, Light Sport          | Soft, light, slightly fuller than sock  |
-| **3**     | DK (Double Knit)| DK (Light Worsted) | 8 Ply        | 200–300           | 21–24 sts                | 3.75–4.5         | 4.5–5.5        | Light Worsted              | Midweight, good for garments            |
-| **4**    | Aran         | Worsted        | 10 Ply       | 120–200           | 16–20 sts                | 4.5–5.5          | 5.5–6.5        | Afghan, Fisherman           | Thick, warm, balanced weight            |
-| **5**     | Chunky       | Bulky          | 12 Ply       | 80–120            | 12–15 sts                | 5.5–8.0          | 6.5–9.0        | Craft, Rug Yarn             | Heavy, plush, fast to work with         |
-| **6**| Super Chunky | Super Bulky    | 14 Ply       | 60–80             | 7–11 sts                 | 8.0–12.75         | 9.0–15.0       | Roving, Jumbo               | Very thick, great for chunky projects   |
-| **7**     | Mega Chunky  | Jumbo          | -            | <60               | 6 sts or fewer           | 12.75+           | 15.0+          | Arm Knitting Yarn           | Extremely thick, oversized texture      |
+| Yarn Weight | UK Term | USA Term | AUS Term | WPI Range | Meters (per 100g) | Knit Gauge (4") | Needle (mm) | Hook (mm) | Also Known As |
+|---|---|---|---|---|---|---|---|---|---|
+| **0** | Lace | Lace | 2 Ply | 16+ | 800-1200 | 33-40 sts | 1.5-2.25 | 1.5-2.25 | Cobweb, Thread |
+| **1** | 3 Ply | Fingering | 3 Ply | 14-16 | 400-500 | 27-32 sts | 2.25-3.25 | 2.25-3.5 | Sock, Baby |
+| **2** | 4 Ply | Sport | 5 Ply | 12-14 | 300-400 | 23-26 sts | 3.25-3.75 | 3.5-4.5 | Baby, Light Sport |
+| **3** | DK (Double Knit) | DK (Light Worsted) | 8 Ply | 11-13 | 200-300 | 21-24 sts | 3.75-4.5 | 4.5-5.5 | Light Worsted |
+| **4** | Aran | Worsted | 10 Ply | 9-11 | 120-200 | 16-20 sts | 4.5-5.5 | 5.5-6.5 | Afghan, Fisherman |
+| **5** | Chunky | Bulky | 12 Ply | 7-9 | 80-120 | 12-15 sts | 5.5-8.0 | 6.5-9.0 | Craft, Rug Yarn |
+| **6** | Super Chunky | Super Bulky | 14 Ply | 5-7 | 60-80 | 7-11 sts | 8.0-12.75 | 9.0-15.0 | Roving, Jumbo |
+| **7** | Mega Chunky | Jumbo | - | 4 or fewer | <60 | 6 or fewer sts | 12.75+ | 15.0+ | Arm Knitting Yarn |
+
+Gauge ranges shown are for knit (stockinette stitch). For crochet gauge ranges (single crochet), see the [gauge and tension guide](/terms/gauge-and-tension/). WPI (wraps per inch) helps identify yarn weight when the label is missing. See the [WPI guide](/reference/wraps-per-inch/) for how to measure it.
 
 ## What is yarn ply?
 

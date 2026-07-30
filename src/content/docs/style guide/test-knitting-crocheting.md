@@ -9,7 +9,7 @@ Pattern testing is the step between tech editing and publication. Testers make y
 
 Tech editing and testing serve different purposes, and both are valuable.
 
-A tech editor checks the pattern itself — the math, the abbreviations, the clarity of instructions. They work through it on paper or in a spreadsheet.
+A tech editor checks the pattern itself: the math, the abbreviations, the clarity of instructions. They work through it on paper or in a spreadsheet.
 
 Testers actually make the item. They verify sizing, yardage, and whether the instructions make sense to someone who has not spent weeks writing them.
 
@@ -68,7 +68,7 @@ Expect drop-outs. Not every tester finishes on time or at all. Plan for this by 
 
 ## How do you handle tester feedback?
 
-Compile all feedback in one place. Look for patterns — if three testers found the same row confusing, that row needs attention. If one tester had a unique issue, note it and move on.
+Compile all feedback in one place. Look for patterns. If three testers found the same row confusing, that row needs attention. If one tester had a unique issue, note it and move on.
 
 Apply changes carefully. After you update the pattern based on test feedback, send it back to your tech editor for a final review. Changes after testing can introduce new errors.
 

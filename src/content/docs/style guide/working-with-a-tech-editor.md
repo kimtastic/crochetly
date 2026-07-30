@@ -15,14 +15,14 @@ After testing, have your editor do a final review. Testers may find issues that 
 
 Editors review your pattern from several angles:
 
-- **Stitch counts** — every row or round adds up to the right total
-- **Yardage estimates** — realistic for each size
-- **Gauge** — consistent with the stitch pattern and yarn weight
-- **Sizing charts** — measurements are correct and complete across all sizes
-- **Abbreviations** — used consistently, all defined
-- **Clarity** — instructions make sense on the first read
-- **Schematics** — match the written instructions
-- **Terminology** — US or UK terms used consistently, not mixed
+- **Stitch counts.** Every row or round adds up to the right total.
+- **Yardage estimates.** Realistic for each size.
+- **Gauge.** Consistent with the stitch pattern and yarn weight.
+- **Sizing charts.** Measurements are correct and complete across all sizes.
+- **Abbreviations.** Used consistently, all defined.
+- **Clarity.** Instructions make sense on the first read.
+- **Schematics.** Match the written instructions.
+- **Terminology.** US or UK terms used consistently, not mixed.
 
 ## How do you communicate what you need?
 

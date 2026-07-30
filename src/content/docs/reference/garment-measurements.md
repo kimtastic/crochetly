@@ -106,6 +106,20 @@ A stretchy stitch pattern like ribbing needs less positive ease than a firm stit
 | 14 | 13½–14 in (34–36 cm) | 15 in (38 cm) | 30½–31½ in (77–80 cm) | 16 in (41 cm) | 10 in (25 cm) | 7–7½ in (18–19 cm) |
 | 16 | 14–14½ in (36–37 cm) | 15½ in (39 cm) | 31½–32½ in (80–83 cm) | 16½ in (42 cm) | 10½ in (27 cm) | 7½–8 in (19–20 cm) |
 
+## Baby measurements (0-24 months)
+
+Baby sizing is based on age ranges. Use the chest measurement as the primary reference since babies grow at different rates.
+
+| Size | Chest | Waist | Center back neck-to-wrist | Armhole depth | Upper arm |
+|------|-------|-------|--------------------------|--------------|-----------|
+| Preemie | 12-13 in (30-33 cm) | 12 in (30 cm) | 8-10 in (20-25 cm) | 2-2.5 in (5-6 cm) | 4 in (10 cm) |
+| Newborn | 14 in (36 cm) | 13 in (33 cm) | 10-12 in (25-30 cm) | 2.5-3 in (6-8 cm) | 4.5 in (11 cm) |
+| 3 months | 15 in (38 cm) | 14 in (36 cm) | 12-13 in (30-33 cm) | 3-3.25 in (8 cm) | 5 in (13 cm) |
+| 6 months | 16 in (41 cm) | 15 in (38 cm) | 13-15 in (33-38 cm) | 3.25-3.5 in (8-9 cm) | 5.5 in (14 cm) |
+| 12 months | 18 in (46 cm) | 16 in (41 cm) | 15-17 in (38-43 cm) | 3.5-4 in (9-10 cm) | 6 in (15 cm) |
+| 18 months | 19 in (48 cm) | 17 in (43 cm) | 17-18 in (43-46 cm) | 4-4.25 in (10-11 cm) | 6.25 in (16 cm) |
+| 24 months | 20 in (51 cm) | 18 in (46 cm) | 18-20 in (46-51 cm) | 4.25-4.5 in (11 cm) | 6.5 in (17 cm) |
+
 ## Children's measurements
 
 ### Body
@@ -113,20 +127,20 @@ A stretchy stitch pattern like ribbing needs less positive ease than a firm stit
 | Size | Chest | Waist | Hips |
 |------|-------|-------|------|
 | 2 | 21 in (53 cm) | 20 in (51 cm) | 21 in (53 cm) |
-| 4 | 23 in (58 cm) | 21½ in (55 cm) | 23 in (58 cm) |
+| 4 | 23 in (58 cm) | 21.5 in (55 cm) | 23 in (58 cm) |
 | 6 | 25 in (64 cm) | 23 in (58 cm) | 25 in (64 cm) |
-| 8 | 26½ in (67 cm) | 24 in (61 cm) | 27 in (69 cm) |
+| 8 | 26.5 in (67 cm) | 24 in (61 cm) | 27 in (69 cm) |
 | 10 | 28 in (71 cm) | 25 in (64 cm) | 29 in (74 cm) |
 
 ### Length and arm
 
 | Size | Cross back | Back waist length | Center back neck-to-wrist | Arm length to underarm | Upper arm | Armhole depth |
 |------|-----------|-------------------|--------------------------|----------------------|-----------|--------------|
-| 2 | 9–9½ in (23–24 cm) | 9 in (23 cm) | 20½–21½ in (52–55 cm) | 9 in (23 cm) | 6½ in (17 cm) | 4–4½ in (10–11 cm) |
-| 4 | 10–10½ in (25–27 cm) | 10¼ in (26 cm) | 23–24 in (58–61 cm) | 10½ in (27 cm) | 7¼ in (18 cm) | 4½–5 in (11–13 cm) |
-| 6 | 11–11½ in (28–29 cm) | 11½ in (29 cm) | 25–26 in (64–66 cm) | 12 in (30 cm) | 7¾ in (20 cm) | 5–5½ in (13–14 cm) |
-| 8 | 11½–12 in (29–30 cm) | 12¼ in (31 cm) | 27–28 in (69–71 cm) | 13 in (33 cm) | 8¼ in (21 cm) | 5½–6 in (14–15 cm) |
-| 10 | 12–12½ in (30–32 cm) | 13 in (33 cm) | 28½–29½ in (72–75 cm) | 14 in (36 cm) | 8¾ in (22 cm) | 6–6½ in (15–17 cm) |
+| 2 | 9-9.5 in (23-24 cm) | 9 in (23 cm) | 20.5-21.5 in (52-55 cm) | 9 in (23 cm) | 6.5 in (17 cm) | 4-4.5 in (10-11 cm) |
+| 4 | 10-10.5 in (25-27 cm) | 10.25 in (26 cm) | 23-24 in (58-61 cm) | 10.5 in (27 cm) | 7.25 in (18 cm) | 4.5-5 in (11-13 cm) |
+| 6 | 11-11.5 in (28-29 cm) | 11.5 in (29 cm) | 25-26 in (64-66 cm) | 12 in (30 cm) | 7.75 in (20 cm) | 5-5.5 in (13-14 cm) |
+| 8 | 11.5-12 in (29-30 cm) | 12.25 in (31 cm) | 27-28 in (69-71 cm) | 13 in (33 cm) | 8.25 in (21 cm) | 5.5-6 in (14-15 cm) |
+| 10 | 12-12.5 in (30-32 cm) | 13 in (33 cm) | 28.5-29.5 in (72-75 cm) | 14 in (36 cm) | 8.75 in (22 cm) | 6-6.5 in (15-17 cm) |
 
 ## How to measure yourself
 

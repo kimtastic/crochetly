@@ -1,9 +1,9 @@
 ---
-title: Hat pattern template
-description: Reusable Markdown template for writing and sharing knit or crochet hat patterns with sections for sizing, gauge, materials, and step-by-step directions for crown, body, and brim
+title: Knit Hat pattern template
+description: Reusable Markdown template for writing and sharing knit hat patterns with sections for sizing, gauge, materials, and step-by-step directions for brim, body, and crown
 ---
 
-Use this reusable template to write and share your knit or crochet hat patterns in Markdown. Fill in the bracketed sections with your pattern details. This template works for beanies, slouchy hats, berets, and brimmed hats.
+Use this reusable template to write and share your knit hat patterns in Markdown. Fill in the bracketed sections with your pattern details. This template works for beanies, slouchy hats, berets, and brimmed hats.
 
 **Related guides:** [Hat and scarf measurement guide](/reference/hat-scarf-measurement/)
 
@@ -12,8 +12,8 @@ Use this reusable template to write and share your knit or crochet hat patterns 
 
 Designed by [name] of [company].
 
-**Craft:** [Knit / Crochet]
-**Skill level:** [Beginner / Intermediate / Advanced]
+**Craft:** Knit
+**Skill level:** [Beginner / Easy / Intermediate / Experienced]
 
 This pattern shows you how to make a **[Pattern Name]** , a [describe item: e.g., beanie, slouchy hat, beret, etc.]. It is worked [top-down / bottom-up / in the round / flat] and uses [basic/intermediate/advanced] techniques.
 
@@ -62,7 +62,7 @@ Swatch your stitch pattern in the round if the hat is worked in the round. Wash 
 
 ### Abbreviations
 
-See [abbreviations](/abbreviations/crochet/abbreviations-us/) for standard definitions.
+See [abbreviations](/abbreviations/knit/) for standard definitions.
 
 **Special stitches:** [List any unique stitches used, e.g., Latvian Braid, s2kp, kfb]
 

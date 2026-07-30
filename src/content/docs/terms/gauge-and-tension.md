@@ -50,28 +50,28 @@ Hold your yarn comfortably and practice even stitches. Using the same hook or ne
 
 | Yarn Weight            | Recommended Hook Size (mm) | Gauge (Stitches x Rows per 4")              |
 |-----------------------|----------------------------|---------------------------------------------|
-| **Lace / Fingering**   | 1.6 – 2.25 mm              | 24 – 32 sts, 32 – 40 rows                   |
+| **Lace / Fingering**   | 1.5 – 2.25 mm              | 32 – 42 sts, 32 – 42 rows                   |
 | **Super Fine / Sock**  | 2.25 – 3.5 mm              | 21 – 32 sts, 28 – 36 rows                   |
-| **Fine / Sport**       | 3.5 – 4.5 mm               | 18 – 24 sts, 24 – 32 rows                   |
-| **Light / DK**         | 4.5 – 5.5 mm               | 16 – 20 sts, 22 – 30 rows                   |
-| **Medium / Worsted**   | 5.5 – 6.5 mm               | 14 – 16 sts, 18 – 24 rows                   |
-| **Bulky / Chunky**     | 6.5 – 9 mm                 | 12 – 14 sts, 16 – 20 rows                   |
-| **Super Bulky**        | 9 – 12 mm                  | 10 – 12 sts, 12 – 16 rows                    |
-| **Jumbo / Roving**     | 12 mm and up               | 6 – 10 sts, 10 – 14 rows                     |
+| **Fine / Sport**       | 3.5 – 4.5 mm               | 16 – 20 sts, 24 – 32 rows                   |
+| **Light / DK**         | 4.5 – 5.5 mm               | 12 – 17 sts, 22 – 30 rows                   |
+| **Medium / Worsted**   | 5.5 – 6.5 mm               | 11 – 14 sts, 18 – 24 rows                   |
+| **Bulky / Chunky**     | 6.5 – 9 mm                 | 8 – 11 sts, 16 – 20 rows                    |
+| **Super Bulky**        | 9 – 15 mm                  | 7 – 9 sts, 12 – 16 rows                     |
+| **Jumbo / Roving**     | 15 mm and up               | 6 or fewer sts, 10 – 14 rows                |
 
 
 ## Knitting gauge chart (needle sizes)
 
 | Yarn Weight            | Recommended Needle Size (mm) | Gauge (Stitches x Rows per 4")          |
 |-----------------------|------------------------------|------------------------------------------|
-| **Lace / Fingering**   | 2.25 – 3.25 mm               | 27 – 32 sts, 32 – 40 rows               |
-| **Super Fine / Sock**  | 3.25 – 3.75 mm               | 23 – 26 sts, 28 – 36 rows               |
-| **Fine / Sport**       | 3.75 – 4.5 mm                | 21 – 24 sts, 24 – 32 rows               |
-| **Light / DK**         | 4.5 – 5.5 mm                 | 20 – 22 sts, 22 – 30 rows               |
-| **Medium / Worsted**   | 5.5 – 6.5 mm                 | 16 – 20 sts, 18 – 24 rows               |
-| **Bulky / Chunky**     | 6.5 – 9 mm                   | 12 – 16 sts, 16 – 20 rows               |
-| **Super Bulky**        | 9 – 12 mm                    | 10 – 12 sts, 12 – 16 rows               |
-| **Jumbo / Roving**     | 12 mm and up                 | 6 – 10 sts, 10 – 14 rows                |
+| **Lace / Fingering**   | 1.5 – 2.25 mm               | 33 – 40 sts, 32 – 40 rows               |
+| **Super Fine / Sock**  | 2.25 – 3.25 mm              | 27 – 32 sts, 28 – 36 rows               |
+| **Fine / Sport**       | 3.25 – 3.75 mm              | 23 – 26 sts, 24 – 32 rows               |
+| **Light / DK**         | 3.75 – 4.5 mm               | 21 – 24 sts, 22 – 30 rows               |
+| **Medium / Worsted**   | 4.5 – 5.5 mm                | 16 – 20 sts, 18 – 24 rows               |
+| **Bulky / Chunky**     | 5.5 – 8 mm                  | 12 – 15 sts, 16 – 20 rows               |
+| **Super Bulky**        | 8 – 12.75 mm                | 7 – 11 sts, 12 – 16 rows                |
+| **Jumbo / Roving**     | 12.75 mm and up             | 6 or fewer sts, 10 – 14 rows            |
 
 ## Example swatch chart
 

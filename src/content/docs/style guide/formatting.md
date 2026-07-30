@@ -16,7 +16,7 @@ A brief description of the pattern and what the finished object will be.
 Use Title Case (e.g., "Sunrise Mosaic Shawl"). Keep it descriptive and memorable.
 
 ### Difficulty Level
-Indicate the skill level required.
+Indicate the skill level required using the Craft Yarn Council 4-level system: Beginner / Easy / Intermediate / Experienced. See the [skill levels guide](/reference/skill-levels/) for definitions of each level.
 
 ### Materials List
 A detailed list including yarn specifications (type, weight, color, yardage), hook size, and notions.
@@ -43,4 +43,11 @@ Images of the finished project and progress photos or diagrams.
 State how the pattern can and cannot be used.
 
 **Example:**
-See the [sweater pattern template](/templates/sweater-pattern-template/), [sock pattern template](/templates/sock-pattern-template/), and [other templates](/templates/) for reusable starting points.
+See the [raglan knit sweater pattern template](/templates/raglan-knit-sweater-pattern-template/), [yoke colorwork sweater pattern template](/templates/yoke-colorwork-sweater-pattern-template/), [crochet cardigan pattern template](/templates/crochet-cardigan-pattern-template/), [sock pattern template](/templates/sock-pattern-template/), and [other templates](/templates/) for reusable starting points.
+
+### Punctuation
+
+- **Avoid em dashes.** Use periods or commas instead when separating clauses (e.g., "Swatch in the round. Purl tension differs from knit tension." not "Swatch in the round — purl tension differs from knit tension.")
+- **Use periods at the end of bullet points.** Each bullet should be a complete sentence or a standalone phrase ending with a period.
+
+**Reference guides:** [Care symbols](/reference/care-symbols/), [Grading patterns across sizes](/reference/grading-patterns/), [Knit chart symbols](/reference/knit-chart-symbols/), [Master crochet program](/reference/master-crochet/), [Master knitting program](/knitting-reference/master-knitting/), [Mitten and glove measurements](/reference/mitten-measurements/), [Schematics and garment diagrams](/style%20guide/schematics/), [Skill levels](/reference/skill-levels/), [Sock measurements](/reference/sock-measurements/), [Sweater construction types](/reference/sweater-construction/), [Wraps per inch](/reference/wraps-per-inch/), [Yardage estimation](/reference/yardage-estimation/)
